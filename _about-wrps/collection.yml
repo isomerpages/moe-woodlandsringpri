@@ -1,4 +1,5 @@
 collections:
   about-wrps:
     output: true
-    order: []
+    order:
+      - Principal's Message.md
