@@ -2,6 +2,7 @@ collections:
   about-wrps:
     output: true
     order:
+      - Privacy Policy/FAQ.md
       - Privacy Policy/Privacy Policy.md
       - Privacy Policy/.keep
       - Our Achievements.md
