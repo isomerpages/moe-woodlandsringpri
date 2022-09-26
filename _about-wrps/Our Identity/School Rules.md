@@ -69,3 +69,5 @@ Use simple black/dark blue hair accessories.
 ![](/images/hair.jpg)
 **Girls with Short Hair**
 ![](/images/hair1.jpg)
+**Boys**
+![](/images/hair2.jpg)
