@@ -2,6 +2,7 @@ collections:
   about-wrps:
     output: true
     order:
+      - Our Achievements.md
       - Our Heritage.md
       - Our Identity/School Rules.md
       - Our Identity/School Vision, Mission, Motto, Philosophy and Core Values.md
