@@ -2,5 +2,6 @@ collections:
   about-wrps:
     output: true
     order:
+      - Organisational Chart 2022/Organisational Chart 2022.md
       - Organisational Chart 2022/.keep
       - Principal's Message.md
