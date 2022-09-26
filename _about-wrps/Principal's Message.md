@@ -6,7 +6,7 @@ description: ""
 Principal's Message
 ===================
 
-Welcome to our school website which showcases life and learning at Woodland’s Ring Primary School which is seen as a vibrant hub of learning at the heart of the Woodlands community. As the Principal of the school, I feel honored and privileged to be part of an educational institution where every student, staff member and partner in education subscribes to the simple yet compelling school motto “We do our best”.
+<img src="/images/Principal.jpg" style="width:220px;height:250px;margin-left:15px;" align = "left">Welcome to our school website which showcases life and learning at Woodland’s Ring Primary School which is seen as a vibrant hub of learning at the heart of the Woodlands community. As the Principal of the school, I feel honored and privileged to be part of an educational institution where every student, staff member and partner in education subscribes to the simple yet compelling school motto “We do our best”.
 
   
 
