@@ -58,3 +58,14 @@ All WRPS pupils are to wear the prescribed school uniform (complete with canvas 
   
 
 **No modification to the school uniform is allowed.**
+![](/images/uniform%201.jpg)
+
+Acceptable Hairstyles
+---------------------
+
+**Girls with Long Hair**  
+Plait hair when it is long.   
+Use simple black/dark blue hair accessories.
+![](/images/hair.jpg)
+**Girls with Short Hair**
+![](/images/hair1.jpg)
