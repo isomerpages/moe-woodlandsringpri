@@ -1,0 +1,4 @@
+collections:
+  teams:
+    output: true
+    order: []
