@@ -2,6 +2,7 @@ collections:
   about-wrps:
     output: true
     order:
+      - Our Identity/School Vision, Mission, Motto, Philosophy and Core Values.md
       - Our Identity/Desired Outcomes of Education.md
       - Our Identity/School Song.md
       - Our Identity/School Crest.md
