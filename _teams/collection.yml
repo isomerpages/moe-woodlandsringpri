@@ -1,4 +1,5 @@
 collections:
   teams:
     output: true
-    order: []
+    order:
+      - English Academic Team/.keep
