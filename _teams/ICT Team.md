@@ -36,3 +36,25 @@ Overview
 5.  All Instructional Programmes will include ICT-based Lessons which focus on self-directed and collaborative learning.
 
 6.  Pupils will be responsible for their own well-being online.
+
+### Integration in Curriculum
+
+1.  Infuse ICT skills learn through ICT Learning Journey into the curriculum
+
+2.  Establish a culture where pupils respect other’s work and creation
+
+  
+
+### Professional Development
+
+3.  Create a pool of ICT savvy teachers who are willing to experiment and try new ideas
+
+4.  Establish a culture of transfer of ICT Learning among staff
+
+  
+
+### Pupils’ Training
+
+5.  Provide a platform for pupils to learn independently
+
+6.  Create a pool of ICT savvy pupils to assist teachers and their classmates in the area of ICT/AVA
