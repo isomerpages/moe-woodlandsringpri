@@ -9,3 +9,4 @@ English Academic Team
 
 Team Introduction
 -----------------
+![](/images/values.jpg)
