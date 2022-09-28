@@ -26,3 +26,4 @@ Look who’s hooked on a book! To promote reading as a lifestyle, our school has
   
 
 The main goal of this programme is for pupils to understand the texts read at a deeper level. At the P1 and P2 level, all pupils subscribe to the National Geographic Magazine and teachers would select articles to discuss with the pupils. At the P3 level, they are involved in Spin-a-Tale Programme where every child is given a copy of a twisted tale for them to read and understand the point of view of the different characters. At P3, pupils also subscribe to the Storytime magazine where stories are shared to encourage them to read widely and read for pleasure. To expose our pupils to current affairs, pupils subscribe to Whiz Magazine at P4 and What’s Up Newspaper at P5 and P6 levels. Again as a level, selected articles would be highlighted for explicit teaching.
+![](/images/Reading.jpg)
