@@ -36,3 +36,9 @@ National Calligraphy Competition
 --------------------------------
 
 Last year, WRPS participated in the 2021 “Awe-Inspiring Virtue and Ocean of Wisdom” National Calligraphy Competition. All primary 3 to primary 6 pupils had the opportunity to participate in this competition. 10 of our pupils were awarded consolation prizes and 2 of our pupils managed to enter the finals. Our school was also awarded the “Active School Participation” Award for being one of the school that submitted the most number of entries for this competition. It was indeed a proud moment for WRPS!
+
+![](/images/image.png)
+Photo of one of the finalist ZHAN WEN XUAN from 3 Rose, representing our school to receive the “Active School Participation” award.
+
+![](/images/unnamed.png)
+Photo of one of the finalist, TAN YU HAN from 4 Rose.
