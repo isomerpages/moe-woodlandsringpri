@@ -76,3 +76,54 @@ P4 Cultural Fiesta
 ------------------
 
 The P4 pupils experience a wonderful cross cultural half-day programme through various multicultural traditional activities and hands-on tasks planned for them.
+![](/images/mt4.png)
+
+Cultural Performance Exposure Scheme (CPES)
+-------------------------------------------
+
+An initiative by the Committee to Promote Chinese Language Learning (CPCLL), the Cultural Performance Exposure Scheme (CPES) aims to expose students to Chinese language-related cultural performances by local performing art groups, through attending musical stage play.
+
+  
+
+**Learning journey to SOTA for Chinese Cultural theatre experience.**
+![](/images/mt5.png)
+
+Hooked on Reading (for all levels)
+----------------------------------
+
+\-    Cultivate the love for reading.
+
+  
+
+\-    Expose our pupils to storybooks of different genres.
+
+  
+
+\-    Bi-weekly class reading time and scheduled visit to school library.
+![](/images/mt6.png)
+
+Character and Citizenship Education (MT - CCE)
+----------------------------------------------
+
+a)    CCE Termly Quiz
+
+\-        Pupils take part in the termly quiz while learning about core values, character building and cultures.
+
+  
+
+b)    Moments of Appreciation
+
+\-        Pupils learn the importance of having good relationships with others ie. friends, sibling, parents, teachers etc.
+
+  
+
+\-        Pupils design and create something for people whom they appreciate their relationship
+
+  
+
+\-        Selected good works are also displayed to affirm pupils efforts
+
+  
+
+**Some good works done by our pupils**
+![](/images/mt7.png)
