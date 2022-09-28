@@ -46,3 +46,7 @@ Key Programmes
   </tr>
 </tbody>
 </table>
+
+Physical Education Department
+-----------------------------
+![](/images/staff.jpg)
