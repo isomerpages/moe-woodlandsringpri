@@ -45,3 +45,5 @@ Programmes
 Pupil achievements this year
 ----------------------------
 ![](/images/ML0.png)
+![](/images/ML1.png)
+![](/images/ML2.png)
