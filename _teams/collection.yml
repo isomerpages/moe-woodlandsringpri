@@ -2,6 +2,7 @@ collections:
   teams:
     output: true
     order:
+      - Mother Tongue Academic Teams/Tamil Language Unit.md
       - Mother Tongue Academic Teams/Malay Language Unit.md
       - Mother Tongue Academic Teams/Chinese Language Unit.md
       - Mother Tongue Academic Teams/.keep
