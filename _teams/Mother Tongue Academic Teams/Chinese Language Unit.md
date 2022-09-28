@@ -53,3 +53,20 @@ Chinese New Year Celebration
 ----------------------------
 
 Woodlands Ring Primary School celebrated Chinese New Year this year with pre-recorded performances shown in their classrooms on 31st January 2022. The concert started off with an interesting lion dance performance. Next, there was a video montage of teachers and students sending their well wishes to everyone. Following that, students had their snack break while enjoying Chinese New Year songs. Various CCAs also participated in the celebration and showcased their talents through different performances. Pupils were given the opportunity to record their performances from home and there was even a classroom visit by “God of Fortune” while the celebration was going on! After viewing the performances, the pupils got to learn more about Chinese New Year traditions and customs through a presentation and ended the day by engaging in fun-filled classroom activities led by their form teachers.
+
+
+![](/images/cny.jpg)
+![](/images/cny2.png)
+
+Mid-Autumn Festival competitions
+--------------------------------
+
+As part of the Chinese culture, Lantern Making and Drawing competitions was conducted to promote an interest and awareness of the Mid-Autumn Festival in pupils. We also aim to foster stronger parent-child relationship through the Lantern Making activity.![](/images/mid.png)
+
+MT Fortnight
+------------
+
+The MT Fortnight aims to expose students in the understanding of their own culture and language through active participation in a variety of activities and programmes on a yearly basis for all levels.
+
+![](/images/mt1.png)
+MT Fortnight (CL)
