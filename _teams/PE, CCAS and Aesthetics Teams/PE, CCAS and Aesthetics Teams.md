@@ -67,3 +67,8 @@ Our Students in Active Action
 
 **OUR NEIGHBOURHOOD EXPERIENCE**
 --------------------------------
+![](/images/pe3.png)
+
+**SpA WEEK**
+![](/images/spa1.png)
+![](/images/spa2.png)
