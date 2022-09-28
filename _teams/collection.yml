@@ -2,6 +2,7 @@ collections:
   teams:
     output: true
     order:
+      - Mathematics Academic Team.md
       - English Academic Team/Hooked On Reading.md
       - English Academic Team/English Academic Team.md
       - English Academic Team/.keep
