@@ -70,3 +70,9 @@ The MT Fortnight aims to expose students in the understanding of their own cultu
 
 ![](/images/mt1.png)
 MT Fortnight (CL)
+![](/images/mt3.png)
+
+P4 Cultural Fiesta
+------------------
+
+The P4 pupils experience a wonderful cross cultural half-day programme through various multicultural traditional activities and hands-on tasks planned for them.
