@@ -2,4 +2,5 @@ collections:
   teams:
     output: true
     order:
+      - English Academic Team/English Academic Team.md
       - English Academic Team/.keep
