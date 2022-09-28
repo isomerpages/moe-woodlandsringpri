@@ -42,3 +42,14 @@ Photo of one of the finalist ZHAN WEN XUAN from 3 Rose, representing our school 
 
 ![](/images/unnamed.png)
 Photo of one of the finalist, TAN YU HAN from 4 Rose.
+
+Conversational Chinese Language (CCL) and Conversational Malay Language (CML) Programme
+---------------------------------------------------------------------------------------
+
+The program aims to teach our pupils simple, conversational phrases in other Mother Tongue Language, besides their own. Pupils attend 10 lessons outside curriculum time on a weekly basis.
+
+![](/images/MT.png)
+Chinese New Year Celebration
+----------------------------
+
+Woodlands Ring Primary School celebrated Chinese New Year this year with pre-recorded performances shown in their classrooms on 31st January 2022. The concert started off with an interesting lion dance performance. Next, there was a video montage of teachers and students sending their well wishes to everyone. Following that, students had their snack break while enjoying Chinese New Year songs. Various CCAs also participated in the celebration and showcased their talents through different performances. Pupils were given the opportunity to record their performances from home and there was even a classroom visit by “God of Fortune” while the celebration was going on! After viewing the performances, the pupils got to learn more about Chinese New Year traditions and customs through a presentation and ended the day by engaging in fun-filled classroom activities led by their form teachers.
