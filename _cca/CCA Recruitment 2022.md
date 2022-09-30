@@ -34,3 +34,13 @@ Aesthetics
 <iframe width="419" height="314" src="https://www.youtube.com/embed/uOM9tdvQ4rE" title="Malay Dance Recruitment 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Modern Dance**
+<iframe width="416" height="312" src="https://www.youtube.com/embed/ACtB5m4qHVk" title="Modern Dance Recruitment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Band**
+<iframe width="422" height="316" src="https://www.youtube.com/embed/FOqMPtiUD2I" title="WRPS Band CCA Recruitment 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Choir**
+<iframe width="422" height="316" src="https://www.youtube.com/embed/gg0ihF67rj4" title="Choir Recruitment 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Clubs
+-----
