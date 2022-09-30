@@ -2,8 +2,6 @@ logo: /images/school logo-main.png
 links:
   - title: about WRPS
     collection: about-wrps
-  - title: teams
-    collection: teams
   - title: Teams
     url: /teams/English-Academic-Team/permalink/
     sublinks:
