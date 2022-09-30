@@ -2,10 +2,10 @@ collections:
   cca:
     output: true
     order:
-      - CCA Recruitment 2022.md
       - CCA overview.md
+      - Sports/.keep
       - Sports/Rope Skipping.md
       - Sports/Football.md
       - Sports/Basketball.md
       - Sports/Badminton.md
-      - Sports/.keep
+      - CCA Recruitment 2022.md
