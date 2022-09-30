@@ -4,9 +4,23 @@ links:
     collection: about-wrps
   - title: teams
     collection: teams
-  - title: Menu Title
-    url: /permalink
+  - title: Teams
+    url: /teams/English-Academic-Team/permalink/
     sublinks:
+      - title: English Academic Team
+        url: /teams/English-Academic-Team/permalink/
+      - title: Mathematics Acad
+        url: /teams/mathblablabla
+      - title: Science
+        url: /teams/sciblabla
+      - title: Mother Tongue
+        url: /teams/mothertongue
+      - title: ICT
+        url: /teams/ict
+      - title: PE/Aes
+        url: /teams/peaes
+      - title: CCAS
+        url: /teams/ccas
       - title: Submenu Title
         url: /permalink
   - title: key programme @ wrps
