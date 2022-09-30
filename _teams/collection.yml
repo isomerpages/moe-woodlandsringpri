@@ -2,6 +2,7 @@ collections:
   teams:
     output: true
     order:
+      - PE, CCAS and Aesthetics Teams/CCA.md
       - PE, CCAS and Aesthetics Teams/PE, CCAS and Aesthetics Teams.md
       - PE, CCAS and Aesthetics Teams/.keep
       - ICT Team.md
