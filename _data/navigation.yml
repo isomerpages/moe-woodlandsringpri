@@ -4,6 +4,9 @@ links:
     collection: about-wrps
   - title: teams
     collection: teams
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
   - title: key programme @ wrps
     collection: key-programme-at-wrps
   - title: info for parents
