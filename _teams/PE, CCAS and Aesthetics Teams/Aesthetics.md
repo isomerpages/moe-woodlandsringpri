@@ -4,3 +4,27 @@ permalink: /teams/PE-CCAS-and-Aesthetics-Teams/aesthetics/permalink/
 description: ""
 third_nav_title: PE, CCAS and Aesthetics Teams
 ---
+Aesthetics
+==========
+![](/images/aesthetics.jpg)
+Vision and Mission
+------------------
+
+<table class="iveo_table ives_tab_simple3 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;">Vision</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="528" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;">Expressive and passionate learners in the Arts</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;">Mission</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="528" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;">Nurture students who understand and appreciate Aesthetics and express themselves and communicate with others aesthetically</strong></td></tr></tbody></table>
+
+![](/images/staff.jpg)
+
+| Music Team | Designation |
+| --- | --- |
+| Mr Suresh Govindasamy | Head of Department, PE, Aesthetics & CCA |
+| Mrs Tay Chin Han | Subject Head, Aesthetics |
+| Ms Elanor Yu | Teacher |
+| Ms Marlene Toh | Teacher |
+
+  
+
+| Art Team | Designation |
+| --- | --- |
+| Mdm Norsarah Ramli | Teacher |
+| Mrs Sharon Toh | Teacher |
+| Mr Muhammad | Teacher |
