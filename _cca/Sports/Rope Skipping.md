@@ -28,3 +28,6 @@ Join Us
 
 CCA Participation & Achievements:
 ---------------------------------
+![](/images/rope4.png)
+![](/images/rope5.png)
+![](/images/rope6.png)
