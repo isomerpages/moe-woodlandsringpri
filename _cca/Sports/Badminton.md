@@ -22,8 +22,7 @@ Our Badminton team is made up of Primary 3 to Primary 6 pupils. We focus on help
 Join Us
 -------
 <iframe width="516" height="387" src="https://www.youtube.com/embed/9YXD1Yy10-Q" title="Badminton Recruitment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-CCA Participation & Achievements:
----------------------------------
+
 
 CCA Participation & Achievements:
 ---------------------------------
