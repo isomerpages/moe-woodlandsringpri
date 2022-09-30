@@ -27,4 +27,7 @@ In tandem with MOE’s direction in allowing in-person CCAs for primary schools 
 
   
 
-CCA Schedule
+CCA Schedule   
+[2022 COE _ Term One _ For Pupils.pdf]()    
+[Term 2 CCA Schedule as of 10 March.pdf](/files/Term%202%20CCA%20Schedule%20as%20of%2010%20March.pdf)    
+[Term 3 CCA Schedule.pdf]()
