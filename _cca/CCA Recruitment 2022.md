@@ -55,3 +55,8 @@ Clubs
 
 **Science**
 <iframe width="430" height="322" src="https://www.youtube.com/embed/75l8mMhbtZk" title="Science Club Recruitment 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Uniformed Group
+---------------
+**Scouts**
+<iframe width="455" height="341" src="https://www.youtube.com/embed/tLu1MbjLHq0" title="Scouts Recruitment 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
