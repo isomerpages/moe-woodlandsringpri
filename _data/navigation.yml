@@ -2,5 +2,15 @@ logo: /images/school logo-main.png
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: about WRPS
+    collection: about-wrps
+  - title: teams
+    collection: teams
+  - title: key programme @ wrps
+    collection: key-programme-at-wrps
+  - title: info for parents
+    collection: info-for-parents
+  - title: news & events
+    collection: news-and-events
+  - title: forms/ resources/ useful links
+    collection: about-wrps
