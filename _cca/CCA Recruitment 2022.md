@@ -21,3 +21,11 @@ Sports CCAs
 
 **Football**
 <iframe width="410" height="307" src="https://www.youtube.com/embed/3fbBpzb7GMI" title="Football Club Recruitment 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Aesthetics
+----------
+**Chinese Dance**
+<iframe width="412" height="309" src="https://www.youtube.com/embed/WfQPzdOlNRA" title="WRPS Chinese Dance E Recruitment 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Indian Dance**
+<iframe width="416" height="311" src="https://www.youtube.com/embed/YfePAFCIXuI" title="WRP Indian Dance 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
