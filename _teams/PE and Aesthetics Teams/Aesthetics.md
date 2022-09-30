@@ -41,3 +41,4 @@ Vision and Mission
 **WRPS Idol**
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRi2hVmhkK04wu4dNtgRDgVPBWyenOZK_a53Qs8PfRHb8wgbzwC_As6ZpcmsKCS-aZF8wc_sHssTFWn/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
+**Lower Primary Drawing, Colouring & Painting Modules**
