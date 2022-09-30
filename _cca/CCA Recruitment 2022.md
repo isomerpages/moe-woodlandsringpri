@@ -29,3 +29,8 @@ Aesthetics
 
 **Indian Dance**
 <iframe width="416" height="311" src="https://www.youtube.com/embed/YfePAFCIXuI" title="WRP Indian Dance 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Malay Dance**
+<iframe width="419" height="314" src="https://www.youtube.com/embed/uOM9tdvQ4rE" title="Malay Dance Recruitment 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Modern Dance**
