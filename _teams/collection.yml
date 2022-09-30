@@ -2,8 +2,6 @@ collections:
   teams:
     output: true
     order:
-      - CCA/CCA.md
-      - CCA/.keep
       - PE, Aesthetics Teams/.keep
       - PE, Aesthetics Teams/Physical Education.md
       - PE, Aesthetics Teams/Aesthetics.md
