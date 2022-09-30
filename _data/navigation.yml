@@ -1,7 +1,5 @@
 logo: /images/school logo-main.png
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: about WRPS
     collection: about-wrps
   - title: teams
