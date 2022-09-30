@@ -21,3 +21,10 @@ Rope-skipping is a holistic sport which hones mental strength and physical endur
 ![](/images/rope2.jpg)
 
 ![](/images/rope3.jpg)
+
+Join Us
+-------
+(rope video has to be uploaded to youtube)
+
+CCA Participation & Achievements:
+---------------------------------
