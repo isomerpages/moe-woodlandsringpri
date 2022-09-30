@@ -52,3 +52,6 @@ Clubs
 
 **Drama and Literacy**
 <iframe width="429" height="321" src="https://www.youtube.com/embed/57nVqk8pM2Q" title="Drama & Literary Club Recruitment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Science**
+<iframe width="430" height="322" src="https://www.youtube.com/embed/75l8mMhbtZk" title="Science Club Recruitment 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
