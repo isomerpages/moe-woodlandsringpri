@@ -44,3 +44,11 @@ Aesthetics
 
 Clubs
 -----
+**Art and Craft**
+<iframe width="435" height="325" src="https://www.youtube.com/embed/Z9zX4UxmeUU" title="Art & Crafts Club Recruitment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Infocomm**
+<iframe width="435" height="326" src="https://www.youtube.com/embed/E5jQ3f_cez0" title="Infocomm Club Recruitment 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Drama and Literacy**
+<iframe width="429" height="321" src="https://www.youtube.com/embed/57nVqk8pM2Q" title="Drama & Literary Club Recruitment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
