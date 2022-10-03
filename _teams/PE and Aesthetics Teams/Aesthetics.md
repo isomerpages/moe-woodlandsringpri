@@ -43,3 +43,4 @@ Vision and Mission
 
 **Lower Primary Drawing, Colouring &amp; Painting Modules**
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSaciCIZZ03jiATxpynNongu1oK1XhUngDqcuWXebqSOYF-mzZlXG1RbK0XyosVn84xE-5BKkSRZCxD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
