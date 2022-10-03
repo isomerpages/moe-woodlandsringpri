@@ -67,3 +67,4 @@ _United, determined and well-prepared, we have what it takes to build a bright f
 *   Racial Harmony Day
 *   National Day
 
+![](/images/citizen.png)
