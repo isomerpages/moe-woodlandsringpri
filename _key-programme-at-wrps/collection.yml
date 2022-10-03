@@ -2,4 +2,5 @@ collections:
   key-programme-at-wrps:
     output: true
     order:
+      - "ALP: BeST@WRPS.md"
       - Key Programme@WRPS.md
