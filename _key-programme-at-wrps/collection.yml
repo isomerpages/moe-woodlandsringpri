@@ -1,4 +1,5 @@
 collections:
   key-programme-at-wrps:
     output: true
-    order: []
+    order:
+      - Key Programme@WRPS.md
