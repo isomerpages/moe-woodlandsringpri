@@ -2,6 +2,7 @@ collections:
   teams:
     output: true
     order:
+      - CCE Team/CCE Team.md
       - CCE Team/.keep
       - English Academic Team/.keep
       - English Academic Team/English Academic Team.md
