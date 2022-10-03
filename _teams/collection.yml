@@ -2,6 +2,7 @@ collections:
   teams:
     output: true
     order:
+      - CCE Team/Sexuality Education.md
       - CCE Team/Citizenship.md
       - CCE Team/CCE Team.md
       - CCE Team/.keep
