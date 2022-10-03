@@ -21,3 +21,6 @@ Objectives
 
 _Cited from [Shell Traffic Game website.html](https://www.shell.com.sg/sustainability/communities/shell-traffic-games.html#vanity-aHR0cHM6Ly93d3cuc2hlbGwuY29tLnNnL2Vudmlyb25tZW50LXNvY2lldHkvc2hlbGwtaW4tdGhlLXNvY2lldHkvc2hlbGwtY29tbXVuaXR5LXByb2dyYW1tZXMvcm9hZC1zYWZldHkuaHRtbA)_
 
+![](/images/well1.png)
+![](/images/well2.png)
+![](/images/well3.png)
