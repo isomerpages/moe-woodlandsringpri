@@ -2,6 +2,7 @@ collections:
   teams:
     output: true
     order:
+      - Student Management Team/.keep
       - CCE Team/.keep
       - CCE Team/CCE Team.md
       - CCE Team/Citizenship.md
