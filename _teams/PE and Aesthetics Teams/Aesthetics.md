@@ -46,3 +46,5 @@ Vision and Mission
 
 **Primary 3 &amp; 4 Ceramics Enrichment Programme**
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-Fnp9b4lqBv0TXluPmQgmXUlvUGL6P_psBXki2yTYoo2QnDmTuY-IcOPq4ZgZ0aR6eLzEBX8hqHUw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+**Upper Primary self-portraits and superheroes digital art modules**
