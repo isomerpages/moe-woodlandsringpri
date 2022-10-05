@@ -24,3 +24,12 @@ In the first two lessons of the ALP lessons, the students will learn about desig
 
 During the design thinking process,the students work on the Empathy map and “How might we” challenge statement based on the provided persona. The students brainstormed in creating the board games.
 
+![](/images/alp8.png)
+
+These are some interesting board games created by the students. The one on the left was very interesting. It was a vending machine game.
+
+![](/images/alp9.png)
+
+The students were so engaged in this game making and design that they brought down their board games and played during recess.
+
+![](/images/alp10.png)
