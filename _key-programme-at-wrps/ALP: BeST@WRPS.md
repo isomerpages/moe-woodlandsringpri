@@ -15,3 +15,6 @@ Woodlands Ring Primary School is offering STEM Applied Learning Programme,Â **â€
 ![](/images/alp1.png)
 ![](/images/alp2.png)
 ![](/images/alp3.png)
+![](/images/alp4.png)
+![](/images/alp5.png)
+![](/images/alp6.png)
