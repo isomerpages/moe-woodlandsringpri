@@ -18,3 +18,9 @@ Woodlands Ring Primary School is offering STEM Applied Learning Programme, **�
 ![](/images/alp4.png)
 ![](/images/alp5.png)
 ![](/images/alp6.png)
+
+In the first two lessons of the ALP lessons, the students will learn about design thinking process by carrying out the marshmallow Tower challenge. The students worked together to build the tallest tower.
+![](/images/alp7.png)
+
+During the design thinking process,the students work on the Empathy map and “How might we” challenge statement based on the provided persona. The students brainstormed in creating the board games.
+
