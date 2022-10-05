@@ -2,6 +2,7 @@ collections:
   key-programme-at-wrps:
     output: true
     order:
+      - Hooked on Reading.md
       - "LLP: I Can Soar Leadership.md"
       - "ALP: BeST@WRPS.md"
       - Key Programme@WRPS.md
