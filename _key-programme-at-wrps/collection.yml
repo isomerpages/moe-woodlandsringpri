@@ -2,6 +2,7 @@ collections:
   key-programme-at-wrps:
     output: true
     order:
+      - Fame@WRPS.md
       - POWER.md
       - Hooked on Reading.md
       - "LLP: I Can Soar Leadership.md"
