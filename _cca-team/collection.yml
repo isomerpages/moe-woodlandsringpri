@@ -1,5 +1,5 @@
 collections:
-  cca:
+  cca-team:
     output: true
     order:
       - CCA overview.md
