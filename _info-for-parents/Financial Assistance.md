@@ -49,8 +49,7 @@ There are various non-profit organizations in Singapore providing financial assi
 
   
 
-**Ministry of Community Development, Youth and Sports**
-
+**Ministry of Community Development, Youth and Sports**   
 512A Thomson Road #02-01/09   
 SLF Podium S(298137)   
 Tel: 6355 5000  
@@ -59,8 +58,7 @@ Fax: 6353 6695
 
   
 
-**Chinese Development Assistance Council (CDAC)**
-
+**Chinese Development Assistance Council (CDAC)**  
 [https://www.cdac.org.sg/en/](https://www.cdac.org.sg/en/)  
 Mendaki  
 51 Kee Sun Avenue (off Tay Lian Teck Road)  
