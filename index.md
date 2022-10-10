@@ -8,7 +8,7 @@ notification: PASSIONATE LEARNERS, GRACIOUS CITIZENS
 sections:
   - hero:
       subtitle: Every child is unique and able to excel
-      background: /images/hero-banner.png
+      background: /images/homepage.gif
       key_highlights:
         - title: News & Events
           description: ""
