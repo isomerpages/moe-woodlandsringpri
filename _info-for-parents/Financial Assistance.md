@@ -70,16 +70,11 @@ Tel: 6245 5555
 
   
 
-**SINDA (Singapore Indian Development Association)**
-
-No 1. Beatty Road
-
-Singapore 209943
-
-Main Tel. Line: 6298 5911
-
-Fax Line: 6392 4300
-
+**SINDA (Singapore Indian Development Association)**  
+No 1. Beatty Road  
+Singapore 209943  
+Main Tel. Line: 6298 5911  
+Fax Line: 6392 4300  
 [http://www.sinda.org.sg/scholarshipsbursaries/](http://www.sinda.org.sg/scholarshipsbursaries/)
 
   
