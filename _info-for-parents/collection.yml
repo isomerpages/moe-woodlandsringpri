@@ -2,6 +2,7 @@ collections:
   info-for-parents:
     output: true
     order:
+      - Financial Assistance.md
       - Homework Policy.md
       - SLS.md
       - COE or Circulars 2022 (to be updated soon).md
