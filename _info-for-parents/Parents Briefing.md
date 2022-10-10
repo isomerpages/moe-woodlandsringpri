@@ -14,3 +14,6 @@ PRIMARY 1
 PRIMARY 2
 <iframe width="1280" height="584" src="https://www.youtube.com/embed/23Ywrc4LUg8" title="SCHOOL LEADERS' VIDEO FOR PARENTS' ENGAGEMENT SESSION 2022 (PRIMARY 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+PRIMARY 3
+<iframe width="1166" height="656" src="https://www.youtube.com/embed/cSHPfR_VW24" title="P3 Parents' Engagement Session" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
