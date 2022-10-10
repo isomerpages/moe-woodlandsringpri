@@ -10,11 +10,11 @@ sections:
       subtitle: Every child is unique and able to excel
       background: /images/hero-banner.png
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: News & Events
+          description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: forms/ resources/ useful links
+          description: ""
           url: https://gmail.com
       title: WRPS
 ---
