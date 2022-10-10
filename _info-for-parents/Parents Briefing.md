@@ -25,3 +25,7 @@ PRIMARY 5
 
 PRIMARY 6
 <iframe width="1268" height="713" src="https://www.youtube.com/embed/9Ehw-hAY5vg" title="P6 Parents' Engagement Session" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Primary 3 HMTL 2023 Information Slides
+--------------------------------------
+[P3 HMTL_Briefing Slides for parents 3rd Oct 2022.pdf](/files/P3%20HMTL_Briefing%20Slides%20for%20parents%203rd%20Oct%202022.pdf)
