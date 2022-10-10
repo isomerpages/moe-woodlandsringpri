@@ -17,7 +17,7 @@ COE / Circulars 2022 (to be updated soon)
     <td>Skills and Topics (Semester 1)</td>
   </tr>
   <tr>
-    <td>insert here<br></td>
+    <td>[2022 COE _ Term One _ For Pupils.pdf](/files/2022%20COE%20_%20Term%20One%20_%20For%20Pupils.pdf)<br></td>
     <td></td>
   </tr>
 </tbody>
