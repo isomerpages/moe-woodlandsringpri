@@ -2,6 +2,7 @@ collections:
   info-for-parents:
     output: true
     order:
+      - Covid Precautionary Measures.md
       - Parents in Education/PSLE.md
       - Parents in Education/Parents in Education.md
       - Parents in Education/.keep
