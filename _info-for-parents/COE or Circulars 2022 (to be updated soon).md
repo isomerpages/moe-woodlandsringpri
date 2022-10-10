@@ -17,4 +17,4 @@ COE / Circulars 2022 (to be updated soon)
 | [2021 P3 SEMESTER 1_SKILLS TOPICS.pdf](/files/p3.pdf) 	|
 | [2021 P4 SEMESTER 1 _ SKILLS TOPICS.pdf](/files/p4.pdf) 	|
 | [2021 P5 Std Fdn with HMT Sem 1 Skills and Topics.pdf](/files/p5.pdf) 	|
-| 2021 P6 Std Fdn with HMT Sem 1 Skills and Topics.pdf 	|
+| [2021 P6 Std Fdn with HMT Sem 1 Skills and Topics.pdf](/files/p6.pdf) 	|
