@@ -14,7 +14,7 @@ COE / Circulars 2022 (to be updated soon)
 | Skills and Topics (Semester 1) 	|
 |---	|
 | [2021 P2 Holistic Assessment_Semester 1.pdf](/files/p2.pdf) 	|
-| 2021 P3 SEMESTER 1_SKILLS TOPICS.pdf 	|
-| 2021 P4 SEMESTER 1 _ SKILLS TOPICS.pdf 	|
-| 2021 P5 Std Fdn with HMT Sem 1 Skills and Topics.pdf 	|
+| [2021 P3 SEMESTER 1_SKILLS TOPICS.pdf](/files/p3.pdf) 	|
+| [2021 P4 SEMESTER 1 _ SKILLS TOPICS.pdf](/files/p4.pdf) 	|
+| [2021 P5 Std Fdn with HMT Sem 1 Skills and Topics.pdf](/files/p5.pdf) 	|
 | 2021 P6 Std Fdn with HMT Sem 1 Skills and Topics.pdf 	|
