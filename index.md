@@ -4,7 +4,8 @@ title: Woodlands Ring Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: WRPS | Every child is unique and able to excel | PASSIONATE
+  LEARNERS, GRACIOUS CITIZENS
 sections:
   - hero:
       title: Hero title
@@ -29,5 +30,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
