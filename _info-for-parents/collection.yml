@@ -2,4 +2,5 @@ collections:
   info-for-parents:
     output: true
     order:
+      - SLS.md
       - COE or Circulars 2022 (to be updated soon).md
