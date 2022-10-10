@@ -2,18 +2,18 @@ collections:
   about-wrps:
     output: true
     order:
-      - Privacy Policy/FAQ.md
-      - Privacy Policy/Privacy Policy.md
-      - Privacy Policy/.keep
-      - Our Achievements.md
-      - Our Heritage.md
+      - Principal's Message.md
+      - Organisational Chart 2022/.keep
+      - Organisational Chart 2022/School Management Committee.md
+      - Organisational Chart 2022/Organisational Chart 2022.md
+      - Our Identity/.keep
       - Our Identity/School Rules.md
       - Our Identity/School Vision, Mission, Motto, Philosophy and Core Values.md
       - Our Identity/Desired Outcomes of Education.md
       - Our Identity/School Song.md
       - Our Identity/School Crest.md
-      - Our Identity/.keep
-      - Organisational Chart 2022/School Management Committee.md
-      - Organisational Chart 2022/Organisational Chart 2022.md
-      - Organisational Chart 2022/.keep
-      - Principal's Message.md
+      - Our Heritage.md
+      - Our Achievements.md
+      - Privacy Policy/.keep
+      - Privacy Policy/FAQ.md
+      - Privacy Policy/Privacy Policy.md
