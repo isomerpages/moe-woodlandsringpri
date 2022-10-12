@@ -21,3 +21,5 @@ The Horizon Issue 1 2022
 ![](/images/news8.jpg)
 ![](/images/news9.jpg)
 ![](/images/news10.jpg)
+![](/images/news11.jpg)
+![](/images/news12.jpg)
