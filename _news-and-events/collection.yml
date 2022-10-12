@@ -2,4 +2,5 @@ collections:
   news-and-events:
     output: true
     order:
+      - Photo Gallery/Photo Gallery.md
       - Photo Gallery/.keep
