@@ -19,7 +19,7 @@ To develop a school-wide reading culture and getting pupils hooked on books, we 
 
 Look who’s hooked on a book! To promote reading as a lifestyle, our school has recently launched an incentive programme to encourage pupils to read enthusiastically during their free pockets of time. Pupils caught reading outside the classrooms and library were featured prominently on display boards and given stickers which can be exchanged for gifts at the end of the semester. This form of extrinsic motivation, along with a host of reading events lined up for the year, will raise our pupils to become eager readers for life. So hurry, let’s get caught reading!
 
-![](/images/Catch.jpg)
+<img src="/images/Catch.jpg" style="width:50%">
 
 #### INTENSIVE READING PROGRAMME
 
