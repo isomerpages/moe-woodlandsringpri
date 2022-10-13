@@ -12,6 +12,6 @@ sections:
       key_highlights:
         - title: forms/ resources/ useful links
           description: Click here!
-          url: https://gmail.com
+          url: https://www.open.gov.sg/forms-resources-useful-links/forms/permalink/
       title: WRPS
 ---
