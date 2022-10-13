@@ -7,7 +7,8 @@ third_nav_title: Organisational Chart 2022
 School Management Committee
 ===========================
 
-![](/images/KPS4.png)
+<img src="/images/KPS4.png" style="width:50%">
+
 ![](/images/KP1.png)
 ![](/images/KP2.png)
 ![](/images/KP3.png)
