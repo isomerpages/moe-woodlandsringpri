@@ -2,6 +2,7 @@ collections:
   forms-resources-useful-links:
     output: true
     order:
+      - Contact Us.md
       - Strictly for Teachers Only.md
       - Useful Links.md
       - Forms.md
