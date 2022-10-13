@@ -8,5 +8,6 @@ Organisational Chart 2022
 =========================
 ![](/images/SLs.png)   
 
-![](/images/SL1.png)
-![](/images/SL2.png)
+<img src="/images/SL1.png" style="width:50%">
+
+<img src="/images/SL2.png" style="width:50%">
