@@ -6,7 +6,7 @@ third_nav_title: English Academic Team
 ---
 Hooked On Reading
 =================
-<img src="/images/Logo.png" style="width:40%">
+<img src="/images/Logo.png" style="width:30%">
 
 ![](/images/Hooked.png)
 
