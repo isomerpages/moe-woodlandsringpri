@@ -6,7 +6,7 @@ third_nav_title: Our Identity
 ---
 School Crest
 ============
-![](/images/crest.gif)
+<img src="/images/crest.gif" style="width:50%">
 The colours, white, blue and green reflect honesty, harmony and vitality respectively.
 
   
