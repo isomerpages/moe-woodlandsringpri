@@ -18,4 +18,5 @@ School Management Committee
 ![](/images/KP7.png)
 ![](/images/KP8.png)
 ![](/images/KP9.png)
-![](/images/KP10.png)![](/images/KP11.png)
+![](/images/KP10.png)
+![](/images/KP11.png)
