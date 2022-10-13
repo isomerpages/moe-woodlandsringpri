@@ -5,7 +5,7 @@ description: ""
 ---
 Our Achievements
 ================
-![](/images/SA.jpg)
+<img src="/images/SA.jpg" style="width:50%">
 
 **Woodlands Ring Primary School is proud to receive the following awards:**
 
