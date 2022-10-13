@@ -6,7 +6,7 @@ third_nav_title: Organisational Chart 2022
 ---
 Organisational Chart 2022
 =========================
-![](/images/SLs.png)   
+<img src="/images/SLs.png" style="width:50%">
 
 <img src="/images/SL1.png" style="width:50%">
 
