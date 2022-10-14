@@ -16,6 +16,7 @@ Our Basketball CCA was started in 2016. Known as the WRPS Eagles, our Basketball
 
 Selected students are invited to join in P3. Pupils who show potential in the sport will be identified for school team selection training. The selected students will have the opportunity to represent our school in various competitions.
 ![](/images/staff.jpg)
+
 | Teachers In-Charge |
 | --- |
 | Ms Tan Yan Lin (IC) |
