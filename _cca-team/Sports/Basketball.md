@@ -27,7 +27,7 @@ Selected students are invited to join in P3. Pupils who show potential in the sp
 
 Join Us
 -------
-(Basketball video to be uploaded to youtube)
+<iframe width="405" height="303" src="https://www.youtube.com/embed/GQKCgcK_5Sk" title="Basketball Recruitment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 CCA Participation & Achievements:
 ---------------------------------
