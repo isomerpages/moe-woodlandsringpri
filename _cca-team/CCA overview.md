@@ -27,6 +27,6 @@ In tandem with MOE’s direction in allowing in-person CCAs for primary schools 
   
 
 CCA Schedule   
-[2022 COE _ Term One _ For Pupils.pdf]()   
-[Term 2 CCA Schedule as of 10 March.pdf]()   
-[Term 3 CCA Schedule.pdf]()
+[2022 COE _ Term One _ For Pupils.pdf](/files/2022%20COE%20_%20Term%20One%20_%20For%20Pupils%20(1).pdf)   
+[Term 2 CCA Schedule as of 10 March.pdf](/files/Term%202%20CCA%20Schedule%20as%20of%2010%20March.pdf)   
+[Term 3 CCA Schedule.pdf](/files/Term%203%20CCA%20Schedule.pdf)
