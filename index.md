@@ -13,9 +13,9 @@ sections:
         - title: Jee Sing fashion (online purchase of school uniform)
           description: To book appointment
           url: https://jeepsinguniform.com/pages/appointment-booking
-        - title: highlights
-          description: Key Highlight description
-          url: ""
+        - title: wrps virtual open house
+          description: Click here for more info
+          url: https://sites.google.com/moe.edu.sg/wrps-virtual-open-house-2020/home
         - title: ""
           description: Key Highlight description
           url: ""
