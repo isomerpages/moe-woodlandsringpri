@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Photo Gallery/.keep
-      - Photo Gallery/2020.md
       - Photo Gallery/Photo Gallery.md
+      - Photo Gallery/2020.md
       - Horizon Newsletter.md
