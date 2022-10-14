@@ -7,6 +7,7 @@ third_nav_title: Sports
 Rope Skipping
 =============
 ![](/images/staff.jpg)
+
 | Teachers In-Charge |
 | --- |
 | Ms Hong Guey Lian ( I/C ) |
