@@ -4,8 +4,8 @@ collections:
     order:
       - CCA overview.md
       - Sports/.keep
-      - Sports/Rope Skipping.md
-      - Sports/Football.md
-      - Sports/Basketball.md
       - Sports/Badminton.md
+      - Sports/Basketball.md
+      - Sports/Football.md
+      - Sports/Rope Skipping.md
       - CCA Recruitment 2022.md
