@@ -4,9 +4,6 @@ permalink: /teams/physical-education/permalink/
 description: ""
 third_nav_title: PE and Aesthetics Teams
 ---
-
-
-
 PE / CCAS / Aesthetics Teams
 ============================
 #### Physical Education
@@ -54,7 +51,6 @@ Physical Education Department
 -----------------------------
 ![](/images/staff.jpg)
 | **Name** 	| **Designation** 	|
-|---	|:---:	|
 | **Mr Suresh Govindasamy** 	| **Head of Department, PE, Aesthetics & CCA** 	|
 | **Mr Mohd Rahim Bin Abdullah** 	| **Subject Head Physical Education** 	|
 | **Mr Mohd Ramdan Bin MM** 	| **Senior Teacher Physical Education** 	|
