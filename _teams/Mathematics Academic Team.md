@@ -33,7 +33,6 @@ Mathematics Department
 ----------------------
 ![](/images/staff.jpg)
 | **Name** 	| **Designation** 	|
-|:---:	|:---:	|
 | **Mr Danny Mikhail Chay** 	| **Head of Department, Mathematics** 	|
 | **Mdm Siti Mariam**<br>**Mrs Karine Kheng** 	| **Subject Head, Mathematics**<br>**Senior Teacher, Mathematics** 	|
 
