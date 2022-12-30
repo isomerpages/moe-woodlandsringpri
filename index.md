@@ -10,7 +10,7 @@ sections:
       subtitle: Every child is unique and able to excel
       background: /images/homepage.gif
       key_highlights:
-        - title: Jee Sing fashion (online purchase of school uniform)
+        - title: Jeep Sing fashion (online purchase of school uniform)
           description: To book appointment
           url: https://jeepsinguniform.com/pages/appointment-booking
         - title: wrps virtual open house
