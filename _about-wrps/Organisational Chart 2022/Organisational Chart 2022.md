@@ -10,12 +10,9 @@ Organisational Chart 2023
 
 <img src="/images/Geetha.jpg" style="width:30%">
 
-#### MISS GEETHA DORAISAMY
 
 
 <img src="/images/Mr Lim Kim Thye.jpg" style="width:30%">
 
 
 <img src="/images/SL2.png" style="width:70%">
-
-
