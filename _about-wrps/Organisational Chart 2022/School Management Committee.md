@@ -8,8 +8,13 @@ School Management Committee
 ===========================
 
 <img src="/images/MGTCOM1.png" style="width:120%">
-<img src="/images/MGTCOM2.png"style="width:90%">
-<img src="/images/MGTCOM3.png"style="width:90%">
-<img src="/images/MGTCOM4.png"style="width:90%">
-<img src="/images/MGTCOM51.png"style="width:90%">
-<img src="/images/MGTCOM6.png"style="width:70%">
+
+<img src="/images/MGTCOM2.png" style="width:90%">
+
+<img src="/images/MGTCOM3.png" style="width:90%">
+
+<img src="/images/MGTCOM4.png" style="width:90%">
+
+<img src="/images/MGTCOM51.png" style="width:90%">
+
+<img src="/images/MGTCOM6.png" style="width:70%">
