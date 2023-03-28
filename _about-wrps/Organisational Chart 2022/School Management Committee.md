@@ -8,7 +8,7 @@ School Management Committee
 ===========================
 
 <img src="/images/MGTCOM1.png" style="width:120%">
-<img src="/images/MGTCOM2.png"style="width:100%">
+<img src="/images/MGTCOM2.png"style="width:90%">
 
 
 
