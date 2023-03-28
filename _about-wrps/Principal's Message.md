@@ -5,5 +5,4 @@ description: ""
 ---
 Principal's Message
 ===================
-
 <img src="/images/PMess1.png" style="width:200%">
