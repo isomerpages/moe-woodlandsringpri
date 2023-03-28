@@ -7,6 +7,8 @@ third_nav_title: Organisational Chart 2022
 Organisational Chart 2023
 =========================
 <img src="/images/SLs.png" style="width:50%">
+Ms Geetha Doraisamy 
+Principal
 
 
 <img src="/images/Geetha.jpg" style="width:30%">
