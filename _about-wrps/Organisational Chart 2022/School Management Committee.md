@@ -13,5 +13,3 @@ School Management Committee
 <img src="/images/MGTCOM4.png"style="width:90%">
 <img src="/images/MGTCOM51.png"style="width:90%">
 <img src="/images/MGTCOM6.png"style="width:70%">
-
-
