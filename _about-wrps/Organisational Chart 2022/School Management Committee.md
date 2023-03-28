@@ -7,7 +7,7 @@ third_nav_title: Organisational Chart 2022
 School Management Committee
 ===========================
 
-<img src="/images/MGTCOM1.png" style="width:110%">
+<img src="/images/MGTCOM1.png" style="width:120%">
 <img src="/images/MGTCOM2.png"style="width:100%">
 
 
