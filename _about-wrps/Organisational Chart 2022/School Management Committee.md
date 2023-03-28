@@ -9,7 +9,7 @@ School Management Committee
 
 <img src="/images/KPS4.png" style="width:50%">
 
-![](/images/KP1.png)
+
 ![](/images/KP2.png)
 ![](/images/KP3.png)
 ![](/images/KP4.png)
