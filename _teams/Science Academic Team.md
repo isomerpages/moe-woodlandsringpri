@@ -3,7 +3,6 @@ title: Science Academic Team
 permalink: /teams/science-academic-team/permalink/
 description: ""
 ---
-
 Science Academic Team
 =====================
 
@@ -31,7 +30,7 @@ Science Department
 
 | Name | Designation |
 | --- | --- |
-| **Mdm Saliema Mohd Iqbal** | **HOD / Science (Covering)** |
+| **Mr Arulchandran** | **HOD / Science** |
 | **Mrs Jenny Ong** | **LH / Science** |
 | **Mr Chua Ching Chong** | **SH / Environment Education** |
   
