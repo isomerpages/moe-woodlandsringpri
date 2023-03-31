@@ -40,7 +40,10 @@ Last year, WRPS participated in the 2021 “Awe-Inspiring Virtue and Ocean of Wi
 <img src="/images/image.png" style="width:50%">
 Photo of one of the finalist ZHAN WEN XUAN from 3 Rose, representing our school to receive the “Active School Participation” award.
 
+
 <img src="/images/unnamed.png" style="width:50%">
+
+
 Photo of one of the finalist, TAN YU HAN from 4 Rose.
 
 Conversational Chinese Language (CCL) and Conversational Malay Language (CML) Programme
