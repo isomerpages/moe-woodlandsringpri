@@ -6,13 +6,13 @@ description: ""
 COE / Circulars 2023 (to be updated soon)
 =========================================
 
-| Term 1 2022 	|  	|
+| Term 2 2023 	|  	|
 |:---:	|:---:	|
 | COE/Circulars 	| Skills and Topics (Semester 1) 	|
 | [2022 COE _ Term One _ For Pupils.pdf](/files/2022%20COE%20_%20Term%20One%20_%20For%20Pupils%20(1).pdf) 	|  	|
 
 
-| Skills and Topics (Semester 1) 	|
+| Skills and Topics (Semester 1 2023) (To be updated) 	|
 |---	|
 | [2021 P2 Holistic Assessment_Semester 1.pdf](/files/p2.pdf) 	|
 | [2021 P3 SEMESTER 1_SKILLS TOPICS.pdf](/files/p3.pdf) 	|
