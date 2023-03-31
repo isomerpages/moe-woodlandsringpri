@@ -119,7 +119,7 @@ Tamil Language Unit
 
   
 
-மகாகவி சுப்பிரமணிய பாரதியார்
+மகாகவி&nbsp;சுப்பிரமணிய பாரதியார்
 
 Introduction
 ------------
@@ -138,7 +138,6 @@ Vision and Mission
 | --- | --- |
 | Ms Santhi Kalimuthu | ST / TL |
 | Mdm Puspaja Menon | TL Coordinator |
-| Ms Uma Maheswari | TL Teacher |
 | Mdm Gomathi | TL Teacher |
 
 Internal Language-Based Competitions
