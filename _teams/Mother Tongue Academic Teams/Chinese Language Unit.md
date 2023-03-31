@@ -26,7 +26,7 @@ Vision and Mission
 | Mdm Mah Wai Mei | Level Head |
 | Mdm Liang Gui Ping | ST / CL |
 
-<table class="iveo_table ives_tab_simple3 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="500px" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px; list-style-type: disc;"><li style="margin: 0px; outline: 0px; padding: 0px;">Mdm Huang Wanqi, Queenie</li><li style="margin: 0px; outline: 0px; padding: 0px;">Mdm Lin Lu</li><li style="margin: 0px; outline: 0px; padding: 0px;">Mdm Ng Lay Peng</li><li style="margin: 0px; outline: 0px; padding: 0px;">Mdm Law Qianyu Diana</li><li style="margin: 0px; outline: 0px; padding: 0px;">Mdm Ren Si Xuan</li><li style="margin: 0px; outline: 0px; padding: 0px;">Ms Hong Guey Lian</li></ul></ul></ul></ul></div></td><td width="500px" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px; list-style-type: disc;"><li style="margin: 0px; outline: 0px; padding: 0px;">Mdm Koh Mui Lin Patricia</li><li style="margin: 0px; outline: 0px; padding: 0px;">Ms Yeow Shiok Li</li><li style="margin: 0px; outline: 0px; padding: 0px;">Ms Chan Pei Kee</li><li style="margin: 0px; outline: 0px; padding: 0px;">Mr Shan Quan</li><li style="margin: 0px; outline: 0px; padding: 0px;">Mdm Lee Yin<span>&nbsp;</span></li></ul></ul></ul></ul></div></td></tr></tbody></table>
+<table class="iveo_table ives_tab_simple3 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="500px" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px; list-style-type: disc;"><li style="margin: 0px; outline: 0px; padding: 0px;">Mdm Huang Wanqi, Queenie</li><li style="margin: 0px; outline: 0px; padding: 0px;">Mdm Lin Lu</li><li style="margin: 0px; outline: 0px; padding: 0px;">Mdm Ng Lay Peng</li><li style="margin: 0px; outline: 0px; padding: 0px;">Mdm Law Qianyu Diana</li><li style="margin: 0px; outline: 0px; padding: 0px;">Mdm Ren Si Xuan</li><li style="margin: 0px; outline: 0px; padding: 0px;">Ms Hong Guey Lian</li></ul></ul></ul></ul></div></td><td width="500px" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px; list-style-type: disc;"><li style="margin: 0px; outline: 0px; padding: 0px;">Mdm Koh Mui Lin Patricia</li><li style="margin: 0px; outline: 0px; padding: 0px;">Ms Yeow Shiok Li</li><li style="margin: 0px; outline: 0px; padding: 0px;">Ms Chan Pei Kee</li><li style="margin: 0px; outline: 0px; padding: 0px;">Mr Shan Quan</li><li style="margin: 0px; outline: 0px; padding: 0px;">Mdm Lee Yin Yin<span>&nbsp;</span></li></ul></ul></ul></ul></div></td></tr></tbody></table>
 
 Specific Programmes
 -------------------
@@ -92,37 +92,37 @@ An initiative by the Committee to Promote Chinese Language Learning (CPCLL), the
 Hooked on Reading (for all levels)
 ----------------------------------
 
-\-    Cultivate the love for reading.
+\-&nbsp;&nbsp; &nbsp;Cultivate the love for reading.
 
   
 
-\-    Expose our pupils to storybooks of different genres.
+\-&nbsp;&nbsp; &nbsp;Expose our pupils to storybooks of different genres.
 
   
 
-\-    Bi-weekly class reading time and scheduled visit to school library.
+\-&nbsp;&nbsp; &nbsp;Bi-weekly class reading time and scheduled visit to school library.
 ![](/images/mt6.png)
 
 Character and Citizenship Education (MT - CCE)
 ----------------------------------------------
 
-a)    CCE Termly Quiz
+a)&nbsp;&nbsp; &nbsp;CCE Termly Quiz
 
-\-        Pupils take part in the termly quiz while learning about core values, character building and cultures.
-
-  
-
-b)    Moments of Appreciation
-
-\-        Pupils learn the importance of having good relationships with others ie. friends, sibling, parents, teachers etc.
+\-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;Pupils take part in the termly quiz while learning about core values, character building and cultures.
 
   
 
-\-        Pupils design and create something for people whom they appreciate their relationship
+b)&nbsp;&nbsp; &nbsp;Moments of Appreciation
+
+\-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;Pupils learn the importance of having good relationships with others ie. friends, sibling, parents, teachers etc.
 
   
 
-\-        Selected good works are also displayed to affirm pupils efforts
+\-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;Pupils design and create something for people whom they appreciate their relationship
+
+  
+
+\-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;Selected good works are also displayed to affirm pupils efforts
 
   
 
