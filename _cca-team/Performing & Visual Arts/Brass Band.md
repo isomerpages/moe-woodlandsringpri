@@ -22,3 +22,7 @@ The WRPS Brass Band has had the opportunity to perform at various school events 
 | Mrs Karine Kheng |
 | Mdm Nurshahidah |
 | Ms Tan Si Ying |
+
+Join Us
+-------
+[video to be uploaded to youtube and link embed code here]
