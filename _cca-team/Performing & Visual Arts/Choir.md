@@ -13,3 +13,10 @@ Choir is one of the longest-serving performance clubs in Woodlands Ring Primary 
 
 _“The only thing better than singing is more singing.” – Ella Fitzgerald_
 
+![](/images/staff.jpg)
+
+| Teachers In-Charge |
+| --- |
+| Mdm Ng Lay Peng ( I/C ) |
+| Mdm Nurhani ( Asst I/C ) |
+| Miss Marlene Toh |
