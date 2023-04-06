@@ -20,3 +20,6 @@ Chinese Dance is one of the popular performing arts groups in WRPS. It allows st
 Join Us
 -------
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Chinese Dance E Recruitment Slides 2023" src="https://www.youtube.com/embed/7pOpHjqfAi0" height="720" width="1280"></iframe>
+
+CCA Participation &amp; Achievements:
+---------------------------------
