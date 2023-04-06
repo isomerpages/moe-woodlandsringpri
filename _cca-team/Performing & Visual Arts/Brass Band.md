@@ -12,3 +12,6 @@ In Brass Band, students hone their instrument-playing skills with ample guidance
   
 
 The WRPS Brass Band has had the opportunity to perform at various school events such as Chinese New Year Concerts, National Day Concerts, Woodlands Ring Primary 20th Anniversary Carnival as well as public events such as the Community Outreach @ Kampung Admiralty. These opportunities have definitely shaped and prepared the band for the biennial SYF Arts Presentations showcases.
+
+![](/images/staff.jpg)
+
