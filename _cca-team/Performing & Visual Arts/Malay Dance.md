@@ -2,7 +2,7 @@
 title: Malay Dance
 permalink: /cca-team/performing-and-visual-arts/malay-dance/permalink/
 description: ""
-third_nav_title: Performing & Visual Arts
+third_nav_title: Performing &amp; Visual Arts
 ---
 Overview:
 ---------
@@ -17,3 +17,7 @@ Malay Dance CCA provides a platform for dancers to develop their Malay dance ski
 | Mr Muhd Asyraf ( Asst I/C ) |
 | Mdm Noriati Amin |
 | Mdm Mustika Alyssa |
+
+Join Us
+-------
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="WRPS MALAY DANCE RECRUITMENT VIDEO 2023 FINAL" src="https://www.youtube.com/embed/xv7PJzhzkI8" height="720" width="1280"></iframe>
