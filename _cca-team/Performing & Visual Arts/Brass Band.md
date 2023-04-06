@@ -15,3 +15,10 @@ The WRPS Brass Band has had the opportunity to perform at various school events 
 
 ![](/images/staff.jpg)
 
+| Teachers In-Charge |
+| --- |
+| Ms Elanor Yu ( I/C ) |
+| Mrs Chim-Chan Yin Ling ( Asst I/C ) |
+| Mrs Karine Kheng |
+| Mdm Nurshahidah |
+| Ms Tan Si Ying |
