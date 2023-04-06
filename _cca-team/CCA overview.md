@@ -27,6 +27,4 @@ CCA Schedule
   
 
 CCA Schedule   
-[2022 COE _ Term One _ For Pupils.pdf](/files/2022%20COE%20_%20Term%20One%20_%20For%20Pupils%20(1).pdf)   
-[Term 2 CCA Schedule as of 10 March.pdf](/files/Term%202%20CCA%20Schedule%20as%20of%2010%20March.pdf)   
-[Term 3 CCA Schedule.pdf](/files/Term%203%20CCA%20Schedule.pdf)
+[Term 2 CCA Schedule updated 10 March.pdf](/files/term%202%20cca%20schedule%20updated%2010%20march.pdf)
