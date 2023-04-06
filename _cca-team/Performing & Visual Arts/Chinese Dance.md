@@ -23,3 +23,5 @@ Join Us
 
 CCA Participation &amp; Achievements:
 ---------------------------------
+![](/images/chinese0.png)
+![](/images/chinese2.png)
