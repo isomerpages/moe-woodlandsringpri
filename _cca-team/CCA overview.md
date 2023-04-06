@@ -22,7 +22,7 @@ Attendance is compulsory at every CCA session. A medical certificate or a letter
 CCA Schedule
 ------------
 
-In tandem with MOE’s direction in allowing in-person CCAs for primary schools to resume, we will adopt a gradual resumption for most CCAs by conducting eCCA sessions via Zoom first before pivoting to in-person CCAs in school subsequently. Please refer below for Term 1 2022 CCA Schedule.
+
 
   
 
