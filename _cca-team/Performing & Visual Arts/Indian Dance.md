@@ -23,6 +23,7 @@ Through dance, the students cultivate resilience, grace and a sense of teamwork 
 
 Join Us
 -------
+[video to be uploaded to YouTube and paste embed link here]
 
 CCA Participation & Achievements:
 ---------------------------------
