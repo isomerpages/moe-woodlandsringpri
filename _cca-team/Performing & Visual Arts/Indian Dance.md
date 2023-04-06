@@ -21,3 +21,9 @@ Through dance, the students cultivate resilience, grace and a sense of teamwork 
 | Mdm Gomathi ( Asst I/C ) |
 | Ms Elfi Hairulniza |
 
+Join Us
+-------
+
+CCA Participation & Achievements:
+---------------------------------
+
