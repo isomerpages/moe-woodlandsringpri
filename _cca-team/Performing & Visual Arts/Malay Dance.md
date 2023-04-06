@@ -24,3 +24,4 @@ Join Us
 
 CCA Participation &amp; Achievements:
 ---------------------------------
+![](/images/malay1.png)
