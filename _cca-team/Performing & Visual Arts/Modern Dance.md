@@ -18,3 +18,10 @@ Our experienced and passionate instructors and teachers hope to inspire the love
 If you think you have good rhythm, timing, concentration and most importantly, determination to work hard, then you are definitely what we are looking for! Come and join us!
 
 ![](/images/staff.jpg)
+
+| Teachers In-Charge |
+| --- |
+| Mdm Vanessa Raj ( I/C ) |
+| Mdm Norliza ( Asst I/C ) |
+| Mdm Nursarah |
+| Mdm Noorhayati |
