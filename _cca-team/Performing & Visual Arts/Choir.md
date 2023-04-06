@@ -25,3 +25,7 @@ Join Us
 -------
 
 [video to be uploaded on youtube and insert embed link here]
+
+CCA Participation & Achievements:
+---------------------------------
+![](/images/choir1.png)
