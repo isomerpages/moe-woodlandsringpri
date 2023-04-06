@@ -2,11 +2,11 @@ collections:
   cca-team:
     output: true
     order:
-      - Performing & Visual Arts/.keep
       - CCA overview.md
       - Sports/.keep
       - Sports/Badminton.md
       - Sports/Basketball.md
       - Sports/Football.md
       - Sports/Rope Skipping.md
+      - Performing & Visual Arts/.keep
       - CCA Recruitment 2022.md
