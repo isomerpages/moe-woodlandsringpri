@@ -20,3 +20,8 @@ _“The only thing better than singing is more singing.” – Ella Fitzgerald_
 | Mdm Ng Lay Peng ( I/C ) |
 | Mdm Nurhani ( Asst I/C ) |
 | Miss Marlene Toh |
+
+Join Us
+-------
+
+[video to be uploaded on youtube and insert embed link here]
