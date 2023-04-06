@@ -25,3 +25,13 @@ At the end of Primary 6, every club member should be able to:
 *   Use art as an expression to convey meaning, intention and idea confidently
 *   Appreciate and have awareness of the unique role of the art audience, curator, critics and artist
 *   Develop the 5 Core Social Emotional Learning Competencies through peer interactions and art making sessions.
+
+![](/images/staff.jpg)
+
+| Teachers In-Charge |
+| --- |
+| Mrs Sharon Toh ( I/C ) |
+| Mr Muhammad ( Asst I/C ) |
+| Mdm Patricia Koh |
+| Mdm Siti Zaleha |
+| Mdm Nurmala |****
