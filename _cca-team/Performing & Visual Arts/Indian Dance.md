@@ -14,3 +14,10 @@ Indian Dance provides a platform for students to learn and appreciate the fine a
 Through dance, the students cultivate resilience, grace and a sense of teamwork that extend beyond the classroom and nurture their growth as individuals. Various platforms such as external performances at community events and SYF Arts Presentations help to build the confidence of the students and showcase their talents.
 
 ![](/images/staff.jpg)
+
+| Teachers In-Charge |
+| --- |
+| Mdm Puspaja ( I/C ) |
+| Mdm Gomathi ( Asst I/C ) |
+| Ms Elfi Hairulniza |
+
