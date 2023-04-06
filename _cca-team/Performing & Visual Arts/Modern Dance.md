@@ -32,4 +32,5 @@ Join Us
 
 CCA Participation & Achievements:
 ---------------------------------
+![](/images/modern1.png)
 
