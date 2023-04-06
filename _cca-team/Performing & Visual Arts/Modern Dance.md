@@ -25,3 +25,11 @@ If you think you have good rhythm, timing, concentration and most importantly, d
 | Mdm Norliza ( Asst I/C ) |
 | Mdm Nursarah |
 | Mdm Noorhayati |
+
+Join Us
+-------
+[video to be uploaded to YouTube and embed link pasted here]
+
+CCA Participation & Achievements:
+---------------------------------
+
