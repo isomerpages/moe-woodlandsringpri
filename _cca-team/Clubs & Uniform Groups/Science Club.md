@@ -41,3 +41,4 @@ Join Us
 
 CCA Participation & Achievements:
 ---------------------------------
+![](/images/science2.png)
