@@ -18,3 +18,10 @@ Students will get to take part in various competitions that are held island-wide
 CCA sessions in InfoComm will never be a bore!
 
 ![](/images/staff.jpg)
+
+Join Us
+-------
+
+CCA Participation & Achievements:
+---------------------------------
+
