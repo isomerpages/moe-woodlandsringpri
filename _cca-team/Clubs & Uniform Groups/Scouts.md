@@ -41,3 +41,5 @@ Join Us
 CCA Participation & Achievements:
 ---------------------------------
 
+![](/images/scouts1.png)
+
