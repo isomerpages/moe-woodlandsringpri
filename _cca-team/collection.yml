@@ -2,10 +2,10 @@ collections:
   cca-team:
     output: true
     order:
-      - Clubs & Uniform Groups/Infocomm Technology Club.md
       - Clubs & Uniform Groups/.keep
       - Clubs & Uniform Groups/Scouts.md
       - Clubs & Uniform Groups/Science Club.md
+      - Clubs & Uniform Groups/Infocomm Technology Club.md
       - CCA overview.md
       - Sports/.keep
       - Sports/Badminton.md
