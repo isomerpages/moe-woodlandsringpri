@@ -18,3 +18,19 @@ The Science Club allows members to embark on an inquiry-based journey both in ev
 | Mr Nelavannan |
 
 ![](/images/science1.png)
+
+The teachers in Science Club in WRPS follow the AAA approach when planning their CCA sessions in order to provide the experiences where members gain awareness and through this Awareness, they take the right Action and advocate with a positive Attitude in becoming passionate learners and gracious citizens.
+
+  
+
+At the end of Primary 6, the students should be able to:
+
+  
+
+1.  develop interest in various scientific disciplines and expand their skills in fieldwork like forming hypothesis and collecting data, analysis of scientific data and drawing conclusions based on research and communicate their project findings.
+
+2.  have a sense of ownership, care and responsibility towards the environment and feel empowered to make a positive impact.
+
+3.  possess social and life skills through participation in a variety of projects relating to the environment and other Science disciplines.
+
+4.  effectively articulate with the school and / or community about scientific matters and environmental-related issues.
