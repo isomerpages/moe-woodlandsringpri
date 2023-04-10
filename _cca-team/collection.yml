@@ -2,10 +2,6 @@ collections:
   cca-team:
     output: true
     order:
-      - Clubs & Uniform Groups/.keep
-      - Clubs & Uniform Groups/Scouts.md
-      - Clubs & Uniform Groups/Science Club.md
-      - Clubs & Uniform Groups/Infocomm Technology Club.md
       - CCA overview.md
       - Sports/.keep
       - Sports/Badminton.md
@@ -21,4 +17,8 @@ collections:
       - Performing & Visual Arts/Indian Dance.md
       - Performing & Visual Arts/Malay Dance.md
       - Performing & Visual Arts/Modern Dance.md
+      - Clubs & Uniform Groups/.keep
+      - Clubs & Uniform Groups/Scouts.md
+      - Clubs & Uniform Groups/Science Club.md
+      - Clubs & Uniform Groups/Infocomm Technology Club.md
       - CCA Recruitment 2022.md
