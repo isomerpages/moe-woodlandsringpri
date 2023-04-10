@@ -24,4 +24,4 @@ Join Us
 
 CCA Participation & Achievements:
 ---------------------------------
-
+![](/images/infocomm1.png)
