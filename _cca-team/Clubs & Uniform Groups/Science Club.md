@@ -16,3 +16,5 @@ The Science Club allows members to embark on an inquiry-based journey both in ev
 | Mdm Freeda Krishnan ( I/C ) |
 | Ms Shahirah Begum |
 | Mr Nelavannan |
+
+![](/images/science1.png)
