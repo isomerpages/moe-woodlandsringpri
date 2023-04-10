@@ -21,6 +21,7 @@ CCA sessions in InfoComm will never be a bore!
 
 Join Us
 -------
+[video to be uploaded to youtube and embed link pasted here]
 
 CCA Participation & Achievements:
 ---------------------------------
