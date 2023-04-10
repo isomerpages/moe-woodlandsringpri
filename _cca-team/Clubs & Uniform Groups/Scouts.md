@@ -23,3 +23,21 @@ Throughout their time in the CCA, Cub Scouts will earn a series of Badges, givin
   
 
 At Woodlands Ring Primary School, we hope that our Cub Scouts will grow and develop into leaders with heart and character.
+
+![](/images/staff.jpg)
+
+| Teachers In-Charge |
+| --- |
+| Mdm Sunita Kumari ( I/C ) |
+| Mr Shan Quan ( Asst I/C ) |
+| Mr Edmund Chen |
+| Mdm Adawiyah |
+| Ms Toh Yi Ting |
+
+Join Us
+-------
+[video to be uploaded to youtube and embed link pasted here]
+
+CCA Participation & Achievements:
+---------------------------------
+
