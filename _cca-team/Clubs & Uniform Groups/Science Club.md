@@ -37,7 +37,7 @@ At the end of Primary 6, the students should be able to:
 
 Join Us
 -------
+[video to be uploaded to youtube and embed link pasted here]
 
 CCA Participation & Achievements:
 ---------------------------------
-
