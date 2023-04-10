@@ -34,3 +34,10 @@ At the end of Primary 6, the students should be able to:
 3.  possess social and life skills through participation in a variety of projects relating to the environment and other Science disciplines.
 
 4.  effectively articulate with the school and / or community about scientific matters and environmental-related issues.
+
+Join Us
+-------
+
+CCA Participation & Achievements:
+---------------------------------
+
