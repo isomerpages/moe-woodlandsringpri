@@ -2,7 +2,7 @@
 title: Art &amp; Crafts Club
 permalink: /cca-team/performing-and-visual-arts/arts-and-crafts-club/permalink/
 description: ""
-third_nav_title: Performing &amp; Visual Arts
+third_nav_title: Performing & Visual Arts
 ---
 Overview:
 ---------
