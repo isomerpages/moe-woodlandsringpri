@@ -23,9 +23,9 @@ The Football CCA is one of the popular CCAs in WRPS. Each year, we receive many 
 
 Join Us
 -------
-<iframe width="480" height="360" src="https://www.youtube.com/embed/3fbBpzb7GMI" title="Football Club Recruitment 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-CCA Participation & Achievements:
+
+CCA Participation &amp; Achievements:
 ---------------------------------
-![](/images/football1.png)
+
 ![](/images/football2.png)
