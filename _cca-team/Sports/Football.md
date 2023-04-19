@@ -25,11 +25,6 @@ Join Us
 -------
 ![](/images/CCA%20Sports/football.png)
 
-    <img height="500" width="400" src="images/football.png">
-
-       [WRPS Football CCA 2023](https://www.youtube.com/watch?v=Tx0CP-ocYgI)
-
-![](/images/CCA%20Sports/picture2.png)
 
 
 CCA Participation &amp; Achievements:
