@@ -10,8 +10,8 @@ Floorball
 
 | Teachers In-Charge |
 | --- |
-| Ms Hong Guey Lian ( I/C ) |
-| Mrs Ong ZhiHui ( Asst I/C ) |
+| Mr Ramdan ( I/C ) |
+| Ms Hong Guey Lian ( Asst I/C ) |
 
 Floorball
 -------------
