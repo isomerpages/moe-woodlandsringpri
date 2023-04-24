@@ -16,9 +16,9 @@ Our Badminton team is made up of Primary 3 to Primary 6 pupils. We focus on help
 | Teachers In-Charge |
 | --- |
 | Ms Yeow Shiok Li ( I/C ) |
-| Mr Chandra ( Asst I/C ) |
+|  Mdm Joiselin ( Asst I/C ) |
 | Mdm Lee Yin Yin |
-| Mdm Joiselin |
+
 
 Join Us
 -------
