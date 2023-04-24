@@ -27,7 +27,9 @@ Since its inception in 2016, the WRPS Basketball CCA has been&nbsp;going from st
 
 Join Us
 -------
+![](/images/CCA%20Sports/basketball.jpg)
 
+https://www.youtube.com/watch?v=XYJ5x3hO5n8
 
 CCA Participation &amp; Achievements:
 ---------------------------------
