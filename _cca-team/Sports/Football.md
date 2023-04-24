@@ -29,7 +29,7 @@ Join Us
 -------
 ![](/images/CCA%20Sports/football.png)
 
-
+[WRPS Football ](https://www.youtube.com/watch?v=Tx0CP-ocYgI)
 
 CCA Participation &amp; Achievements:
 ---------------------------------
@@ -38,4 +38,3 @@ CCA Participation &amp; Achievements:
 
 
 
-![](/images/football2.png)
