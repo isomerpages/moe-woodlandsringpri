@@ -27,7 +27,7 @@ Since its inception in 2016, the WRPS Basketball CCA has been&nbsp;going from st
 
 Join Us
 -------
-<iframe width="405" height="303" src="https://www.youtube.com/embed/GQKCgcK_5Sk" title="Basketball Recruitment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
 
 CCA Participation &amp; Achievements:
 ---------------------------------
