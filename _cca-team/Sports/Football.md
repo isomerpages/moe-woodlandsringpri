@@ -16,7 +16,7 @@ The Football CCA is one of the popular CCAs in WRPS. Each year, we receive many 
 
 ![](/images/CCA%20Sports/soccer.gif)
 
-| Teachers In-Charge |
+| **Teachers In-Charge** |
 | --- |
 | Mr Ahmad Tarmizi ( I/C ) |
 | Mr Adli ( Asst I/C ) |
