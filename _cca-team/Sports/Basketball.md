@@ -9,12 +9,12 @@ Basketball
 
 Overview:
 ---------
+Since its inception in 2016, the WRPS Basketball CCA has been&nbsp;going from strength to strength. Known as the WRPS Eagles, our&nbsp;Basketball boys and girls not only learn fundamental basketball&nbsp;skills and improve on physical conditioning, but also demonstrate&nbsp;values like sportsmanship, resilience and teamwork.&nbsp;Besides welcoming all interested students to join the WRPS&nbsp;Basketball CCA, those who show strong potential in the sport and&nbsp;an affinity for teamwork will be selected to represent the school in&nbsp;various competitions, such as the National School Games.
 
-Our Basketball CCA was started in 2016. Known as the WRPS Eagles, our Basketball boys and girls not only learn about fundamental basketball skills and physical conditioning, but also values like sportsmanship, resilience and teamwork.
 
   
 
-Selected students are invited to join in P3. Pupils who show potential in the sport will be identified for school team selection training. The selected students will have the opportunity to represent our school in various competitions.
+
 ![](/images/staff.jpg)
 
 | Teachers In-Charge |
@@ -27,9 +27,9 @@ Selected students are invited to join in P3. Pupils who show potential in the sp
 
 Join Us
 -------
-<iframe width="405" height="303" src="https://www.youtube.com/embed/GQKCgcK_5Sk" title="Basketball Recruitment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="405" height="303" src="https://www.youtube.com/embed/GQKCgcK_5Sk" title="Basketball Recruitment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-CCA Participation & Achievements:
+CCA Participation &amp; Achievements:
 ---------------------------------
 ![](/images/basketball1.png)
 ![](/images/basketball2.png)
