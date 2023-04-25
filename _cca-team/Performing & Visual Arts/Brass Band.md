@@ -29,5 +29,4 @@ Join Us
 
 CCA Participation & Achievements:
 ---------------------------------
-
-![](/images/brass1.png)
+![](/images/CCA%20Sports/bandachi1.png)
