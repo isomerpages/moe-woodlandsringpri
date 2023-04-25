@@ -29,7 +29,7 @@ Join Us
 -------
 ![](/images/CCA%20Sports/basketball.jpg)
 
-https://www.youtube.com/watch?v=XYJ5x3hO5n8
+[WRPS Basketball](https://www.youtube.com/watch?v=XYJ5x3hO5n8)
 
 CCA Participation &amp; Achievements:
 ---------------------------------
