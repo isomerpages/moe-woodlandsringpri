@@ -1,5 +1,5 @@
 ---
-title: Art &amp; Crafts Club
+title: Art & Crafts Club
 permalink: /cca-team/performing-and-visual-arts/arts-and-crafts-club/permalink/
 description: ""
 third_nav_title: Performing & Visual Arts
@@ -38,7 +38,9 @@ At the end of Primary 6, every club member should be able to:
 
 Join Us
 -------
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Art &amp; Crafts Club Recruitment" src="https://www.youtube.com/embed/Z9zX4UxmeUU" height="390" width="520"></iframe>
+![](/images/CCA%20Sports/artsclub.jfif)
+
+[WRPS Art & Craft Club](https://www.youtube.com/watch?v=IZeXJGywSAU)
 
 CCA Participation &amp; Achievements:
 ---------------------------------
