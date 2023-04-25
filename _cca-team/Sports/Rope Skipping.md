@@ -10,7 +10,7 @@ Floorball
 
 | Teachers In-Charge |
 | --- |
-| Mr Ramdan ( I/C ) |
+| Mr Mohd Ramdan ( I/C ) |
 | Ms Hong Guey Lian ( Asst I/C ) |
 
 Floorball
