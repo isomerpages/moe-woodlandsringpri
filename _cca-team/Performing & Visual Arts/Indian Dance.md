@@ -23,7 +23,8 @@ Through dance, the students cultivate resilience, grace and a sense of teamwork 
 
 Join Us
 -------
-[video to be uploaded to YouTube and paste embed link here]
+![](/images/CCA%20Sports/indian-girls-dancer-traditio.jpg)
+[WRPS Indian Dance](https://www.youtube.com/watch?v=40-Zmu2Exmc)
 
 CCA Participation & Achievements:
 ---------------------------------
