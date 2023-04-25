@@ -25,7 +25,8 @@ Floorball
 
 Join Us
 -------
-(rope video has to be uploaded to youtube)
+
+![](/images/CCA%20Sports/home1_set_main_w_360x199.jpg)[WRPS Floorball](https://www.youtube.com/watch?v=xdJeAJ5HJro)
 
 CCA Participation & Achievements:
 ---------------------------------
