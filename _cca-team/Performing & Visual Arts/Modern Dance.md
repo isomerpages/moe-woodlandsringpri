@@ -28,9 +28,9 @@ If you think you have good rhythm, timing, concentration and most importantly, d
 
 Join Us
 -------
-[video to be uploaded to YouTube and embed link pasted here]
+![](/images/CCA%20Sports/modern%20dance.jpg)
+[WRPS Modern Dance](https://www.youtube.com/watch?v=jXhKh-VFGdY)
 
 CCA Participation & Achievements:
 ---------------------------------
 ![](/images/modern1.png)
-
