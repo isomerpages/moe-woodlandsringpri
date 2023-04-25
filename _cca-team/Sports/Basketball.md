@@ -20,11 +20,11 @@ Since its inception in 2016, the WRPS Basketball CCA has been&nbsp;going from st
 | Teachers In-Charge |
 | --- |
 | Ms Tan Yan Lin (IC) |
-| Mr Mohd Ramdan Bin MM (AIC) |
-| Mrs Tarmizi - Lee Shuqi |
-| Ms Nur Athilah Bte Zulkifflie |
-| Ms Mock Hui Li |
-
+| Mrs Tarmizi - Lee Shuqi (AIC) |
+| mdm Choo Zhi Hui |
+| Ms Priyaa |
+| Ms Fong Wui Yen |
+| Ms Toh Yi Ting |
 Join Us
 -------
 ![](/images/CCA%20Sports/basketball.jpg)
