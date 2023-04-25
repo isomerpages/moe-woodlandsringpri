@@ -1,5 +1,5 @@
 ---
-title: Drama &amp; Literary Club
+title: Drama & Literary Club
 permalink: /cca-team/performing-and-visual-arts/drama-and-literary-club/permalink/
 description: ""
 third_nav_title: Performing & Visual Arts
@@ -22,14 +22,14 @@ Through our programmes, we endeavour to groom every student with future-ready sk
 | Teachers In-Charge |
 | --- |
 | Ms Tay Shwu Yueh (I/C)  
- |
 | Mdm Humairah ( Asst I/C )  
- |
 | Mrs Maria Chua |
 
 Join Us
 -------
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Drama &amp; Literary Club Recruitment" src="https://www.youtube.com/embed/57nVqk8pM2Q" height="375" width="500"></iframe>
+
+![](/images/CCA%20Sports/dramaclub.png)
+[WRPS Drama Club](https://www.youtube.com/watch?v=3WAUODEdodU)
 
 CCA Participation &amp; Achievements:
 ---------------------------------
