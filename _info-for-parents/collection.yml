@@ -1,0 +1,17 @@
+collections:
+  info-for-parents:
+    output: true
+    order:
+      - COE or Circulars 2022 (to be updated soon).md
+      - SLS.md
+      - Homework Policy.md
+      - Financial Assistance.md
+      - Parents Briefing.md
+      - Parents in Education/.keep
+      - Parents in Education/Parents in Education.md
+      - Parents in Education/PSLE.md
+      - Covid Precautionary Measures.md
+      - P1 Virtual Orientation 2021/.keep
+      - P1 Virtual Orientation 2021/P1 Virtual Orientation 2021.md
+      - P1 Virtual Orientation 2021/Virtual Tour of WRPS.md
+      - Student Icon.md

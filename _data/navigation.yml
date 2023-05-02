@@ -1,15 +1,33 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo blue.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: about WRPS
+    collection: about-wrps
+  - title: Teams
+    url: /teams/English-Academic-Team/permalink/
+    sublinks:
+      - title: English Academic Team
+        url: /teams/English-Academic-Team/permalink/
+      - title: Mathematics Academic Team
+        url: /teams/mathematics-academic-team/permalink/
+      - title: Science Academic Team
+        url: /teams/science-academic-team/permalink/
+      - title: Mother Tongue Academic Teams
+        url: /teams/Mother-Tongue-Academic-Teams/chinese-language-unit/permalink/
+      - title: ICT Team
+        url: /teams/ict-team/permalink/
+      - title: PE and Aesthetics Teams
+        url: /teams/physical-education/permalink/
+      - title: CCA Team
+        url: /teams/ccas/
+      - title: CCE Team
+        url: /teams/CCE-Team/permalink/
+      - title: Student Management Team
+        url: /teams/Student-Management-Team/permalink/
+  - title: key programme @ wrps
+    collection: key-programme-at-wrps
+  - title: info for parents
+    collection: info-for-parents
+  - title: News & events
+    collection: news-and-events
+  - title: Forms
+    collection: forms-resources-useful-links

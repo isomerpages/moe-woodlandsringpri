@@ -1,0 +1,8 @@
+collections:
+  forms-resources-useful-links:
+    output: true
+    order:
+      - Forms.md
+      - Useful Links.md
+      - Strictly for Teachers Only.md
+      - Contact Us.md
