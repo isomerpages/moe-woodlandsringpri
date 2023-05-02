@@ -16,5 +16,5 @@ sections:
         - title: wrps virtual open house
           description: Click here for more info
           url: https://sites.google.com/moe.edu.sg/wrps-virtual-open-house-2020/home
-      title: WRPS
+      title: WOODLANDS RING PRIMARY SCHOOL
 ---
