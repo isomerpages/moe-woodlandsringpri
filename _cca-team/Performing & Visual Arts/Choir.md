@@ -24,7 +24,8 @@ _“The only thing better than singing is more singing.” – Ella Fitzgerald_
 Join Us
 -------
 ![](/images/CCA%20Sports/choirwrps.png)
-https://www.youtube.com/watch?v=eYHIh15JmWw
+[WRPS Choir](https://www.youtube.com/watch?v=eYHIh15JmWw)
+
 
 
 CCA Participation & Achievements:
