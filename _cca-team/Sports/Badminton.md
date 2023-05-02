@@ -24,8 +24,7 @@ Join Us
 -------
 ![](/images/CCA%20Sports/badminton.jfif)
 
-https://www.youtube.com/watch?v=gpZ0_t5onkY
-
+[WRPS Badminton](https://www.youtube.com/watch?v=gpZ0_t5onkY)
 
 CCA Participation &amp; Achievements:
 ---------------------------------
