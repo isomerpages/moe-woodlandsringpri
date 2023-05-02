@@ -25,7 +25,8 @@ The WRPS Brass Band has had the opportunity to perform at various school events 
 
 Join Us
 -------
-[video to be uploaded to youtube and link embed code here]
+![](/images/CCA%20Sports/bandbrass.jpg)
+[WRPS Brass Band](https://www.youtube.com/watch?v=VMXZJ-rAov0)
 
 CCA Participation & Achievements:
 ---------------------------------
