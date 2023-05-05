@@ -5,6 +5,13 @@ description: ""
 ---
 Horizon Newsletter
 ==================
+The Horizon Issue 1 2023
+------------------------
+
+
+
+
+
 
 The Horizon Issue 2 2022
 ------------------------
