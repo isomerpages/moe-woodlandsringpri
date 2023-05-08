@@ -5,6 +5,14 @@ description: ""
 ---
 Horizon Newsletter
 ==================
+The Horizon Issue 1 2023
+------------------------
+![](/images/Horizon/wrps%20the%20horizon%202023%20-%20issue%201%20(lr)-1.jpg)
+![](/images/Horizon/wrps%20the%20horizon%202023%20-%20issue%201%20(lr)-2.jpg)
+![](/images/Horizon/wrps%20the%20horizon%202023%20-%20issue%201%20(lr)-3.jpg)
+![](/images/Horizon/wrps%20the%20horizon%202023%20-%20issue%201%20(lr)-4.jpg)
+![](/images/Horizon/wrps%20the%20horizon%202023%20-%20issue%201%20(lr)-5.jpg)
+![](/images/Horizon/wrps%20the%20horizon%202023%20-%20issue%201%20(lr)-6.jpg)
 
 The Horizon Issue 2 2022
 ------------------------
