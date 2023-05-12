@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: Woodlands Ring Primary School
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+      - 11 Woodlands Ring Road
+      - Singapore 738240
+      - "Tel : 63643679"
     operating_hours:
       - days: Mon - Fri
         time: 7.30am - 5.00pm
