@@ -18,8 +18,8 @@ locations:
     maps_link: ""
     title: Main Office
   - address:
-      - 109 North Bridge Road
-      - Singapore 179097
+      - 11 Woodlands Ring Road
+      - Singapore 738240
       - ""
     operating_hours: []
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
