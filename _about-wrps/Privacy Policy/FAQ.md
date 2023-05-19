@@ -8,7 +8,7 @@ FAQ
 ===
 **1\. What are the operating hours of the General Office?**
 
-*   The GO operates from 7am to 6pm.
+*   The GO operates from 7.30 am to 5 pm.
 
 **2\. What time should my child report to school for his/her lessons?**
 
@@ -16,9 +16,9 @@ FAQ
 
 **3\. What are the recess times?**
 
-P1 - P2 : 9.35am – 10.05am   
-P3 - P4 : 10.05 – 10.35am   
-P5 - P6 : 10.35 – 11.05am
+P1 / P6 : 9.am – 9.30 am   
+P2 / P3 : 9.30 am – 10 am   
+P4 / P5 : 10 am – 10.30 am
 
 **4\. When will the school gates be open?**
 *   **Gate 1:**     
