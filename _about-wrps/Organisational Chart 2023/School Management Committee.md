@@ -18,4 +18,3 @@ School Management Committee
 ![](/images/Staff/MGTCOM51.png)
 
 ![](/images/Staff/MGTCOM6.png)
-
