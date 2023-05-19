@@ -22,6 +22,6 @@ P4 / P5 : 10 am – 10.30 am
 
 **4\. When will the school gates be open?**
 *   **Gate 1:**     
-    Mon- Fri : 7.25am – 1.00pm 2.00pmm – 6.30pm    
+    Mon- Fri : 6.45 am – 1.30 pm, 2.00pmm – 6.30pm    
     **Gate 2, 3 and 4:**   
-    Mon-Fri : 6.45am – 7.25am 1.00pm – 2.00pm
+    Mon-Fri : 6.45 am – 7.25am 1.00 pm – 2.00 pm
