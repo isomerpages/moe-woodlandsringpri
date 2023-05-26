@@ -5,3 +5,4 @@ description: ""
 ---
 To be updated
 ===========
+Currently there are no vacancy for canteen holders.
