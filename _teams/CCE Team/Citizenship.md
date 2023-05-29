@@ -13,6 +13,31 @@ NE provides opportunities for our students to explore and examine their identity
 
 
 
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="1153" colspan="2" valign="top" style="width:864.45pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><b><span style="font-size:14.0pt">Citizenship Dispositions</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="264" valign="top" style="width:198.2pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:115%"><b><span style="font-size:13.0pt;line-height:115%">A Sense of Belonging</span></b></p></td><td width="888" valign="top" style="width:666.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:115%"><span style="font-size:13.0pt;line-height:115%">To develop a deeper understanding of who we are as Singaporeans, and a shared understanding of the values that are important to us as a nation.</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="264" valign="top" style="width:198.2pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:115%"><b><span style="font-size:13.0pt;line-height:115%">A Sense of Reality</span></b></p></td><td width="888" valign="top" style="width:666.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:115%"><span style="font-size:13.0pt;line-height:115%">To be aware of contemporary realities — including Singapore’s constraints and vulnerabilities — which affect us as a nation amidst the backdrop of a less predictable world.</span></p></td></tr><tr style="mso-yfti-irow:3"><td width="264" valign="top" style="width:198.2pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:115%"><b><span style="font-size:13.0pt;line-height:115%">A Sense of Hope</span></b></p></td><td width="888" valign="top" style="width:666.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:115%"><span style="font-size:13.0pt;line-height:115%">To have confidence and optimism in Singapore’s future and the resilience to face the challenges ahead.</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td width="264" valign="top" style="width:198.2pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:115%"><b><span style="font-size:13.0pt;line-height:115%">The Will to Act</span></b></p></td><td width="888" valign="top" style="width:666.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:115%"><span style="font-size:13.0pt;line-height:115%">To be active citizens who have a collective resolve and a sense of shared mission towards building a Singapore for al</span></p></td></tr></tbody></table>
+
 
 National Education Messages
 ---------------------------
