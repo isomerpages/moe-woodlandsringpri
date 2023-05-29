@@ -4,19 +4,15 @@ permalink: /teams/CCE-Team/citizenship/permalink/
 description: ""
 third_nav_title: CCE Team
 ---
-Citizenship
+National Education
 ===========
 
-Citizenship Learning Outcomes
------------------------------
+  National Education (NE) was launched in 1997. It aims to provide our students with the knowledge, skills, and values to understand Singapore’s history and unique geo-political context, appreciate our journey to nationhood, cultivate the instincts for survival as a nation, and have confidence in our nation’s future.
 
-*   Appreciate our national identity, develop a sense of belonging to Singapore, and demonstrate commitment to the well-being, security and defence of the nation.
+NE provides opportunities for our students to explore and examine their identity as Singaporeans and arrive at a common set of ideals and values. The following key dispositions for citizenship in Singapore shape the purpose and approach to NE:
 
-*   Demonstrate socio-cultural sensitivity and promote social cohesion and harmony in Singapore as a multi-cultural society.
 
-*   Demonstrate care for others and contribute actively towards improving the lives of others to build a bright future for ourselves and to progress together as one nation.
 
-*   Demonstrate the ability to reflect on and respond to community, national and global issues, and to make informed and responsible decisions as a citizen.
 
 National Education Messages
 ---------------------------
