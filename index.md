@@ -8,7 +8,7 @@ notification: PASSIONATE LEARNERS, GRACIOUS CITIZENS
 sections:
   - hero:
       subtitle: Every child is unique and able to excel
-      background: /images/homepage.gif
+      background: /images/homepage2023.gif
       key_highlights:
         - title: Jeep Sing fashion (online purchase of school uniform)
           description: To book appointment
