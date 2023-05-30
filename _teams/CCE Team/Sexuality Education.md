@@ -13,7 +13,7 @@ KEY MESSAGES
 The key messages for students to understand are as follows: a) Love and respect yourself as you love and respect others; b) Build positive relationships based on love and respect (which are the foundation for strong families); c) Make responsible decisions for yourself, your family, and the society; and d) Abstinence before marriage is the best protection against STIs/HIV and unwanted pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 
-Sexuality Education aims to help students:
+### **Sexuality Education aims to help students:**
 
 A.&nbsp;&nbsp;&nbsp;&nbsp; Make wise, responsible, and informed decisions through the provision of accurate, current, and age-appropriate knowledge on human sexuality and the consequences of sexual activity.
 
