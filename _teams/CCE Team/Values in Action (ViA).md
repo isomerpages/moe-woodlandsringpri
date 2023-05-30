@@ -91,6 +91,3 @@ Activities
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p style="margin:0cm"><span lang="EN-SG" style="font-size:13.0pt;font-family:
   &quot;Calibri&quot;,sans-serif;color:black">Coastal Keep Clean Programme</span><span lang="EN-SG" style="font-size:13.0pt"></span></p></td></tr></tbody></table>
-
-
-
