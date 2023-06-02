@@ -17,7 +17,5 @@ Our students are at the heart of all that we do and we are committed to the deve
 As a community of dedicated educators and professionals, we in Woodlands Ring Primary School continuously strive to provide a caring and stimulating learning environment to bring out the best in every child.
 
 Ms Geetha Doraisamy
-
 Principal
 
-<img src="/images/PMess1.png" style="width:200%">
