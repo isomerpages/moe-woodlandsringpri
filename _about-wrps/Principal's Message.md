@@ -18,4 +18,3 @@ As a community of dedicated educators and professionals, we in Woodlands Ring Pr
 
 Ms Geetha Doraisamy
 Principal
-
