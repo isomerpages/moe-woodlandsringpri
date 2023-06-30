@@ -7,7 +7,6 @@ permalink: /
 notification: PASSIONATE LEARNERS, GRACIOUS CITIZENS
 sections:
   - hero:
-      subtitle: Every child is unique and able to excel
       background: /images/homepage2023.gif
       key_highlights:
         - title: Jeep Sing fashion (online purchase of school uniform)
@@ -16,5 +15,4 @@ sections:
         - title: wrps virtual open house
           description: Click here for more info
           url: https://sites.google.com/moe.edu.sg/wrps-virtual-open-house-2020/home
-      title: WOODLANDS RING PRIMARY SCHOOL
 ---
