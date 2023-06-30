@@ -3,25 +3,25 @@ title: Bus Services Call for Proposal
 permalink: /forms-resources-useful-links/permalink/
 description: ""
 ---
-
 School Bus Advertisement
+
 
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
 **Service Requirements**
 
-1.
-Call for
-Proposals by School - 30 June 2023.pdf
+1
+[Call for Proposal by School](/files/call%20for%20proposal.pdf)
 
-Agreement for
-Appointment of School Bus Operator (Version June 2023)-30 June 23.pdf
-2.
+2. [Agreement for Appointment of School Bus Operator](/files/agreement%20for%20appointment%20of%20school%20bus%20operator.pdf)
 
 **Application Procedure**
 
-Call for Proposal
-- Annex A - 30 June 2023.pdf
+3. [Call for Proposal - Annex A](/files/call%20for%20proposal%20-%20annex%20a.pdf)
+
+
+
+
 
 2. Submit the completed Call for Proposal – Annex A by closing date, 11 July 2023 to the School’s General Office.
 
