@@ -27,7 +27,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6364 3679
-      - email: wrps@moe.gov.sg
+      - email: wrps@moe.edu.sg
       - other: ""
     title: General Enquiries & Feedback
   - content:

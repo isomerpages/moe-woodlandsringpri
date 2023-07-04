@@ -160,20 +160,21 @@ Contact No.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 
 **Service Requirements**
 
-1.
-[Call for Proposal by School](/files/call%20for%20proposal.pdf)
+1.[Call For Proposal By School](/files/call%20for%20proposal%201.pdf)
 
-2. [Agreement for Appointment of School Bus Operator](/files/agreement%20for%20appointment%20of%20school%20bus%20operator.pdf)
+
+2. [Agreement for Appointment of School Bus Operator](/files/agreement%20of%20appt%201.pdf)
 
 **Application Procedure**
 
-3. [Call for Proposal - Annex A](/files/call%20for%20proposal%20-%20annex%20a.pdf)
+3. [Call For Proposal - Annex A](/files/call%20for%20proposal%20annex%20a1.pdf)
 
 
 
+4. [Request for School Bus Services](/files/request%20for%20school%20bus%201.pdf)
 
 
-2. Submit the completed Call for Proposal – Annex A by closing date, 11 July 2023 to the School’s General Office
+Submit the completed Call for Proposal – Annex A by closing date, **12 July 2023** to the School’s General Office
 * Address: 11 Woodlands Ring Rd, Singapore 738240
 * Contact No: 63643679
 * Email: siu_lai_kiu@moe.edu.sg
