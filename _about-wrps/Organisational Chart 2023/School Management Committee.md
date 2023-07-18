@@ -15,6 +15,6 @@ School Management Committee
 
 ![](/images/Staff/MGTCOM4.png)
 
-![](/images/Staff/MGTCOM51.png)
+![](/images/Staff/rita2024.png)
 
 ![](/images/Staff/MGTCOM6.png)
