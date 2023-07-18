@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/homepage2023.gif
       key_highlights:
-        - title: wrps 25th anniversary celebrations
+        - title: ""
           description: ""
           url: ""
 ---
