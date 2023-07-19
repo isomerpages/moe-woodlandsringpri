@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/homepage2023.gif
       key_highlights:
-        - title: WRPS 25th Anniversary video
+        - title: ""
           description: ""
-          url: https://www.youtube.com/watch?v=vg6t5BLpYRM
+          url: h?v=vg6t5BLpYRM
   - infobar:
       title: WRPS 25th Anniversary Video
       button: Video
