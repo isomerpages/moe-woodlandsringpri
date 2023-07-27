@@ -12,8 +12,8 @@ sections:
         - title: ""
           description: ""
           url: h?v=vg6t5BLpYRM
-  - infobar:
-      title: WRPS 25th Anniversary Video
-      button: Video
-      url: https://www.youtube.com/watch?v=vg6t5BLpYRM
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
