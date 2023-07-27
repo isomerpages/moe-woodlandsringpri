@@ -9,11 +9,7 @@ sections:
   - hero:
       background: /images/homepage2023.gif
       key_highlights:
-        - title: ""
+        - title: WRPS 25th Anniversary Video
           description: ""
           url: h?v=vg6t5BLpYRM
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
