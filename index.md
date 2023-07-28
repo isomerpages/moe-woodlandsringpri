@@ -14,6 +14,6 @@ sections:
           url: https://www.youtube.com/watch?v=Cug-_edCSDg&t=4126s
         - title: Primary 3 and 4 Parents Engagement 2023
           description: ""
-          url: ifo-for-parents/parents-briefing/permalink/etball/permalink/
+          url: /info-for-parents/parents-briefing/permalink/permalink/etball/permalink/
       url: /infoforparents/parentsbriefing/permalink/
 ---
