@@ -9,7 +9,11 @@ sections:
   - hero:
       background: /images/homepage2023.gif
       key_highlights:
-        - title: ""
+        - title: WRPS 25th Anniversary Video
           description: ""
-          url: ""
+          url: https://www.youtube.com/watch?v=Cug-_edCSDg&t=4126s
+        - title: Primary 3 and 4 Parents Engagement 2023
+          description: ""
+          url: /info-for-parents/parents-briefing/permalink/
+      url: /infoforparents/parentsbriefing/permalink/
 ---

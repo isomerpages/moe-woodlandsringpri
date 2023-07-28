@@ -6,180 +6,194 @@ description: ""
 1)Transport Operator Information
 ===========
 
-        
+ 
 
-Name of Company/Operator&nbsp;&nbsp; \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 96 Transit
+Name of Company/Operator - **96 Transit**
 
-Address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Blk 134, Ang Mo Kio Ave 3, #04-1689 Singapore 560134
+Address - Blk 451 Choa Chu Kang Ave 4 #11-151 Singapore 680451
 
-Email address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [96transitsg@gmail.com](mailto:96transitsg@gmail.com)
+Email address - 96transitsg@gmail.com
 
-Contact No.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 86689923
+Contact No. - 86689923
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" align="left" width="629" style="width:471.55pt;border-collapse:collapse;mso-table-overlap:
- never;mso-yfti-tbllook:1184;mso-table-lspace:9.0pt;margin-left:6.75pt;
- mso-table-rspace:9.0pt;margin-right:6.75pt;mso-table-anchor-vertical:paragraph;
- mso-table-anchor-horizontal:margin;mso-table-left:left;mso-table-top:11.3pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:8.15pt"><td width="143" nowrap="" valign="bottom" style="width:107.4pt;border:solid windowtext 1.0pt;
-  border-bottom:solid black 1.0pt;mso-border-alt:solid windowtext .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:8.15pt"><p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
-  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
-  margin;mso-element-top:11.3pt;mso-height-rule:exactly"><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-language:EN-SG">Distance</span></p></td><td width="260" nowrap="" colspan="2" valign="bottom" style="width:195.35pt;
-  border:solid windowtext 1.0pt;border-left:none;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:8.15pt"><p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
-  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
-  paragraph;mso-element-anchor-horizontal:margin;mso-element-top:11.3pt;
-  mso-height-rule:exactly"><span style="font-size:14.0pt;line-height:107%;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-language:EN-SG">Up to 15 seater</span></p></td><td width="225" nowrap="" colspan="2" valign="bottom" style="width:168.8pt;border:
-  solid windowtext 1.0pt;border-left:none;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:8.15pt"><p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
-  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
-  paragraph;mso-element-anchor-horizontal:margin;mso-element-top:11.3pt;
-  mso-height-rule:exactly"><span style="font-size:14.0pt;line-height:107%;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-language:EN-SG">&gt;15-30 seater</span></p></td></tr><tr style="mso-yfti-irow:1;height:8.15pt"><td width="143" nowrap="" valign="bottom" style="width:107.4pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
-  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:8.15pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
-  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
-  mso-element-anchor-horizontal:margin;mso-element-top:11.3pt;mso-height-rule:
-  exactly"><span style="font-size:14.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-language:EN-SG">&nbsp;</span></p></td><td width="117" nowrap="" valign="bottom" style="width:87.55pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:8.15pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
-  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
-  mso-element-anchor-horizontal:margin;mso-element-top:11.3pt;mso-height-rule:
-  exactly"><span style="font-size:14.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-language:EN-SG">1 way</span></p></td><td width="144" nowrap="" valign="bottom" style="width:107.8pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:8.15pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
-  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
-  mso-element-anchor-horizontal:margin;mso-element-top:11.3pt;mso-height-rule:
-  exactly"><span style="font-size:14.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-language:EN-SG">2 way</span></p></td><td width="90" nowrap="" valign="bottom" style="width:67.35pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:8.15pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
-  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
-  mso-element-anchor-horizontal:margin;mso-element-top:11.3pt;mso-height-rule:
-  exactly"><span style="font-size:14.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-language:EN-SG">1 way</span></p></td><td width="135" nowrap="" valign="bottom" style="width:101.4pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:8.15pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
-  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
-  mso-element-anchor-horizontal:margin;mso-element-top:11.3pt;mso-height-rule:
-  exactly"><span style="font-size:14.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-language:EN-SG">2 way</span></p></td></tr><tr style="mso-yfti-irow:2;height:8.15pt"><td width="143" nowrap="" valign="bottom" style="width:107.4pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
-  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:8.15pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
-  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
-  mso-element-anchor-horizontal:margin;mso-element-top:11.3pt;mso-height-rule:
-  exactly"><span style="font-size:14.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-language:EN-SG">Up to 2km</span></p></td><td width="117" nowrap="" valign="bottom" style="width:87.55pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:8.15pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
-  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
-  mso-element-anchor-horizontal:margin;mso-element-top:11.3pt;mso-height-rule:
-  exactly"><span style="font-size:14.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-language:EN-SG">$160</span></p></td><td width="144" nowrap="" valign="bottom" style="width:107.8pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:8.15pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
-  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
-  mso-element-anchor-horizontal:margin;mso-element-top:11.3pt;mso-height-rule:
-  exactly"><span style="font-size:14.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-language:EN-SG">$180</span></p></td><td width="90" nowrap="" valign="bottom" style="width:67.35pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:8.15pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
-  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
-  mso-element-anchor-horizontal:margin;mso-element-top:11.3pt;mso-height-rule:
-  exactly"><span style="font-size:14.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-language:EN-SG">$160</span></p></td><td width="135" nowrap="" valign="bottom" style="width:101.4pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:8.15pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
-  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
-  mso-element-anchor-horizontal:margin;mso-element-top:11.3pt;mso-height-rule:
-  exactly"><span style="font-size:14.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-language:EN-SG">$180</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:8.15pt"><td width="143" nowrap="" valign="bottom" style="width:107.4pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:8.15pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
-  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
-  mso-element-anchor-horizontal:margin;mso-element-top:11.3pt;mso-height-rule:
-  exactly"><span style="font-size:14.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-language:EN-SG">&gt;2 – 4km</span></p></td><td width="117" nowrap="" valign="bottom" style="width:87.55pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:8.15pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
-  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
-  mso-element-anchor-horizontal:margin;mso-element-top:11.3pt;mso-height-rule:
-  exactly"><span style="font-size:14.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-language:EN-SG">$190</span></p></td><td width="144" nowrap="" valign="bottom" style="width:107.8pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:8.15pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
-  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
-  mso-element-anchor-horizontal:margin;mso-element-top:11.3pt;mso-height-rule:
-  exactly"><span style="font-size:14.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-language:EN-SG">$210</span></p></td><td width="90" nowrap="" valign="bottom" style="width:67.35pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:8.15pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
-  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
-  mso-element-anchor-horizontal:margin;mso-element-top:11.3pt;mso-height-rule:
-  exactly"><span style="font-size:14.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-language:EN-SG">$190</span></p></td><td width="135" nowrap="" valign="bottom" style="width:101.4pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:8.15pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
-  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
-  mso-element-anchor-horizontal:margin;mso-element-top:11.3pt;mso-height-rule:
-  exactly"><span style="font-size:14.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-language:EN-SG">$210</span></p></td></tr></tbody></table>
-	
-	
+Initial Contract Period (1 January 2024 to 31 December 2025)
+
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="601" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+ mso-border-insideh:1.0pt solid black;mso-border-insidev:1.0pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:16.55pt"><td width="120" rowspan="2" valign="top" style="width:90.1pt;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:16.55pt"><p class="MsoNormal" style="margin-left:6.8pt;line-height:normal;mso-pagination:
+  none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes"><span style="font-size:14.0pt;color:black">Distance</span></p></td><td width="240" colspan="2" valign="top" style="width:180.35pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:16.55pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">Up to 15 seater</span></p></td><td width="240" colspan="2" valign="top" style="width:180.3pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:16.55pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">&gt;15 seater</span></p></td></tr><tr style="mso-yfti-irow:1;height:18.95pt"><td width="120" valign="top" style="width:90.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.95pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">1 way</span></p></td><td width="120" valign="top" style="width:90.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.95pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">2 way</span></p></td><td width="120" valign="top" style="width:90.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.95pt"><p class="MsoNormal" align="right" style="margin-right:6.05pt;text-align:right;
+  line-height:normal;mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:15.5pt;color:black">1 way</span></p></td><td width="120" valign="top" style="width:90.2pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.95pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">2 way</span></p></td></tr><tr style="mso-yfti-irow:2;height:18.8pt"><td width="120" valign="top" style="width:90.1pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:18.8pt"><p class="MsoNormal" style="margin-left:6.75pt;line-height:normal;mso-pagination:
+  none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes"><span style="font-size:14.0pt;color:black">Up to 2km</span></p></td><td width="120" valign="top" style="width:90.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.8pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">$190</span></p></td><td width="120" valign="top" style="width:90.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.8pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">$210</span></p></td><td width="120" valign="top" style="width:90.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.8pt"><p class="MsoNormal" align="right" style="margin-right:9.1pt;text-align:right;
+  line-height:normal;mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">$190</span></p></td><td width="120" valign="top" style="width:90.2pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.8pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">$210</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:18.95pt"><td width="120" valign="top" style="width:90.1pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:18.95pt"><p class="MsoNormal" style="margin-left:6.3pt;line-height:normal;mso-pagination:
+  none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes"><span style="font-size:14.0pt;color:black">&gt;2-4km</span></p></td><td width="120" valign="top" style="width:90.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.95pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">$220</span></p></td><td width="120" valign="top" style="width:90.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.95pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">$240</span></p></td><td width="120" valign="top" style="width:90.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.95pt"><p class="MsoNormal" align="right" style="margin-right:9.1pt;text-align:right;
+  line-height:normal;mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">$220</span></p></td><td width="120" valign="top" style="width:90.2pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.95pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">$240</span></p></td></tr></tbody></table>
+
+Option Period (1 January 2026 to 31 December 2027)
+
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="601" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+ mso-border-insideh:1.0pt solid black;mso-border-insidev:1.0pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:16.55pt"><td width="120" rowspan="2" valign="top" style="width:90.1pt;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:16.55pt"><p class="MsoNormal" style="margin-left:6.8pt;line-height:normal;mso-pagination:
+  none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes"><span style="font-size:14.0pt;color:black">Distance</span></p></td><td width="240" colspan="2" valign="top" style="width:180.35pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:16.55pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">Up to 15 seater</span></p></td><td width="240" colspan="2" valign="top" style="width:180.3pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:16.55pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">&gt;15 seater</span></p></td></tr><tr style="mso-yfti-irow:1;height:18.95pt"><td width="120" valign="top" style="width:90.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.95pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">1 way</span></p></td><td width="120" valign="top" style="width:90.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.95pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">2 way</span></p></td><td width="120" valign="top" style="width:90.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.95pt"><p class="MsoNormal" align="right" style="margin-right:6.05pt;text-align:right;
+  line-height:normal;mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:15.5pt;color:black">1 way</span></p></td><td width="120" valign="top" style="width:90.2pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.95pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">2 way</span></p></td></tr><tr style="mso-yfti-irow:2;height:18.8pt"><td width="120" valign="top" style="width:90.1pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:18.8pt"><p class="MsoNormal" style="margin-left:6.75pt;line-height:normal;mso-pagination:
+  none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes"><span style="font-size:14.0pt;color:black">Up to 2km</span></p></td><td width="120" valign="top" style="width:90.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.8pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">$190</span></p></td><td width="120" valign="top" style="width:90.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.8pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">$210</span></p></td><td width="120" valign="top" style="width:90.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.8pt"><p class="MsoNormal" align="right" style="margin-right:9.1pt;text-align:right;
+  line-height:normal;mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">$190</span></p></td><td width="120" valign="top" style="width:90.2pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.8pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">$210</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:18.95pt"><td width="120" valign="top" style="width:90.1pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:18.95pt"><p class="MsoNormal" style="margin-left:6.3pt;line-height:normal;mso-pagination:
+  none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes"><span style="font-size:14.0pt;color:black">&gt;2-4km</span></p></td><td width="120" valign="top" style="width:90.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.95pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">$220</span></p></td><td width="120" valign="top" style="width:90.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.95pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">$240</span></p></td><td width="120" valign="top" style="width:90.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.95pt"><p class="MsoNormal" align="right" style="margin-right:9.1pt;text-align:right;
+  line-height:normal;mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">$220</span></p></td><td width="120" valign="top" style="width:90.2pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:18.95pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span style="font-size:14.0pt;color:black">$240</span></p></td></tr></tbody></table>
+
+
+
+
 	
 =====================================================================
-# 2)School Bus Advertisement (For Bus Operators)
+# 2)Request for School Bus Services (For Parents)
 
 
-**To apply, please refer to the Service Requirements and the Application Procedure below.**
+**Parents who wish to engage the Bus Service for their children, please download the form below and submit it to the bus company.**
 
-**Service Requirements**
-
-1.[Call For Proposal By School](/files/call%20for%20proposal%201.pdf)
-
-
-2. [Agreement for Appointment of School Bus Operator](/files/agreement%20of%20appt%201.pdf)
-
-**Application Procedure**
-
-3. [Call For Proposal - Annex A](/files/call%20for%20proposal%20annex%20a1.pdf)
-
-
-
-4. [Request for School Bus Services](/files/request%20for%20school%20bus%201.pdf)
-
-
-Submit the completed Call for Proposal – Annex A by closing date, **12 July 2023** to the School’s General Office
-* Address: 11 Woodlands Ring Rd, Singapore 738240
-* Contact No: 63643679
-* Email: siu_lai_kiu@moe.edu.sg
-*Contact Person: Mdm Siu Lai Kiu
-
-**How to get there?**
-* Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
-* Bus Number: 912/912A – 1 minute walking distance
+[Request for School Bus Service](/files/request%20for%20school%20bus%20service.pdf)
