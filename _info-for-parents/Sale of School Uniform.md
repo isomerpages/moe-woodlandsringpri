@@ -19,7 +19,7 @@ Parents are encouraged to use online uniform ordering for home delivery service.
 
 Please register an online account before making purchases & a home delivery service ($6 per trip) can  be arranged.
 
-Login to [www.asencio.com.sg](www.asencio.com.sg) and register an account before making purchases.
+Login to [https://asencio.com.sg/](https://asencio.com.sg/)  and register an account before making purchases.
 
 Below are the steps to register an online account:
 
