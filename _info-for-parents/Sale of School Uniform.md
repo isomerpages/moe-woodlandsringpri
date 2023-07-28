@@ -60,5 +60,3 @@ Cash, Credit Card, PayNow and PayLah! only.
 **Office Hotline (Weekdays 9am-6pm only):**
 
 67643102
-
-
