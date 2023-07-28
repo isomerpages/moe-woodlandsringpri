@@ -11,5 +11,5 @@ sections:
       key_highlights:
         - title: WRPS 25th Anniversary Video
           description: ""
-          url: https://youtu.be/Cug-_edCSDg
+          url: https://www.youtube.com/watch?v=Cug-_edCSDg&t=4126s
 ---
