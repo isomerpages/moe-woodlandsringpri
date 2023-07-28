@@ -196,3 +196,4 @@ Option Period (1 January 2026 to 31 December 2027)
 
 **Parents who wish to engage the Bus Service for their children, please download the form below and submit it to the bus company.**
 
+[Request for School Bus Service](/files/request%20for%20school%20bus%20service.pdf)
