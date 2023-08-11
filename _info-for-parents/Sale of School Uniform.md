@@ -7,8 +7,9 @@ description: ""
 
  ![](/images/ascensio.png)      
 
-120 Hillview Avenue #05-02 Kewalram Hillview Singapore 669594 ![](file:///C:/Users/S69093~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)
-Tel: 67643102   Fax:67641032 
+120 Hillview Avenue #05-02 Kewalram Hillview 
+Singapore 669594 ![](file:///C:/Users/S69093~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)
+Tel: 67643102   Fax:67641032
 
 Website:  [https://asencio.com.sg/](https://asencio.com.sg/)
 
