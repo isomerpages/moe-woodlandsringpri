@@ -12,3 +12,5 @@ COE / Circulars 2023 (to be updated soon)
 
 
 [2023 Term 3 Primary 5 Matters and Calendar of Events.pdf](/files/2023%20term%203%20primary%205%20matters%20and%20calendar%20of%20events.pdf)
+
+[2023 Term 3 Primary 6 Matters and Calendar of Events.pdf](/files/2023%20term%203%20primary%206%20matters%20and%20calendar%20of%20events.pdf)
