@@ -6,15 +6,4 @@ description: ""
 COE / Circulars 2023 (to be updated soon)
 =========================================
 
-| Term 2 2023 	|  	|
-|:---:	|:---:	|
-| COE/Circulars 	| Skills and Topics (Semester 1) 	|
-|
-
-
-
-
-
-| Skills and Topics (Semester 1 2023) (To be updated) 	|
-|---	|
-|
+[2023 COE Term 3 for Students](/files/2023%20coe%20term%203%20for%20students%20.pdf)
