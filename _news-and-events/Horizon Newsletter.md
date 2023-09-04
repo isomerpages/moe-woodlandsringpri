@@ -3,14 +3,14 @@ title: Horizon Newsletter
 permalink: /news-and-events/horizon-newsletter/permalink/
 description: ""
 ---
-
-
 The Horizon Issue 2 2023
 ------------------------
 ![Page1](/images/Horizon/wrps_single_pg-1.png)
 ![](/images/Horizon/wrps_single_pg-2.png)
 ![](/images/Horizon/wrps_single_pg-3.png)
 ![](/images/Horizon/wrps_single_pg-4.png)
+![](/images/Horizon/wrps_single_pg-5.png)
+![](/images/Horizon/wrps_single_pg-6.png)
 
 
 
