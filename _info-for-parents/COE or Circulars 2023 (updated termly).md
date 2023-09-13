@@ -9,6 +9,8 @@ COE / Circulars 2023
 
 [TERM 4 CCA SESSIONS](/files/term%204%20cca%20sessions.pdf)
 
+[COE TERM 4](/files/2023%20coe%20term%204%20_%20student%20copy%20_%2025%20august.pdf)
+
 
 
 
