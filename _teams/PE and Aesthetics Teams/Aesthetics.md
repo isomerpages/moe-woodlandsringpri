@@ -6,7 +6,16 @@ third_nav_title: PE and Aesthetics Teams
 ---
 Aesthetics
 ==========
-![](/images/aesthetics.jpg)
+
+At Woodlands Ring Primary School, our Aesthetics programme, FAME (Formative Art &amp; Music
+Experience) aims to nurture our students as passionate learners and develop their abilities and interests
+in the Arts. Every WRPS pupil will build a strong foundation in the Arts through the school’s curriculum,
+and a plethora of school-wide programmes that caters to their interests. Students engage in rich Arts
+experiences through a variety of instruments, music and art forms via our enrichment programmes and
+opportunities for Arts expression. Through FAME, we nurture our students’ understanding and
+appreciation of the Arts so that they can express themselves and communicate with others in this
+domain.
+
 Vision and Mission
 ------------------
 
@@ -25,8 +34,8 @@ Vision and Mission
 
 | Art Team | Designation |
 | --- | --- |
-| Mdm Norsarah Ramli | Teacher |
-| Mrs Sharon Toh | Teacher |
+| Mrs Sharon Toh | Art Coordinator |
+| Mdm Norsatah Ramli | Teacher |
 | Mr Muhammad | Teacher |
 
 **Art &amp; Music activities during Sports &amp; Aesthetics Week**
