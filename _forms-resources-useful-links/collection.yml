@@ -2,7 +2,6 @@ collections:
   forms-resources-useful-links:
     output: true
     order:
-      - Example Title.md
       - Lunch Pass 2024.md
       - Canteen.md
       - Transport Information.md
