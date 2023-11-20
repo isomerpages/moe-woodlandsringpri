@@ -16,8 +16,8 @@ Overview
 
 | Name | Designation |
 | --- | --- |
-| **Mr Lim Kok Kiong** | **HOD, ICT and Innovation** |
-| **Ms Chan Pei Kee** | **ICT Coordinator** |
+| **Mr Lim Kok Kiong** | **HOD, ICT and Innovation** 
+| **Ms Chan Pei Kee** | **ICT Coordinator**
 | **Mdm Sharina** | **IT Manager** |
 
   
