@@ -16,4 +16,10 @@ sections:
           description: ""
           url: /info-for-parents/parents-briefing/permalink/
       url: /infoforparents/parentsbriefing/permalink/
+  - infobar:
+      title: Primary One Orientation
+      subtitle: Primary One Orientation
+      id: infobar
+      description: Infobar description
+      button: Button Text
 ---
