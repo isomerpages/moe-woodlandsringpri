@@ -7,6 +7,8 @@ variant: markdown
 The Horizon Issue 3 2023
 ------------------------
 ![](/images/Horizon/WRPS_The_Horizon_2023___Issue_3_1_1_1.png)
+![](/images/Horizon/WRPS_The_Horizon_2023___Issue_3_2_2_1.png)
+
 
 
 
