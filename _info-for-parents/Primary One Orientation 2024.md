@@ -1,5 +1,5 @@
 ---
-title: Primary One Orientation 2023
+title: Primary One Orientation 2024
 permalink: /info-for-parents/p1/permalink/
 variant: markdown
 description: ""
