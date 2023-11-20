@@ -15,6 +15,9 @@ sections:
         - title: Primary 3 and 4 Parents Engagement 2023
           description: ""
           url: /info-for-parents/parents-briefing/permalink/
+        - title: 2024 Booklist
+          description: ""
+          url: /forms-resources-useful-links/booklist/permalink/
       url: /infoforparents/parentsbriefing/permalink/
   - infobar:
       title: Primary One Orientation
