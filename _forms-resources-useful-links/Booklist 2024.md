@@ -22,3 +22,4 @@ description: ""
 
 [Primary 6](/files/Woodlands_Ring_Primary_School____Booklist_AY_2024___P6.pdf)
 
+[Primary 6 with Higher Maths](/files/Woodlands_Ring_Primary_School____Booklist_AY_2024___P6__Higher_Maths_.pdf)
