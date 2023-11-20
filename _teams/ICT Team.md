@@ -2,6 +2,7 @@
 title: ICT Team
 permalink: /teams/ict-team/permalink/
 description: ""
+variant: markdown
 ---
 ICT Team
 ========
@@ -15,8 +16,8 @@ Overview
 
 | Name | Designation |
 | --- | --- |
-| **Mr Lim Kok Kiong** | **HOD, ICT and Innovation** |
-| **Mr S Nelavannan** | **Subject Head, ICT** |
+| **Mr Lim Kok Kiong** | **HOD, ICT and Innovation** 
+| **Ms Chan Pei Kee** | **ICT Coordinator**
 | **Mdm Sharina** | **IT Manager** |
 
   
