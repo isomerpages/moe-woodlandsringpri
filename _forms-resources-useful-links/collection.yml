@@ -2,6 +2,7 @@ collections:
   forms-resources-useful-links:
     output: true
     order:
+      - Booklist 2024.md
       - Canteen.md
       - Transport Information.md
       - Forms.md
