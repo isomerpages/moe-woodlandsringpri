@@ -18,7 +18,9 @@ sections:
       url: /infoforparents/parentsbriefing/permalink/
   - infobar:
       title: Primary One Orientation
-      subtitle: Primary One Orientation
+      subtitle: Primary One Orientation 2024
       id: infobar
       description: Click at Info for Parents
+      url: /info-for-parents/p1/permalink/
+      button: Click here
 ---
