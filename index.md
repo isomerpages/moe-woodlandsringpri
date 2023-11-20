@@ -20,6 +20,5 @@ sections:
       title: Primary One Orientation
       subtitle: Primary One Orientation
       id: infobar
-      description: Infobar description
-      button: Button Text
+      description: Click at Info for Parents
 ---
