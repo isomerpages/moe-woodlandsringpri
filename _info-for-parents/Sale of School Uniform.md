@@ -1,7 +1,8 @@
 ---
 title: Sale of School Uniform
-permalink: /info-for-parents/permalink/
+permalink: /info-for-parents/uniform/permalink/
 description: ""
+variant: tiptap
 ---
 **For information on the purchase of the school uniform, please click the link below.**
 

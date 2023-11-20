@@ -1,7 +1,8 @@
 ---
 title: Lunch Pass 2024
-permalink: /info-for-parents/permalink/
+permalink: /info-for-parents/lunch/permalink/
 description: ""
+variant: tiptap
 ---
 # Lunch Pass 2024
 
