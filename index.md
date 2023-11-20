@@ -16,8 +16,8 @@ sections:
           description: ""
           url: /info-for-parents/parents-briefing/permalink/
         - title: 2024 Booklist
-          description: Key Highlight description
-          url: ""
+          description: ""
+          url: /forms-resources-useful-links/booklist/permalink/
       url: /infoforparents/parentsbriefing/permalink/
   - infobar:
       title: Primary One Orientation
