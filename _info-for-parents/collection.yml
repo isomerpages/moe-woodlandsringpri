@@ -2,6 +2,7 @@ collections:
   info-for-parents:
     output: true
     order:
+      - Primary One Orientation 2023.md
       - Sale of School Uniform.md
       - Lunch Pass 2024.md
       - COE or Circulars 2023 (updated termly).md
