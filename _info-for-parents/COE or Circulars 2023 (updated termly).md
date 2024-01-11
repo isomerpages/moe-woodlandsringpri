@@ -2,8 +2,9 @@
 title: COE or Circulars 2023 (updated termly)
 permalink: /info-for-parents/coe/permalink/
 description: ""
+variant: markdown
 ---
-COE / Circulars 2023 
+COE / Circulars 2024 
 =========================================
 ### TERM 4
 
