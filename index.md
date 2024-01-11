@@ -12,7 +12,7 @@ sections:
         - title: WRPS 25th Anniversary Video
           description: ""
           url: https://www.youtube.com/watch?v=Cug-_edCSDg&t=4126s
-        - title: Primary 3 and 4 Parents Engagement 2023
+        - title: Parents Engagement 2024
           description: ""
           url: /info-for-parents/parents-briefing/permalink/
         - title: 2024 Booklist
