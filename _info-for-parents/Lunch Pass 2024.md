@@ -4,9 +4,4 @@ permalink: /info-for-parents/lunch/permalink/
 description: ""
 variant: tiptap
 ---
-# Lunch Pass 2024
-
-##### Parents please download the Application for Lunch Pass 2024 and fill up the necessary.
-##### Submit the form to the General Office for approval.
-
-[Application for Lunch Pass 2024](/files/application%20for%20lunch%20pass%202024.pdf)
+<h1>Lunch Pass 2024</h1><h5>Parents please download the Application for Lunch Pass 2024 and fill up the necessary.</h5><h5>Submit the form to the General Office for approval.<br><br><a href="/files/Application_for_Lunch_Pass_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Lunch Pass 2024</a></h5><p></p>
