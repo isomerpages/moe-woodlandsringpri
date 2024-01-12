@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Booklist 2024.md
-      - WRPS Students Group Insurance Information.md
       - Canteen.md
       - Transport Information.md
       - Forms.md
