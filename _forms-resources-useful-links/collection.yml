@@ -2,8 +2,8 @@ collections:
   forms-resources-useful-links:
     output: true
     order:
-      - WRPS Students Group Insurance Information.md
       - Booklist 2024.md
+      - WRPS Students Group Insurance Information.md
       - Canteen.md
       - Transport Information.md
       - Forms.md
