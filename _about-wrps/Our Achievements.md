@@ -2,50 +2,6 @@
 title: Our Achievements
 permalink: /about-wrps/our-achievements/permalink/
 description: ""
+variant: tiptap
 ---
-Our Achievements
-================
-<img src="/images/SA.jpg" style="width:50%">
-
-**Woodlands Ring Primary School is proud to receive the following awards:**
-
-**2021**
-![](/images/KARINE.jpg)
-
-**2019**
-
-| Event 	| Attainment Level 	| CCA/Team 	| Pupil 	|
-|:---:	|:---:	|:---:	|:---:	|
-| The 30th National Schools Chinese<br>Calligraphy Competition 	| Outstanding Award 	| CL 	| Ng Rui Yi Doreen (6R) 	|
-| National Primary School Visual Art Competition 2019 	| Consolation prize 	| CL 	| Chen Xin Hao (3V) 	|
-| 10th National Pen Calligraphy Competition 2019 	| Consolation Prize 	| CL 	| Ng Rui Yi Doreen (6R) 	|
-| 25th National Primary School On-the-Spot Chinese Creative Essay Writing Competition 	| Outstanding 	| CL 	| Ng Rui Yi Doreen (6R) 	|
-| 25th National Primary School On-the-Spot Chinese Creative Essay Writing Competition 	| Outstanding 	| CL 	| Sun Jia Ze (5T) 	|
-| 2019 National Primary School Poetry Writing Competition 	| Commendation 	| CL 	| Ng Rui Yi Doreen (6R) 	|
-| Saya Boleh Mengarang 	| Gold Finalist 	| ML 	| Md Haider (3V) 	|
-| Saya Boleh Mengarang 	| Silver 	| ML 	| Hail Bin Kosnan (4V) 	|
-| Saya Boleh Mengarang 	| Bronze 	| ML 	| Nurisne Maisarah (4T) 	|
-| Saya Boleh Mengarang 	| Silver 	| ML 	| Juanda Setiawan (5R) 	|
-| Saya Boleh Mengarang 	| Silver 	| ML 	| Noor Ashikin Abd Khalid (5T) 	|
-| Saya Boleh Mengarang 	| Bronze 	| ML 	| Md Mirza Hazman (6R) 	|
-| Peraduan Sahibah 	| Commendation 	| ML 	| 1. Hail Bin Kosnan(4V)<br>2. Umar Bin Saiful(5V)<br>3. Muhd Fadzuli (5T)<br>4. Alfiah Firzane (6R) 	|
-| Periyar Vizha - Singing Competition 	| Motivational Prize 	| TL 	| Deekshitha Senthil (3T) 	|
-| Periyar Vizha - Singing Competition 	| 1st prize 	| TL 	| Sana Ragaraman (2D) 	|
-| Periyar Vizha - Drawing Competition 	| 2nd Prize 	| TL 	| Sangarraju Hasini (4T) 	|
-
-| Event 	| Attainment Level 	| CCA/Team 	| Pupil 	|
-|:---:	|:---:	|:---:	|:---:	|
-| North West CDC Partner Award 	| GOLD 	| CCE 	|  	|
-| MOO - O Awards 	| Participation 	| English Dept 	| 3 pupils from 3V 	|
-| North West Outstanding All-Rounder Student (OARS) Award 	| $300 & certificate 	| Student Leadership 	| Dora Lim - 6 V<br>Emily Gan - 6V 	|
-| 2019 Chinese New Year Calligraphy Competition 	| consolation prize 	| Chinese Dept 	| Ng Rui Yi Doreen (6R) 	|
-| STAR Project (P3 VIA - Happy Toilet) 	| GOLD 	| CCE 	| By Restroom Association Singapore 	|
-| National Primary School Visual Art Competition 2019 	| consolation prize 	| Chinese Dept 	|  	|
-| Tamil Spelling Bee National Competition 	| 2nd Prize 	| Tamil Dept 	| Tanisha Senthil 5T<br>Chidviya Chidambaram 5V<br>Muthukumar Mahisha 4V<br>Thirusiha Pirapakaran 4T 	|
-| North Zone - Inter Primary School Football Championship 2019 	| North Zone Champion 	| 1. Football, Senior Boys<br>2. Football, Junior Boys 	|  	|
-| National Rope Skipping Competition 	| 8th position 	| Senior Girls Double Dutch 	|  	|
-
-
-![](/images/award.png)
-**Niche Programmes: MOE Applied Learning Programme (ALP)**
-**Investigative Project Work @ WRPS**
+<h1>Our Achievements</h1><div class="isomer-image-wrapper"><img style="width:50%" height="auto" width="100%" src="/images/SA.jpg"></div><h4><strong>Woodlands Ring Primary School is proud to receive the following awards:</strong></h4><p><strong>2021</strong></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/KARINE.jpg"></div><p><strong>2019</strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p>Event</p></th><th rowspan="1" colspan="1"><p>Attainment Level</p></th><th rowspan="1" colspan="1"><p>CCA/Team</p></th><th rowspan="1" colspan="1"><p>Pupil</p></th></tr><tr><td rowspan="1" colspan="1"><p>The 30th National Schools Chinese<br>Calligraphy Competition</p></td><td rowspan="1" colspan="1"><p>Outstanding Award</p></td><td rowspan="1" colspan="1"><p>CL</p></td><td rowspan="1" colspan="1"><p>Ng Rui Yi Doreen (6R)</p></td></tr><tr><td rowspan="1" colspan="1"><p>National Primary School Visual Art Competition 2019</p></td><td rowspan="1" colspan="1"><p>Consolation prize</p></td><td rowspan="1" colspan="1"><p>CL</p></td><td rowspan="1" colspan="1"><p>Chen Xin Hao (3V)</p></td></tr><tr><td rowspan="1" colspan="1"><p>10th National Pen Calligraphy Competition 2019</p></td><td rowspan="1" colspan="1"><p>Consolation Prize</p></td><td rowspan="1" colspan="1"><p>CL</p></td><td rowspan="1" colspan="1"><p>Ng Rui Yi Doreen (6R)</p></td></tr><tr><td rowspan="1" colspan="1"><p>25th National Primary School On-the-Spot Chinese Creative Essay Writing Competition</p></td><td rowspan="1" colspan="1"><p>Outstanding</p></td><td rowspan="1" colspan="1"><p>CL</p></td><td rowspan="1" colspan="1"><p>Ng Rui Yi Doreen (6R)</p></td></tr><tr><td rowspan="1" colspan="1"><p>25th National Primary School On-the-Spot Chinese Creative Essay Writing Competition</p></td><td rowspan="1" colspan="1"><p>Outstanding</p></td><td rowspan="1" colspan="1"><p>CL</p></td><td rowspan="1" colspan="1"><p>Sun Jia Ze (5T)</p></td></tr><tr><td rowspan="1" colspan="1"><p>2019 National Primary School Poetry Writing Competition</p></td><td rowspan="1" colspan="1"><p>Commendation</p></td><td rowspan="1" colspan="1"><p>CL</p></td><td rowspan="1" colspan="1"><p>Ng Rui Yi Doreen (6R)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Saya Boleh Mengarang</p></td><td rowspan="1" colspan="1"><p>Gold Finalist</p></td><td rowspan="1" colspan="1"><p>ML</p></td><td rowspan="1" colspan="1"><p>Md Haider (3V)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Saya Boleh Mengarang</p></td><td rowspan="1" colspan="1"><p>Silver</p></td><td rowspan="1" colspan="1"><p>ML</p></td><td rowspan="1" colspan="1"><p>Hail Bin Kosnan (4V)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Saya Boleh Mengarang</p></td><td rowspan="1" colspan="1"><p>Bronze</p></td><td rowspan="1" colspan="1"><p>ML</p></td><td rowspan="1" colspan="1"><p>Nurisne Maisarah (4T)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Saya Boleh Mengarang</p></td><td rowspan="1" colspan="1"><p>Silver</p></td><td rowspan="1" colspan="1"><p>ML</p></td><td rowspan="1" colspan="1"><p>Juanda Setiawan (5R)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Saya Boleh Mengarang</p></td><td rowspan="1" colspan="1"><p>Silver</p></td><td rowspan="1" colspan="1"><p>ML</p></td><td rowspan="1" colspan="1"><p>Noor Ashikin Abd Khalid (5T)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Saya Boleh Mengarang</p></td><td rowspan="1" colspan="1"><p>Bronze</p></td><td rowspan="1" colspan="1"><p>ML</p></td><td rowspan="1" colspan="1"><p>Md Mirza Hazman (6R)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Peraduan Sahibah</p></td><td rowspan="1" colspan="1"><p>Commendation</p></td><td rowspan="1" colspan="1"><p>ML</p></td><td rowspan="1" colspan="1"><p>1. Hail Bin Kosnan(4V)<br>2. Umar Bin Saiful(5V)<br>3. Muhd Fadzuli (5T)<br>4. Alfiah Firzane (6R)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Periyar Vizha - Singing Competition</p></td><td rowspan="1" colspan="1"><p>Motivational Prize</p></td><td rowspan="1" colspan="1"><p>TL</p></td><td rowspan="1" colspan="1"><p>Deekshitha Senthil (3T)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Periyar Vizha - Singing Competition</p></td><td rowspan="1" colspan="1"><p>1st prize</p></td><td rowspan="1" colspan="1"><p>TL</p></td><td rowspan="1" colspan="1"><p>Sana Ragaraman (2D)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Periyar Vizha - Drawing Competition</p></td><td rowspan="1" colspan="1"><p>2nd Prize</p></td><td rowspan="1" colspan="1"><p>TL</p></td><td rowspan="1" colspan="1"><p>Sangarraju Hasini (4T)</p></td></tr></tbody></table><table><tbody><tr><th rowspan="1" colspan="1"><p>Event</p></th><th rowspan="1" colspan="1"><p>Attainment Level</p></th><th rowspan="1" colspan="1"><p>CCA/Team</p></th><th rowspan="1" colspan="1"><p>Pupil</p></th></tr><tr><td rowspan="1" colspan="1"><p>North West CDC Partner Award</p></td><td rowspan="1" colspan="1"><p>GOLD</p></td><td rowspan="1" colspan="1"><p>CCE</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>MOO - O Awards</p></td><td rowspan="1" colspan="1"><p>Participation</p></td><td rowspan="1" colspan="1"><p>English Dept</p></td><td rowspan="1" colspan="1"><p>3 pupils from 3V</p></td></tr><tr><td rowspan="1" colspan="1"><p>North West Outstanding All-Rounder Student (OARS) Award</p></td><td rowspan="1" colspan="1"><p>$300 &amp; certificate</p></td><td rowspan="1" colspan="1"><p>Student Leadership</p></td><td rowspan="1" colspan="1"><p>Dora Lim - 6 V<br>Emily Gan - 6V</p></td></tr><tr><td rowspan="1" colspan="1"><p>2019 Chinese New Year Calligraphy Competition</p></td><td rowspan="1" colspan="1"><p>consolation prize</p></td><td rowspan="1" colspan="1"><p>Chinese Dept</p></td><td rowspan="1" colspan="1"><p>Ng Rui Yi Doreen (6R)</p></td></tr><tr><td rowspan="1" colspan="1"><p>STAR Project (P3 VIA - Happy Toilet)</p></td><td rowspan="1" colspan="1"><p>GOLD</p></td><td rowspan="1" colspan="1"><p>CCE</p></td><td rowspan="1" colspan="1"><p>By Restroom Association Singapore</p></td></tr><tr><td rowspan="1" colspan="1"><p>National Primary School Visual Art Competition 2019</p></td><td rowspan="1" colspan="1"><p>consolation prize</p></td><td rowspan="1" colspan="1"><p>Chinese Dept</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Tamil Spelling Bee National Competition</p></td><td rowspan="1" colspan="1"><p>2nd Prize</p></td><td rowspan="1" colspan="1"><p>Tamil Dept</p></td><td rowspan="1" colspan="1"><p>Tanisha Senthil 5T<br>Chidviya Chidambaram 5V<br>Muthukumar Mahisha 4V<br>Thirusiha Pirapakaran 4T</p></td></tr><tr><td rowspan="1" colspan="1"><p>North Zone - Inter Primary School Football Championship 2019</p></td><td rowspan="1" colspan="1"><p>North Zone Champion</p></td><td rowspan="1" colspan="1"><p>1. Football, Senior Boys<br>2. Football, Junior Boys</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>National Rope Skipping Competition</p></td><td rowspan="1" colspan="1"><p>8th position</p></td><td rowspan="1" colspan="1"><p>Senior Girls Double Dutch</p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/award.png"></div><p><strong>Niche Programmes: MOE Applied Learning Programme (ALP)</strong> <strong>Investigative Project Work @ WRPS</strong></p>

@@ -1,6 +1,6 @@
 ---
-title: WRPS Students Group Insurance Information
-permalink: /forms-resources-useful-links/permalink/
+title: WRPS Student Group Insurance
+permalink: /forms-resources-useful-links/wrpsstudentgroupinsurance/permalink/
 variant: tiptap
 description: ""
 ---

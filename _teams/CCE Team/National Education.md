@@ -3,6 +3,7 @@ title: National Education
 permalink: /teams/cce-team/nationaleducation/permalink/
 description: ""
 third_nav_title: CCE Team
+variant: markdown
 ---
 National Education
 ===========
@@ -88,4 +89,3 @@ _United, determined and well-prepared, we have what it takes to build a bright f
 *   Racial Harmony Day
 *   National Day
 
-![](/images/citizen.png)
