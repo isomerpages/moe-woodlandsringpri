@@ -2,6 +2,7 @@
 title: Science Academic Team
 permalink: /teams/science-academic-team/permalink/
 description: ""
+variant: markdown
 ---
 Science Academic Team
 =====================
@@ -25,7 +26,7 @@ Vision and Mission
 
 Science Department
 -----------------
-![](/images/staff.jpg)
+
   
 
 | Name | Designation |
