@@ -3,6 +3,7 @@ title: Physical Education
 permalink: /teams/physical-education/permalink/
 description: ""
 third_nav_title: PE and Aesthetics Teams
+variant: markdown
 ---
 PE / CCAS / Aesthetics Teams
 ============================
@@ -49,7 +50,7 @@ Key Programmes
 
 Physical Education Department
 -----------------------------
-![](/images/staff.jpg)
+
 <table>
 <thead>
   <tr>

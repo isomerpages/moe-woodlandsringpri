@@ -2,6 +2,7 @@
 title: CCA overview
 permalink: /teams/ccas/
 description: ""
+variant: markdown
 ---
 CCA
 ===
@@ -38,12 +39,3 @@ Attendance is compulsory at every CCA session. A medical certificate or a letter
 
 
 
-CCA Schedule
-------------
-
-
-
-  
-
-CCA Schedule   
-[Term 2 CCA Schedule updated 10 March.pdf](/files/term%202%20cca%20schedule%20updated%2010%20march.pdf)

@@ -3,37 +3,6 @@ title: Basketball
 permalink: /cca/Sports/basketball/permalink/
 description: ""
 third_nav_title: Sports
+variant: tiptap
 ---
-Basketball
-==========
-
-Overview:
----------
-Since its inception in 2016, the WRPS Basketball CCA has been&nbsp;going from strength to strength. Known as the WRPS Eagles, our&nbsp;Basketball boys and girls not only learn fundamental basketball&nbsp;skills and improve on physical conditioning, but also demonstrate&nbsp;values like sportsmanship, resilience and teamwork.&nbsp;Besides welcoming all interested students to join the WRPS&nbsp;Basketball CCA, those who show strong potential in the sport and&nbsp;an affinity for teamwork will be selected to represent the school in&nbsp;various competitions, such as the National School Games.
-
-
-  
-
-
-![](/images/staff.jpg)
-
-| Teachers In-Charge |
-| --- |
-| Ms Tan Yan Lin (IC) |
-| Mrs Tarmizi - Lee Shuqi (AIC) |
-| mdm Choo Zhi Hui |
-| Ms Priyaa |
-| Ms Fong Wui Yen |
-| Ms Toh Yi Ting |
-
-
-Join Us
--------
-![](/images/CCA%20Sports/basketball.jpg)
-
-[WRPS Basketball](https://www.youtube.com/watch?v=XYJ5x3hO5n8)
-
-CCA Participation &amp; Achievements:
----------------------------------
-![](/images/basketball1.png)
-![](/images/basketball2.png)
+<h2>Overview:</h2><p>Since its inception in 2016, the WRPS Basketball CCA has been&nbsp;going from strength to strength. Known as the WRPS Eagles, our&nbsp;Basketball boys and girls not only learn fundamental basketball&nbsp;skills and improve on physical conditioning, but also demonstrate&nbsp;values like sportsmanship, resilience and teamwork.&nbsp;Besides welcoming all interested students to join the WRPS&nbsp;Basketball CCA, those who show strong potential in the sport and&nbsp;an affinity for teamwork will be selected to represent the school in&nbsp;various competitions, such as the National School Games.</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Teachers In-Charge</p></th></tr><tr><td rowspan="1" colspan="1"><p>Ms Tan Yan Lin (IC)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Tarmizi - Lee Shuqi (AIC)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Choo Zhi Hui</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Priyaa</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Fong Wui Yen</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Toh Yi Ting</p></td></tr></tbody></table><h2>Join Us</h2><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/basketball.jpg"></div><p><a href="https://www.youtube.com/watch?v=XYJ5x3hO5n8" rel="noopener noreferrer nofollow" target="_blank">WRPS Basketball</a></p><h2>CCA Participation &amp; Achievements:</h2><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/basketball1.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/basketball2.png"></div><p></p>
