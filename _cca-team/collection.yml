@@ -1,0 +1,24 @@
+collections:
+  cca-team:
+    output: true
+    order:
+      - CCA overview.md
+      - Sports/.keep
+      - Sports/Badminton.md
+      - Sports/Basketball.md
+      - Sports/Football.md
+      - Sports/Floorball.md
+      - Performing & Visual Arts/.keep
+      - Performing & Visual Arts/Art & Crafts Club.md
+      - Performing & Visual Arts/Brass Band.md
+      - Performing & Visual Arts/Choir.md
+      - Performing & Visual Arts/Chinese Dance.md
+      - Performing & Visual Arts/Drama & Literary Club.md
+      - Performing & Visual Arts/Indian Dance.md
+      - Performing & Visual Arts/Malay Dance.md
+      - Performing & Visual Arts/Modern Dance.md
+      - Clubs & Uniform Groups/.keep
+      - Clubs & Uniform Groups/Scouts.md
+      - Clubs & Uniform Groups/Science Club.md
+      - Clubs & Uniform Groups/Infocomm Technology Club.md
+      - CCA Recruitment 2023.md

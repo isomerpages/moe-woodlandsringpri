@@ -1,0 +1,7 @@
+collections:
+  news-and-events:
+    output: true
+    order:
+      - Photo Gallery/.keep
+      - Photo Gallery/Photo Gallery.md
+      - Horizon Newsletter.md

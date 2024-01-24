@@ -1,0 +1,10 @@
+collections:
+  key-programme-at-wrps:
+    output: true
+    order:
+      - Key Programme@WRPS.md
+      - "ALP: BeST@WRPS.md"
+      - "LLP: I Can Soar Leadership.md"
+      - Hooked on Reading.md
+      - POWER.md
+      - Fame@WRPS.md
