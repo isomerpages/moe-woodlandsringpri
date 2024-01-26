@@ -3,6 +3,7 @@ title: Choir
 permalink: /cca-team/performing-and-visual-arts/choir/permalink/
 description: ""
 third_nav_title: Performing & Visual Arts
+variant: markdown
 ---
 Overview:
 ---------
@@ -13,7 +14,7 @@ Choir is one of the longest-serving performance clubs in Woodlands Ring Primary 
 
 _“The only thing better than singing is more singing.” – Ella Fitzgerald_
 
-![](/images/staff.jpg)
+
 
 | Teachers In-Charge |
 | --- |
