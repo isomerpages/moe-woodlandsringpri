@@ -3,6 +3,7 @@ title: Drama & Literary Club
 permalink: /cca-team/performing-and-visual-arts/drama-and-literary-club/permalink/
 description: ""
 third_nav_title: Performing & Visual Arts
+variant: markdown
 ---
 Overview:
 ---------
@@ -17,7 +18,7 @@ In Drama &amp; Literary Club, students are given the freedom to unleash their cr
 
 Through our programmes, we endeavour to groom every student with future-ready skills, honing their socio-emotional learning and moulding them to&nbsp;become a confident person, concerned citizen, active contributor and self-directed learner. Students will get to try a myriad of activities that will build&nbsp;their confidence, nourish their sense of empathy, enrich their English&nbsp;language experience and strengthen their love for it.
 
-![](/images/staff.jpg)
+
 
 | Teachers In-Charge |
 | --- |
