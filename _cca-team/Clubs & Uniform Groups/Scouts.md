@@ -3,6 +3,7 @@ title: Scouts
 permalink: /cca-team/clubs-and-uniform-groups/scouts/permalink/
 description: ""
 third_nav_title: Clubs & Uniform Groups
+variant: markdown
 ---
 Scouts
 ======
@@ -24,7 +25,7 @@ Throughout their time in the CCA, Cub Scouts will earn a series of Badges, givin
 
 At Woodlands Ring Primary School, we hope that our Cub Scouts will grow and develop into leaders with heart and character.
 
-![](/images/staff.jpg)
+
 
 | Teachers In-Charge |
 | --- |
