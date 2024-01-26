@@ -3,6 +3,7 @@ title: Infocomm Technology Club
 permalink: /cca-team/clubs-and-uniform-groups/infocomm-technology-club/permalink/
 description: ""
 third_nav_title: Clubs & Uniform Groups
+variant: markdown
 ---
 Overview:
 ---------
@@ -17,7 +18,7 @@ Students will get to take part in various competitions that are held island-wide
 
 CCA sessions in InfoComm will never be a bore!
 
-![](/images/staff.jpg)
+
 
 Join Us
 -------
