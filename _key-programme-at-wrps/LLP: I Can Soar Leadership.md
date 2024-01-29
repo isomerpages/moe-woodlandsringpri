@@ -7,10 +7,9 @@ variant: tiptap
 <h1>Student Leadership</h1>
 <p>In Woodlands Ring Primary school, we tap on Student Leadership which is
 our LLP to deepen learning, develop leadership and promote student initiation.
-This is aligned to our school’s strategic thrust of Fostering Strength
-in Leadership and Character. The Student Leadership Development focuses
-on providing training for all students with the basic leadership skills
-and school values.</p>
+This is aligned to our school’s strategic thrust of Nurturing Leaders of
+Character. The Student Leadership Development focuses on providing training
+for all students with the basic leadership skills and school values.</p>
 <p>In line with our school’s symbolic imagery of a soaring eagle, we believe
 that nurturing students with a strong moral anchor, equipping them with
 leadership skills and 21st century competencies will help them soar in
