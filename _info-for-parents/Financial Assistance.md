@@ -34,22 +34,22 @@ student, his/her unmarried siblings, parents.</p>
 <p>There are various non-profit organizations in Singapore providing financial
 assistance for the needy. The contact details of some of the mainstream
 providers are below:</p>
-<p><strong>Ministry of Community Development, Youth and Sports</strong>
+<p><strong>Ministry of Community Development, Youth and Sports</strong> 
 <br>512A Thomson Road #02-01/09
 <br>SLF Podium S(298137)
 <br>Tel: 6355 5000
 <br>Fax: 6353 6695
 <br><a href="http://app1.mcys.gov.sg/Assistance.aspx" rel="noopener noreferrer nofollow" target="_blank">http://app1.mcys.gov.sg/Assistance.aspx</a>
 </p>
-<p><strong>Chinese Development Assistance Council (CDAC)</strong>
-<br><a href="https://www.cdac.org.sg/en/" rel="noopener noreferrer nofollow" target="_blank">https://www.cdac.org.sg/en/</a>
+<p><strong>Chinese Development Assistance Council (CDAC)</strong> 
+<br><a href="https://www.cdac.org.sg/en/" rel="noopener noreferrer nofollow" target="_blank">https://www.cdac.org.sg/en/</a> 
 <br>Mendaki
 <br>51 Kee Sun Avenue (off Tay Lian Teck Road)
 <br>Singapore 457056
 <br>Tel: 6245 5555
 <br><a href="http://www.mendaki.org.sg/edu-trust-fund/education-resources.aspx" rel="noopener noreferrer nofollow" target="_blank">http://www.mendaki.org.sg/edu-trust-fund/education-resources.aspx</a>
 </p>
-<p><strong>SINDA (Singapore Indian Development Association)</strong>
+<p><strong>SINDA (Singapore Indian Development Association)</strong> 
 <br>No 1. Beatty Road
 <br>Singapore 209943
 <br>Main Tel. Line: 6298 5911
