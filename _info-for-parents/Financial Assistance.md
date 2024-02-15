@@ -24,40 +24,53 @@ student, his/her unmarried siblings, parents.</p>
 <p><strong><u>BENEFITS RECEIVED BY MOE FAS RECIPIENTS&nbsp;</u></strong>
 </p>
 <p>The benefits received by MOE FAS recipients are:</p>
-<p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office/fas.png">
+</div>
+<p>*If the FAS application approval is not from January, the transport subsidy
+will be pro-rated accordingly from the month after your application is
+approved to December of the same year.</p>
+<p>^Subsidies for school meals purchased and consumed in school.</p>
+<h4><br>POSB Smart Buddy</h4>
+<p>Cultivate good money habits early with POSB Smart Buddy. Click on the
+link below to find out more about it.</p>
+<p>POSB Smart Buddy | POSB Singapore</p>
+<p></p>
+<h2>OTHER ORGANISATION FOR ASSISTANCE</h2>
+<h4><strong>LIST OF VOLUNTARY WELFARE ORGANISATIONS FOR FINANCIAL ASSISTANCE</strong></h4>
+<p><strong>Associate of Muslim Professionals</strong> 
+<br>AMP@Pasir Ris
+<br>1 Pasir Ris Dribe 4 #05-11 S(519457)
+<br>Tel: 64163966
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/siu1234.png">
-</div>
-<h2>2.&nbsp;Other&nbsp;organizations</h2>
-<p>There are various non-profit organizations in Singapore providing financial
-assistance for the needy. The contact details of some of the mainstream
-providers are below:</p>
-<p><strong>Ministry of Community Development, Youth and Sports</strong> 
-<br>512A Thomson Road #02-01/09
-<br>SLF Podium S(298137)
-<br>Tel: 6355 5000
-<br>Fax: 6353 6695
-<br><a href="http://app1.mcys.gov.sg/Assistance.aspx" rel="noopener noreferrer nofollow" target="_blank">http://app1.mcys.gov.sg/Assistance.aspx</a>
-</p>
 <p><strong>Chinese Development Assistance Council (CDAC)</strong> 
-<br><a href="https://www.cdac.org.sg/en/" rel="noopener noreferrer nofollow" target="_blank">https://www.cdac.org.sg/en/</a> 
-<br>Mendaki
-<br>51 Kee Sun Avenue (off Tay Lian Teck Road)
-<br>Singapore 457056
-<br>Tel: 6245 5555
-<br><a href="http://www.mendaki.org.sg/edu-trust-fund/education-resources.aspx" rel="noopener noreferrer nofollow" target="_blank">http://www.mendaki.org.sg/edu-trust-fund/education-resources.aspx</a>
-</p>
-<p><strong>SINDA (Singapore Indian Development Association)</strong> 
+<br>CDAC Building&nbsp;
+<br>65 Tanjong Katong Road&nbsp;
+<br>Singapore 436957
+<br>Tel No.: 6841 4889</p>
+<p></p>
+<p><strong>Singapore Indian Development Association</strong> 
 <br>No 1. Beatty Road
 <br>Singapore 209943
-<br>Main Tel. Line: 6298 5911
-<br>Fax Line: 6392 4300
-<br><a href="http://www.sinda.org.sg/scholarshipsbursaries/" rel="noopener noreferrer nofollow" target="_blank">http://www.sinda.org.sg/scholarshipsbursaries/</a>
+<br>Tel. Line: 1800-2954554
+<br>
 </p>
-<hr>
-<p>Please click this following link to access Ministry of Education's site
-for more details on Financial Assistance Scheme.</p>
-<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance Scheme</a>
+<p><strong>Eurasian Association of Singapore&nbsp;</strong>
+<br>139 Ceylon Road
+<br>Singapore 429744&nbsp;
+<br>Tel No.: 6447 1578</p>
+<p></p>
+<p><strong>Lee Foundation&nbsp;</strong>
+<br>65 Chulia Street #44-01
+<br>Singapore 049513
+<br>Tel No.: 6535 4055
+<br>
 </p>
+<p>&nbsp;<strong>Singapore Buddhist Lodge</strong>
+<br>17 Kim Yam Road
+<br>Singapore 239329&nbsp;
+<br>Tel No.: 6737 2630</p>
+<p></p>
+<p>&nbsp;</p>
