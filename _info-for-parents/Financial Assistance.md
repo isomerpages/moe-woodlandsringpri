@@ -57,18 +57,18 @@ link below to find out more about it.</p>
 <br>Tel. Line: 1800-2954554
 <br>
 </p>
-<p><strong>Eurasian Association of Singapore&nbsp;</strong>
+<p><strong>Eurasian Association of Singapore&nbsp;</strong> 
 <br>139 Ceylon Road
 <br>Singapore 429744&nbsp;
 <br>Tel No.: 6447 1578</p>
 <p></p>
-<p><strong>Lee Foundation&nbsp;</strong>
+<p><strong>Lee Foundation&nbsp;</strong> 
 <br>65 Chulia Street #44-01
 <br>Singapore 049513
 <br>Tel No.: 6535 4055
 <br>
 </p>
-<p>&nbsp;<strong>Singapore Buddhist Lodge</strong>
+<p>&nbsp;<strong>Singapore Buddhist Lodge</strong> 
 <br>17 Kim Yam Road
 <br>Singapore 239329&nbsp;
 <br>Tel No.: 6737 2630</p>
