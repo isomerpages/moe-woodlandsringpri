@@ -6,7 +6,6 @@ variant: tiptap
 ---
 <h1>Principal's Message</h1>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff/Principal.jpg">
 </div>
