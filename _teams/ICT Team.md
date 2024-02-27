@@ -10,19 +10,19 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vision</strong>
+<p><strong>Vision</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>“Responsible and discerning users of ICT who are ready for the future”</strong>
+<p><strong>“Responsible and discerning users of ICT who are ready for the future”</strong> 
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mission</strong>
+<p><strong>Mission</strong> 
 <br>
 </p>
 </td>
@@ -203,24 +203,24 @@ in the area of ICT/AVA</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Programme</strong>
+<p><strong>Programme</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>What Is It About</strong>
+<p><strong>What Is It About</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Target Group</strong>
+<p><strong>Target Group</strong> 
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ICT Learning Experience</strong>
+<p><strong>ICT Learning Experience</strong> 
 <br>
 </p>
 </td>
@@ -235,14 +235,14 @@ in the area of ICT/AVA</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>All pupils</strong>
+<p><strong>All pupils</strong> 
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Code for Fun</strong>
+<p><strong>Code for Fun</strong> 
 <br>
 </p>
 </td>
@@ -259,7 +259,7 @@ and computational thinking skills.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P6 pupils</strong>
+<p><strong>P6 pupils</strong> 
 <br>
 </p>
 </td>
