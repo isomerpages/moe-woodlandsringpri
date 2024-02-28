@@ -40,4 +40,5 @@ them according to different contexts.&nbsp;</p>
 <p>We invite you to be part of our community. Together, let’s inspire a love
 for learning and cultivate responsible citizens of tomorrow .</p>
 <p></p>
-<p>Ms Geetha Doraisamy ( Principal )</p>
+<h4>Ms Geetha Doraisamy ( Principal )</h4>
+<p></p>
