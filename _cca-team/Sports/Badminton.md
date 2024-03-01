@@ -71,7 +71,7 @@ core values and socio-emotional competencies in pupils.</p>
 <h2>Join Us</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/badminton.jfif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Badminton/Badminton_2024_compressed.jpg">
 </div>
 <p><a href="https://www.youtube.com/watch?v=gpZ0_t5onkY" rel="noopener noreferrer nofollow" target="_blank">WRPS Badminton</a>
 </p>
