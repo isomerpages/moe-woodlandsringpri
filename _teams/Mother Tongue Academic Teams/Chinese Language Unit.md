@@ -17,19 +17,19 @@ culture and instilling strong Moral Values.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vision</strong>
+<p><strong>Vision</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Active Learners, Proficient&nbsp;Chinese Language&nbsp;Users who appreciate&nbsp;Chinese&nbsp;cultures&nbsp;and uphold values.</strong>
+<p><strong>Active Learners, Proficient&nbsp;Chinese Language&nbsp;Users who appreciate&nbsp;Chinese&nbsp;cultures&nbsp;and uphold values.</strong> 
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mission</strong>
+<p><strong>Mission</strong> 
 <br>
 </p>
 </td>
@@ -128,17 +128,17 @@ culture and instilling strong Moral Values.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Programme</strong>
+<p><strong>Programme</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>What is it about</strong>
+<p><strong>What is it about</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Target Group</strong>
+<p><strong>Target Group</strong> 
 <br>
 </p>
 </td>
