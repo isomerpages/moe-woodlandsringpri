@@ -158,24 +158,6 @@ races.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Darmawisata ke Taman Warisan
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A virtual learning journey to Malay Heritage Centre that focuses on the
-origins as well as culture of the Malays.
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4 Pupils
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mother Tongue Fortnight
 <br>
 </p>
@@ -295,6 +277,19 @@ themes from Primary One to Six. In WRPS, we get pupils “Hooked on Reading”.
 </td>
 <td rowspan="1" colspan="1">
 <p>All Pupils</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Cultural Performances</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Making the learning of Malay language come alive for students through
+the exposure of theater and drama performances.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All pupils</p>
 </td>
 </tr>
 </tbody>
