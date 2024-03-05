@@ -15,19 +15,19 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vision</strong>
+<p><strong>Vision</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Confident and Competent Communicators in Internationally Acceptable English</strong>
+<p><strong>Confident and Competent Communicators in Internationally Acceptable English</strong> 
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mission</strong>
+<p><strong>Mission</strong> 
 <br>
 </p>
 </td>
@@ -45,58 +45,58 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Programme</strong>
+<p><strong>Programme</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>What is it about</strong>
+<p><strong>What is it about</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Target Group</strong>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Speak English Good Movement (SGEM)</strong>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>that focus on speaking good English, in line with the national&nbsp;<u>Speak</u>&nbsp;<u>Good English Movement</u></strong>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>All pupils</strong>
+<p><strong>Target Group</strong> 
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>EL Class Library</strong>
+<p><strong>Speak English Good Movement (SGEM)</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>All EL classrooms are stocked with age-appropriate books which pupils are encouraged to borrow and read.</strong>
+<p><strong>that focus on speaking good English, in line with the national&nbsp;<u>Speak</u>&nbsp;<u>Good English Movement</u></strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>All pupils</strong>
+<p><strong>All pupils</strong> 
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Phonics @ Work</strong>
+<p><strong>EL Class Library</strong> 
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>All EL classrooms are stocked with age-appropriate books which pupils are encouraged to borrow and read.</strong> 
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>All pupils</strong> 
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Phonics @ Work</strong> 
 <br>
 </p>
 </td>
@@ -107,7 +107,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>All P1 pupils</strong>
+<p><strong>All P1 pupils</strong> 
 <br>
 </p>
 </td>
@@ -140,7 +140,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://woodlandsringpri.moe.edu.sg/teams/english-academic-team/hooked-on-reading" rel="noopener noreferrer nofollow" target="_blank"><u>Hooked On Reading Programme</u></a></strong>
+<p><strong><a href="https://woodlandsringpri.moe.edu.sg/teams/english-academic-team/hooked-on-reading" rel="noopener noreferrer nofollow" target="_blank"><u>Hooked On Reading Programme</u></a></strong> 
 <br>
 </p>
 </td>
@@ -149,7 +149,7 @@ variant: tiptap
 </p>
 <p><strong><br></strong>
 </p>
-<p><strong>A collaboration with the National Library Board (NLB)</strong>
+<p><strong>A collaboration with the National Library Board (NLB)</strong> 
 <br>
 </p>
 <p><strong>NLB librarians conduct various activities such as the following:</strong>
