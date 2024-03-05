@@ -23,7 +23,26 @@ Currently, the Chinese dancers in our school perform at various school events li
 
 Join Us
 -------
+
+
 ![](/images/chinese%20dance.jpg)
+
+
+
+
+| ![](/images/CCA%20Sports/Chinese%20Dance/IMG_7180.jpg) | ![](/images/CCA%20Sports/Chinese%20Dance/IMG_6675.jpg) | ![](/images/CCA%20Sports/Chinese%20Dance/IMG_5268.jpg) |
+| -------- | -------- | -------- |
+| ![](/images/CCA%20Sports/Chinese%20Dance/IMG_5264.jpg)     | ![](/images/CCA%20Sports/Chinese%20Dance/IMG_5128.jpg)     |      |
+
+
+
+
+
+
+
+
+
+
 [WRPS Chinese Dance](https://www.youtube.com/watch?v=7pOpHjqfAi0)
 
 
