@@ -25,19 +25,19 @@ enjoyable.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vision</strong>
+<p><strong>Vision</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Proficient&nbsp;Malay Language&nbsp;users who appreciate&nbsp;Malay&nbsp;culture and uphold values</strong>
+<p><strong>Proficient&nbsp;Malay Language&nbsp;users who appreciate&nbsp;Malay&nbsp;culture and uphold values</strong> 
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mission</strong>
+<p><strong>Mission</strong> 
 <br>
 </p>
 </td>
@@ -121,17 +121,17 @@ enjoyable.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Programme</strong>
+<p><strong>Programme</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>What is it about</strong>
+<p><strong>What is it about</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Target Group</strong>
+<p><strong>Target Group</strong> 
 <br>
 </p>
 </td>
