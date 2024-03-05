@@ -8,7 +8,10 @@ variant: markdown
 Overview:
 ---------
 
-Chinese Dance is one of the popular performing arts groups in WRPS. It allows students to artistically express themselves with their limbs and body. The dances cover a wide range, from folk dances to contemporary dance performances. Chinese dance is performed mainly in public celebrations, rituals and ceremonies. Through dancing on stage, students learn how to express feelings with grace and finesse. Apart from performing in school events, students are also given the platform to perform at the bi-annual Singapore Youth Festival held nationwide. The Chinese dancers also have the opportunity to showcase their dance moves through performances outside school, like the National Day Celebration held by Woodlands Community Centre, Youth Festival School Dance Showcase at Gardens by the Bay.
+Chinese Dance consists of many modern and traditional dance genres. The dances cover a wide range, from folk dances to performances in opera and ballet, and may be used in public celebrations, rituals and ceremonies. The best known Chinese dances today are the Dragon dance and the Lion Dance.
+
+Currently, the Chinese dancers in our school perform at various school events like Chinese New Year Concert, National Day Celebration and other major school events etc. They also participate in the Central SYF Judging held every two years. The Chinese dancers also have the opportunity to showcase their dance moves through performances outside school, like the Woodlands Community Chinese New Year Celebration etc.
+
 
 
 
