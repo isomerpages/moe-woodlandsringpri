@@ -30,9 +30,10 @@ Join Us
 
 
 
-| ![](/images/CCA%20Sports/Chinese%20Dance/IMG_7180.jpg) | ![](/images/CCA%20Sports/Chinese%20Dance/IMG_6675.jpg) | ![](/images/CCA%20Sports/Chinese%20Dance/IMG_5268.jpg) |
+| ![](/images/CCA%20Sports/Chinese%20Dance/IMG_7180.jpg) | ![](/images/CCA%20Sports/Chinese%20Dance/IMG_6675.jpg) 
 | -------- | -------- | -------- |
-| ![](/images/CCA%20Sports/Chinese%20Dance/IMG_5264.jpg)     | ![](/images/CCA%20Sports/Chinese%20Dance/IMG_5128.jpg)     |      |
+| ![](/images/CCA%20Sports/Chinese%20Dance/IMG_5264.jpg)     | ![](/images/CCA%20Sports/Chinese%20Dance/IMG_5128.jpg)    
+![](/images/CCA%20Sports/Chinese%20Dance/IMG_5268.jpg)
 
 
 
