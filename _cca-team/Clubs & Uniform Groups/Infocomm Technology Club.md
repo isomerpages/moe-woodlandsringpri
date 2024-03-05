@@ -8,21 +8,25 @@ variant: markdown
 Overview:
 ---------
 
-WRPS InfoComm Club offers students an exciting 3-year journey into Digital Media. We aim to equip students with additional ICT skills at different levels. The skills include digital photography and photo editing, movie-making, website creation and coding. Utilising the resources available in the ICT Department, students will have hands-on sessions using the DSLR cameras, Adobe Photoshop and Movie Maker software and online software for coding and website creation.
+WRPS InfoComm Club offers students an exciting 3-year that ignite interest in Information Communication and Technology (ICT) through enjoyable and impactful experiences, aiding them in acquiring skills like digital media usage, mobile technology navigation and game creation adventures. The club also aims to cultivate teamwork and leadership capabilities at an early age. The InfoComm Club CCA leverages using the
+computer as a tool to aid in students’ cognitive development. 
 
-  
+### Teachers-In-Charge
 
-Students will get to take part in various competitions that are held island-wide. Students will get to interact with students from other schools as they represent the school for competitions, and pick up new skills along the way.
+* Ms Santhi (IC)
+* Mrs Chong (AIC)
+* Mrs Siva
 
-  
-
-CCA sessions in InfoComm will never be a bore!
-
-
+###   Students gets to learn:
+- Intermediate and Advance level in MS Word and PPT
+- Storyboarding and E-Book creation
+- Coding and mobile games creation
+- Photography and Video editing
+- Website creation
 
 Join Us
 -------
-[video to be uploaded to youtube and embed link pasted here]
+
 
 CCA Participation & Achievements:
 ---------------------------------
