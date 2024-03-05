@@ -247,6 +247,10 @@ variant: tiptap
 <li>
 <p><strong>Mdm Veronica Eu</strong>
 </p>
+</li>
+<li>
+<p><strong>Mdm Siti Aisyah (Beginning Teacher)</strong>
+</p>
 <p></p>
 </li>
 </ul>
@@ -275,6 +279,14 @@ variant: tiptap
 </li>
 <li>
 <p><strong>Ms Priyaa</strong>
+</p>
+</li>
+<li>
+<p><strong>Ms Miranda Go (Beginning Teacher)</strong>
+</p>
+</li>
+<li>
+<p><strong>Ms Lucinda (Untrained EL/SS)</strong>
 </p>
 </li>
 </ul>
