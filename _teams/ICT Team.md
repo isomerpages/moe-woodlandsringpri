@@ -276,7 +276,7 @@ and computational thinking skills.</p>
 <th rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_ICT.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Website_ICT.jpg">
 </div>
 <p></p>
 </th>
@@ -285,13 +285,13 @@ and computational thinking skills.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website_ICT_3.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Website_ICT_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website_ICT_2.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Website_ICT_2.jpg">
 </div>
 </td>
 </tr>
