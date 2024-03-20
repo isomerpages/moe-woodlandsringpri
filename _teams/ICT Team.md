@@ -134,7 +134,7 @@ variant: tiptap
 <p>Mr Danny Chay</p>
 </li>
 <li>
-<p>Ms Shachi (ICT Trainer)</p>
+<p>Ms Nini Juliena (ICT Trainer)</p>
 </li>
 <li>
 <p>Mr Sahalif (Desktop Engineer)</p>
