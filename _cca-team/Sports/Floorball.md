@@ -46,8 +46,7 @@ at a recreational level.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA%20Sports/home1_set_main_w_360x199.jpg">
 </div>
-<p><a href="https://www.youtube.com/watch?v=xdJeAJ5HJro" rel="noopener noreferrer nofollow" target="_blank">WRPS Floorball</a>
-</p>
+<h4><a href="https://youtu.be/60wnUowpydw" rel="noopener noreferrer nofollow" target="_blank">WRPS Floorball Recruitment Video</a></h4>
 <h2>CCA Participation &amp; Achievements:</h2>
 <h4>Junior Team had a friendly match with Admiralty Primary School in Nov 2023 at Admiralty Primary School.</h4>
 <table>
