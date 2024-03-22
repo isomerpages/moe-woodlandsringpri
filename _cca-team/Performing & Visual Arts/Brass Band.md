@@ -49,8 +49,7 @@ showcases.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/bandbrass.jpg">
 </div>
-<p><a href="https://www.youtube.com/watch?v=VMXZJ-rAov0" rel="noopener noreferrer nofollow" target="_blank">WRPS Brass Band</a>
-</p>
+<h4><a href="https://youtu.be/z0wQc_nMnTE" rel="noopener noreferrer nofollow" target="_blank">WRPS Brass Band Recruitment Video</a></h4>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
