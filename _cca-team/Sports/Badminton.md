@@ -73,10 +73,73 @@ core values and socio-emotional competencies in pupils.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Badminton/Badminton_2024_compressed.jpg">
 </div>
-<p><a href="https://www.youtube.com/watch?v=gpZ0_t5onkY" rel="noopener noreferrer nofollow" target="_blank">WRPS Badminton</a>
-</p>
+<h4><a href="https://www.youtube.com/watch?v=gpZ0_t5onkY" rel="noopener noreferrer nofollow" target="_blank">WRPS Badminton Recruitment Video</a></h4>
 <h2>CCA Participation &amp; Achievements:</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/badminton.png">
-</div>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<h4>2020</h4>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BADMINTON CHAMPIONSHIP 2020 ( NORTH ZONE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Division Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>2019</h4>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BADMINTON CHAMPIONSHIP 2020 ( NORTH ZONE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Division Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junior Division Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p></p>
