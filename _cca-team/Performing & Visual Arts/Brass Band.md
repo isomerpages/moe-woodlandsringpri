@@ -51,6 +51,20 @@ showcases.</p>
 </div>
 <p><a href="https://www.youtube.com/watch?v=VMXZJ-rAov0" rel="noopener noreferrer nofollow" target="_blank">WRPS Brass Band</a>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Brass Band/Brass_Band_Picture1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Brass Band/Brass_Band_Picture2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Brass Band/Brass_Band_Picture4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Brass Band/Brass_Band_Picture3.jpg">
+</div>
 <h2>CCA Participation &amp; Achievements:</h2>
 <table>
 <tbody>
