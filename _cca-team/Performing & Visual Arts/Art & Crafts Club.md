@@ -71,11 +71,7 @@ interactions and art making sessions.</p>
 </tbody>
 </table>
 <h2>Join Us</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/artsclub.jfif">
-</div>
-<p><a href="https://www.youtube.com/watch?v=IZeXJGywSAU" rel="noopener noreferrer nofollow" target="_blank">WRPS Art &amp; Craft Club</a>
-</p>
+<h4><a href="https://youtu.be/qXYBqkUPjUg" rel="noopener noreferrer nofollow" target="_blank">WRPS Art &amp; Craft Club Recruitment Video</a></h4>
 <h2>CCA Participation &amp; Achievements:</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/arts11.png">
