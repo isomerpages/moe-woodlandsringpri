@@ -61,7 +61,110 @@ and develop into leaders with heart and character.</p>
 <h2>Join Us</h2>
 <p>[video to be uploaded to youtube and embed link pasted here]</p>
 <h2>CCA Participation &amp; Achievements:</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts1.png">
-</div>
+<p></p>
+<p></p>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>2023</h4>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>SINGAPORE SCOUTS ASSOCIATION</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Frank Cooper Sands Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold with Pennant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Akela Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 Akela Awardees</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>2022</h4>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>SINGAPORE SCOUTS ASSOCIATION</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Frank Cooper Sands Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Akela Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 Akela Awardees</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>2021</h4>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>SINGAPORE SCOUTS ASSOCIATION</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Frank Cooper Sands Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Akela Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 Akela Awardees</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
