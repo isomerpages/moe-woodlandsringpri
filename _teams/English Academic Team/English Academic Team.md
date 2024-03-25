@@ -140,8 +140,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://woodlandsringpri.moe.edu.sg/teams/english-academic-team/hooked-on-reading" rel="noopener noreferrer nofollow" target="_blank"><u>Hooked On Reading Programme</u></a></strong> 
-<br>
+<p><strong>Hooked On Reading<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
