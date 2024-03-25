@@ -23,7 +23,7 @@ locations:
       - ""
     operating_hours: []
     maps_link: ""
-    title: Branch Office
+    title: Office
 contacts:
   - content:
       - phone: +65 6364 3679
