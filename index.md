@@ -20,6 +20,6 @@ sections:
       title: CCA Recruitment 2024
       subtitle: CCA Recruitment 2024
       id: infobar
-      url: /teams/ccas/
-      button: Click here
+      url: cca/cca-recruitment-2024/permalink/
+      button: find the perfect CCA for you
 ---
