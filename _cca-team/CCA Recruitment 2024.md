@@ -10,8 +10,18 @@ variant: tiptap
 <h3><strong>Sports</strong></h3>
 <h4><a href="https://www.youtube.com/watch?v=gpZ0_t5onkY" rel="noopener noreferrer nofollow" target="_blank">Badminton</a></h4>
 <h4><a href="https://www.youtube.com/watch?v=BlXvHsWqYCg" rel="noopener noreferrer nofollow" target="_blank">Basketball</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=KtUsEcy0gsY" rel="noopener noreferrer nofollow" target="_blank">Football</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=60wnUowpydw" rel="noopener noreferrer nofollow" target="_blank">Floorball</a></h4>
 <p></p>
-<h4>Performing and Visual Arts</h4>
+<h4><strong>Performing and Visual Arts</strong></h4>
+<h4><a href="https://www.youtube.com/watch?v=qXYBqkUPjUg" rel="noopener noreferrer nofollow" target="_blank">Art Club</a></h4>
+<p><a href="https://www.youtube.com/watch?v=z0wQc_nMnTE" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a>
+</p>
+<p><a href="https://www.youtube.com/watch?v=eYHIh15JmWw" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <h4>Clubs and Unifom Groups</h4>
