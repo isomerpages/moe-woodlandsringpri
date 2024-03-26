@@ -15,14 +15,11 @@ sections:
         - title: Parents Engagement 2024
           description: ""
           url: /info-for-parents/parents-briefing/permalink/
-        - title: 2024 Booklist
-          description: ""
-          url: /forms-resources-useful-links/booklist/permalink/
       url: /infoforparents/parentsbriefing/permalink/
   - infobar:
-      title: Primary One Orientation
-      subtitle: Primary One Orientation 2024
+      title: CCA Recruitment 2024
+      subtitle: CCA Recruitment 2024
       id: infobar
-      url: /info-for-parents/p1/permalink/
-      button: Click here
+      url: /cca/cca-recruitment-2024/permalink/
+      button: find the perfect CCA for you
 ---
