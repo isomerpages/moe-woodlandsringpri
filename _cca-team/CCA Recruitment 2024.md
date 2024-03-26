@@ -30,7 +30,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Performing and Visual Arts</strong></h4>
+<h3><strong>Performing and Visual Arts</strong></h3>
 <table>
 <tbody>
 <tr>
@@ -68,7 +68,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Clubs and Unifom Groups</strong></h4>
+<h3><strong>Clubs and Unifom Groups</strong></h3>
 <h4><a href="https://www.youtube.com/watch?v=tCOeRBzQ1po" rel="noopener noreferrer nofollow" target="_blank">Scouts</a></h4>
 <p></p>
 <h4></h4>
