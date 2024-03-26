@@ -59,15 +59,15 @@ link below to find out more about it.</p>
 </p>
 <p>For issues relating to POSB SMART Buddy Watch, please take note of the
 details below,</p>
-<p><strong>Address</strong>
+<p><strong>Address</strong> 
 <br>Smart Buddy Watch Service Centre
 <br>(c/o STYL Solutions Pte Ltd)
 <br>3015A Ubi Road 1, #06-02, Singapore 408705</p>
-<p><strong>Contact Details</strong>
+<p><strong>Contact Details</strong> 
 <br>+65 6518 3127<a href="mailto:3127￼service@styl.com.sg" rel="noopener noreferrer nofollow" target="_blank"><br>service@styl.com.sg</a>
 </p>
 <p></p>
-<p><strong>Operation Hours</strong>
+<p><strong>Operation Hours</strong> 
 <br>Monday to Friday, 9.30am to 5.30pm
 <br>Saturday, 9am to 12.30pm
 <br>(Closed on Public Holidays)</p>
