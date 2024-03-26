@@ -20,6 +20,6 @@ sections:
       title: CCA Recruitment 2024
       subtitle: CCA Recruitment 2024
       id: infobar
-      url: https://www.woodlandsringpri.moe.edu.sg/cca/cca-recruitment-2024/permalink/
+      url: /cca/cca-recruitment-2024/permalink/
       button: find the perfect CCA for you
 ---
