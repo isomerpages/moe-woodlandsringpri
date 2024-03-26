@@ -3,6 +3,7 @@ title: School Rules
 permalink: /about-wrps/Our-Identity/school-rules/permalink/
 description: ""
 third_nav_title: Our Identity
+variant: markdown
 ---
 School Rules
 ============
@@ -56,18 +57,12 @@ School Uniform
 All WRPS pupils are to wear the prescribed school uniform (complete with canvas shoes and WRPS socks) whenever they enter the school premises for all activities.
 
   
+![](/images/School%20Rules/School_rules_1.png)
 
-**No modification to the school uniform is allowed.**
-![](/images/uniform%201.jpg)
 
 Acceptable Hairstyles
 ---------------------
+![](/images/School%20Rules/school_rules_2.png)
 
-**Girls with Long Hair**  
-Plait hair when it is long.   
-Use simple black/dark blue hair accessories.
-![](/images/hair.jpg)
-**Girls with Short Hair**
-![](/images/hair1.jpg)
-**Boys**
-![](/images/hair2.jpg)
+
+
