@@ -20,6 +20,6 @@ sections:
       title: CCA Recruitment 2024
       subtitle: CCA Recruitment 2024
       id: infobar
-      url: CCA Recruitment 2024
+      url: /teams/ccas/
       button: Click here
 ---
