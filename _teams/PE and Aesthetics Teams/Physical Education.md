@@ -16,19 +16,19 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vision</strong>
+<p><strong>Vision</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>A physically educated individual, with the pursuit of a life-long active and healthy lifestyle</strong>
+<p><strong>A physically educated individual, with the pursuit of a life-long active and healthy lifestyle</strong> 
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mission</strong>
+<p><strong>Mission</strong> 
 <br>
 </p>
 </td>
@@ -69,27 +69,24 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>LEVEL</p>
 </td>
-<td rowspan="1" colspan="2">
-<p></p>
+<td rowspan="1" colspan="3">
+<p>Lower Primary Games Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our Neighbour-hood Experience
+<p>NAPFA Assessment JSA Selection
 <br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NAPFA Assessment
-<br>SwimSafer 2.0
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our Neighbour-hood Experience</p>
+<p>Outdoor Camp</p>
+<p>SwimSafer 2.0</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hip Hop dance
 <br>NAPFA Assessment
-<br>Outdoor Camp
+<br>
 <br>
 </p>
 </td>
