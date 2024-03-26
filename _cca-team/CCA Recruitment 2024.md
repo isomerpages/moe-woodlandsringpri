@@ -15,16 +15,16 @@ variant: tiptap
 <p></p>
 <h4><strong>Performing and Visual Arts</strong></h4>
 <h4><a href="https://www.youtube.com/watch?v=qXYBqkUPjUg" rel="noopener noreferrer nofollow" target="_blank">Art Club</a></h4>
-<p><a href="https://www.youtube.com/watch?v=z0wQc_nMnTE" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a>
-</p>
-<p><a href="https://www.youtube.com/watch?v=eYHIh15JmWw" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
-</p>
+<h4><a href="https://www.youtube.com/watch?v=z0wQc_nMnTE" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=qqsNSFNQEJo" rel="noopener noreferrer nofollow" target="_blank">Choir</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=0DaekyZNgdY" rel="noopener noreferrer nofollow" target="_blank">Indian Dance</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=u_PyI8IXBks" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a></h4>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
+<h4><strong>Clubs and Unifom Groups</strong></h4>
+<h4><a href="https://www.youtube.com/watch?v=tCOeRBzQ1po" rel="noopener noreferrer nofollow" target="_blank">Scouts</a></h4>
 <p></p>
-<h4>Clubs and Unifom Groups</h4>
-<p></p>
-<p></p>
+<h4></h4>
 <p></p>
