@@ -50,13 +50,12 @@ student, his/her unmarried siblings, parents.</p>
 will be pro-rated accordingly from the month after your application is
 approved to December of the same year.</p>
 <p>^Subsidies for school meals purchased and consumed in school.</p>
-<h4><br>POSB Smart Buddy</h4>
+<h4><br><strong>POSB Smart Buddy</strong></h4>
 <p>Cultivate good money habits early with POSB Smart Buddy. Click on the
 link below to find out more about it.</p>
 <p></p>
 <p></p>
-<p><strong>POSB Smart Buddy | POSB Singapore</strong>
-</p>
+<h4><strong>POSB Smart Buddy | POSB Singapore</strong></h4>
 <p>For issues relating to POSB SMART Buddy Watch, please take note of the
 details below,</p>
 <p><strong>Address</strong> 
@@ -64,7 +63,7 @@ details below,</p>
 <br>(c/o STYL Solutions Pte Ltd)
 <br>3015A Ubi Road 1, #06-02, Singapore 408705</p>
 <p><strong>Contact Details</strong> 
-<br>+65 6518 3127<a href="mailto:3127￼service@styl.com.sg" rel="noopener noreferrer nofollow" target="_blank"><br>service@styl.com.sg</a>
+<br>+65 6518 3127<a href="mailto:service@styl.com.sg" rel="noopener noreferrer nofollow" target="_blank"><br>service@styl.com.sg</a>
 </p>
 <p></p>
 <p><strong>Operation Hours</strong> 
