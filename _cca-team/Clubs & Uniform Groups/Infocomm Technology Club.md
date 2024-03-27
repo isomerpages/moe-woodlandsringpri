@@ -44,6 +44,8 @@ to aid in students’ cognitive development.</p>
 </li>
 </ul>
 <h2>Join Us</h2>
+<p><a href="https://www.youtube.com/watch?v=CgbNKyZTn_s&amp;t=1s" rel="noopener noreferrer nofollow" target="_blank">Infocomm Technology Club Recruitment Video</a>
+</p>
 <h2>CCA Participation &amp; Achievements:</h2>
 <p></p>
 <table>
