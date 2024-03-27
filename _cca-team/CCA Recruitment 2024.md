@@ -62,8 +62,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<h4><a href="https://www.youtube.com/watch?v=7pOpHjqfAi0" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a></h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4><a href="https://www.youtube.com/watch?v=xv7PJzhzkI8" rel="noopener noreferrer nofollow" target="_blank">Malay Dance</a></h4>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Clubs and Unifom Groups</strong></h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4><a href="https://www.youtube.com/watch?v=tCOeRBzQ1po" rel="noopener noreferrer nofollow" target="_blank">Scouts</a></h4>
+</th>
+<th rowspan="1" colspan="1">
+<h4><a href="https://www.youtube.com/watch?v=UXEfJh5SbOw" rel="noopener noreferrer nofollow" target="_blank">Science Club</a></h4>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -73,8 +94,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>Clubs and Unifom Groups</strong></h3>
-<h4><a href="https://www.youtube.com/watch?v=tCOeRBzQ1po" rel="noopener noreferrer nofollow" target="_blank">Scouts</a></h4>
+<h4></h4>
 <p></p>
 <h4></h4>
 <p></p>
