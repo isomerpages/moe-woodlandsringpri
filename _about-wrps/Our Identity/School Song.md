@@ -3,37 +3,20 @@ title: School Song
 permalink: /about-wrps/Our-Identity/school-song/permalink/
 description: ""
 third_nav_title: Our Identity
+variant: tiptap
 ---
-School Song
-===========
-
-WRPS School Song
-----------------
-
-
-It all begins at Woodlands Ring  
-A thinking school that guides within   
-Learning nation we will be  
-Standing Strong and creative
-
-  
-
-At Woodlands Ring we do our best   
-Whatever be the test   
-With one voice, we sing of our love   
-For nation and Woodlands Ring
-
-  
-
-We learn to tell what's right and wrong   
-Making friends and building bonds  
-We will proudly soar with  
-One vision, one heart, one mind
-
-  
-
-At Woodlands Ring we do our best   
-Whatever be the test   
-With one voice, we sing of our love  
-For nation and Woodlands Ring
-![](/images/song.png)
+<h1>School Song</h1>
+<h2>WRPS School Song</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Rules/School_song_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Rules/School_song_2.jpg">
+</div>
+<p></p>
+<p>I</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/song.png">
+</div>
+<p></p>
