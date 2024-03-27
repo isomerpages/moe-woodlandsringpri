@@ -21,19 +21,19 @@ with others in this domain.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vision</strong>
+<p><strong>Vision</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Expressive and passionate learners in the Arts</strong>
+<p><strong>Expressive and passionate learners in the Arts</strong> 
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mission</strong>
+<p><strong>Mission</strong> 
 <br>
 </p>
 </td>
@@ -108,7 +108,7 @@ with others in this domain.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norsarah Ramli</p>
+<p>Mdm Norsarah Rosli</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
