@@ -57,7 +57,7 @@ variant: tiptap
 <h4><a href="https://www.youtube.com/watch?v=u_PyI8IXBks" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h4><a href="https://www.youtube.com/watch?v=3WAUODEdodU" rel="noopener noreferrer nofollow" target="_blank">Drama and Literary Club</a></h4>
 </td>
 </tr>
 <tr>
