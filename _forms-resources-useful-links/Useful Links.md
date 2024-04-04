@@ -2,8 +2,141 @@
 title: Useful Links
 permalink: /forms-resources-useful-links/useful-links/permalink/
 description: ""
+variant: tiptap
 ---
-Useful Links
-============
-
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"><font size="4" color="#0000ff" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">SLS</b></font></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;">-<span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 10px; border-radius: 10px; border: 1px solid rgb(0, 0, 0);"><a href="https://vle.learning.moe.edu.sg/login" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(238, 151, 0); text-decoration: underline;">https://vle.learning.moe.edu.sg/login</a></span></div><div style="margin: 0px; outline: 0px; padding: 10px 0px 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"><font size="4" color="#0000ff" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">iMTL Portal</b></font></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;">-<span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 10px; border-radius: 10px; border: 1px solid rgb(0, 0, 0);"><a href="https://imtl.moe.edu.sg/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(238, 151, 0); text-decoration: underline;">https://imtl.moe.edu.sg</a></span></div><div style="margin: 0px; outline: 0px; padding: 10px 0px 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"><font size="4" color="#0000ff" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">My Skills Future</b></font></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;">-<span>&nbsp;</span><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(238, 151, 0); text-decoration: underline;">MySkillsFuture.sg</a></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"><font size="4" color="#0000ff" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Chinese Language:</b></font></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;">-<span>&nbsp;</span><a href="https://www.mtl.moe.edu.sg/xuele/MOE_web/1B.html" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(238, 151, 0); text-decoration: underline;">Xuele MOE website</a></div><div style="margin: 0px; outline: 0px; padding: 10px 0px 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;">-<span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 10px; border-radius: 10px; border: 1px solid rgb(0, 0, 0);"><a href="https://www.ezhishi.net/Contents/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(238, 151, 0); text-decoration: underline;">www.ezhishi.net</a></span><span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px; color: rgb(255, 0, 0); vertical-align: middle;">（易知识）</span></div><div style="margin: 0px; outline: 0px; padding: 20px 0px 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;">-<span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 10px; border-radius: 10px; border: 1px solid rgb(0, 0, 0);"><a href="http://www.sentencemaster.net/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(238, 151, 0); text-decoration: underline;">http://www.sentencemaster.net</a></span><span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px; color: rgb(255, 0, 0); vertical-align: middle;">（句子达人）</span></div><div style="margin: 0px; outline: 0px; padding: 20px 0px 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"><font size="4" color="#0000ff" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Malay Language:</b></font></div><div style="margin: 0px; outline: 0px; padding: 10px 0px 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;">-<span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 10px; border-radius: 10px; border: 1px solid rgb(0, 0, 0);"><a href="https://tv.toggle.sg/en/suria" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(238, 151, 0); text-decoration: underline;">https://tv.toggle.sg/en/suria</a></span><span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px; color: rgb(56, 118, 29); vertical-align: middle;">SURIA</span></div><div style="margin: 0px; outline: 0px; padding: 20px 0px 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;">-<span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 10px; border-radius: 10px; border: 1px solid rgb(0, 0, 0);"><a href="https://www.beritaharian.sg/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(238, 151, 0); text-decoration: underline;">https://www.beritaharian.sg</a></span><span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px; color: rgb(56, 118, 29); vertical-align: middle;">CyBERITA</span></div><div style="margin: 0px; outline: 0px; padding: 20px 0px 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;">-<span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 10px; border-radius: 10px; border: 1px solid rgb(0, 0, 0);"><a href="https://www.mendaki.org.sg/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(238, 151, 0); text-decoration: underline;">https://www.mendaki.org.sg</a></span><span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px; color: rgb(56, 118, 29); vertical-align: middle;">MENDAKI</span></div><div style="margin: 0px; outline: 0px; padding: 20px 0px 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"><font size="4" color="#0000ff" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Tamil Language:</b></font></div><div style="margin: 0px; outline: 0px; padding: 10px 0px 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;">-<span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 10px; border-radius: 10px; border: 1px solid rgb(0, 0, 0);"><a href="https://www.tamilmurasu.com.sg/gen-y-z" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(238, 151, 0); text-decoration: underline;">https://www.tamilmurasu.com.sg/gen-y-z</a></span><span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px; color: rgb(230, 145, 56); vertical-align: middle;">இளையர் முரசு</span></div><div style="margin: 0px; outline: 0px; padding: 20px 0px 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;">-<span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 10px; border-radius: 10px; border: 1px solid rgb(0, 0, 0);"><a href="http://dictionary.tamilcube.com/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(238, 151, 0); text-decoration: underline;">http://dictionary.tamilcube.com/</a></span><span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px; color: rgb(230, 145, 56); vertical-align: middle;">மின் அகராதி</span></div><div style="margin: 0px; outline: 0px; padding: 20px 0px 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;">-<span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 10px; border-radius: 10px; border: 1px solid rgb(0, 0, 0);"><a href="http://crea.in/dictionary.php" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(238, 151, 0); text-decoration: underline;">http://crea.in/dictionary.php</a></span><span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px; color: rgb(230, 145, 56); vertical-align: middle;">க்ரியாவின் தற்காலத் தமிழ் அகராதி</span></div><div style="margin: 0px; outline: 0px; padding: 20px 0px 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;">-<span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 10px; border-radius: 10px; border: 1px solid rgb(0, 0, 0);"><a href="http://books.tamilcube.com/tamil/stories/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(238, 151, 0); text-decoration: underline;">http://books.tamilcube.com/tamil/stories/</a></span><span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px; color: rgb(230, 145, 56); vertical-align: middle;">தமிழ் மின் புத்தகங்கள்</span></div><div style="margin: 0px; outline: 0px; padding: 20px 0px 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;">-<span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 10px; border-radius: 10px; border: 1px solid rgb(0, 0, 0);"><a href="https://www.tamil.org.sg/en" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(238, 151, 0); text-decoration: underline;">https://www.tamil.org.sg/en</a></span><span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px; color: rgb(230, 145, 56); vertical-align: middle;">வளர்தமிழ் இயக்கம்</span></div><div style="margin: 0px; outline: 0px; padding: 20px 0px 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;">-<span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 10px; border-radius: 10px; border: 1px solid rgb(0, 0, 0);"><a href="http://eresources.nlb.gov.sg/pictures" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(238, 151, 0); text-decoration: underline;">http://eresources.nlb.gov.sg/pictures</a></span><span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px; color: rgb(230, 145, 56); vertical-align: middle;">சிங்கப்பூர் தொடர்பான படங்கள் (தேசிய நூலகம்)</span></div><div style="margin: 0px; outline: 0px; padding: 20px 0px 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;">-<span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 10px; border-radius: 10px; border: 1px solid rgb(0, 0, 0);"><a href="https://www.nlb.gov.sg/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(238, 151, 0); text-decoration: underline;">https://www.nlb.gov.sg</a></span><span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px; color: rgb(230, 145, 56); vertical-align: middle;">சிறுவர்களுக்கான தமிழ் நூல்கள்</span></div><div style="margin: 0px; outline: 0px; padding: 20px 0px 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 17, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400;">-<span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 10px; border-radius: 10px; border: 1px solid rgb(0, 0, 0);"><a href="https://www.mendaki.org.sg/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(238, 151, 0); text-decoration: underline;">SINDA</a></span><span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px; color: rgb(230, 145, 56); vertical-align: middle;">சிண்டா</span></div></td></tr></tbody></table>
+<h1>Useful Links</h1>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SLS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/login</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>iMTL Portal</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;<a href="https://imtl.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://imtl.moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>My Skills Future</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;<a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank"><u>MySkillsFuture.sg</u></a>
+</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chinese Language:</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;<a href="https://www.mtl.moe.edu.sg/xuele/MOE_web/1B.html" rel="noopener noreferrer nofollow" target="_blank"><u>Xuele MOE website</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;<a href="https://www.ezhishi.net/Contents/" rel="noopener noreferrer nofollow" target="_blank"><u>www.ezhishi.net</u></a>&nbsp;（易知识）</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Malay Language:</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;<a href="https://tv.toggle.sg/en/suria" rel="noopener noreferrer nofollow" target="_blank"><u>https://tv.toggle.sg/en/suria</u></a>&nbsp;SURIA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;<a href="https://www.beritaharian.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.beritaharian.sg</u></a>&nbsp;CyBERITA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;<a href="https://www.mendaki.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.mendaki.org.sg</u></a>&nbsp;MENDAKI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tamil Language:</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;<a href="https://www.tamilmurasu.com.sg/gen-y-z" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tamilmurasu.com.sg/gen-y-z</u></a>&nbsp;இளையர்
+முரசு</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;<a href="http://dictionary.tamilcube.com/" rel="noopener noreferrer nofollow" target="_blank"><u>http://dictionary.tamilcube.com/</u></a>&nbsp;மின்
+அகராதி</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;<a href="http://crea.in/dictionary.php" rel="noopener noreferrer nofollow" target="_blank"><u>http://crea.in/dictionary.php</u></a>&nbsp;க்ரியாவின்
+தற்காலத் தமிழ் அகராதி</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;<a href="http://books.tamilcube.com/tamil/stories/" rel="noopener noreferrer nofollow" target="_blank"><u>http://books.tamilcube.com/tamil/stories/</u></a>&nbsp;தமிழ்
+மின் புத்தகங்கள்</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;<a href="https://www.tamil.org.sg/en" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tamil.org.sg/en</u></a>&nbsp;வளர்தமிழ்
+இயக்கம்</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;<a href="http://eresources.nlb.gov.sg/pictures" rel="noopener noreferrer nofollow" target="_blank"><u>http://eresources.nlb.gov.sg/pictures</u></a>&nbsp;சிங்கப்பூர்
+தொடர்பான படங்கள் (தேசிய நூலகம்)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;<a href="https://www.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nlb.gov.sg</u></a>&nbsp;சிறுவர்களுக்கான
+தமிழ் நூல்கள்</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;<a href="https://www.mendaki.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SINDA</u></a>&nbsp;சிண்டா</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
