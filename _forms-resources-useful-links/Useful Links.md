@@ -21,18 +21,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>iMTL Portal</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>-&nbsp;<a href="https://imtl.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://imtl.moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>My Skills Future</strong>
 </p>
 </td>
