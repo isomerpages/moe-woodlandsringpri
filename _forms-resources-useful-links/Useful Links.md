@@ -29,9 +29,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>-&nbsp;<a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank"><u>MySkillsFuture.sg</u></a>
 </p>
-<p>
-<br>
-</p>
 </td>
 </tr>
 <tr>
