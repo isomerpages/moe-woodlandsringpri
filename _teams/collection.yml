@@ -2,9 +2,9 @@ collections:
   teams:
     output: true
     order:
-      - English Academic Team/.keep
-      - English Academic Team/English Academic Team.md
-      - English Academic Team/Hooked On Reading.md
+      - English/.keep
+      - English/English Academic Team.md
+      - English/Hooked On Reading.md
       - Mathematics Academic Team.md
       - Science Academic Team.md
       - Mother Tongue Academic Teams/.keep
