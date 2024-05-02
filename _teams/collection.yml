@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - English/.keep
-      - English/English Academic Team.md
+      - English/English.md
       - English/Hooked On Reading.md
       - Mathematics.md
       - Science.md
