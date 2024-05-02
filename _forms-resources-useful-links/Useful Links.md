@@ -66,7 +66,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-&nbsp;<a href="https://www.tamilmurasu.com.sg/gen-y-z" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tamilmurasu.com.sg</u></a>&nbsp;இளையர்
+<p>-&nbsp;<a href="https://www.tamilmurasu.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tamilmurasu.com.sg</u></a>&nbsp;இளையர்
 முரசு</p>
 </td>
 </tr>
@@ -74,12 +74,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>-&nbsp;<a href="http://dictionary.tamilcube.com/" rel="noopener noreferrer nofollow" target="_blank"><u>http://dictionary.tamilcube.com/</u></a>&nbsp;மின்
 அகராதி</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>-&nbsp;<a href="http://crea.in/dictionary.php" rel="noopener noreferrer nofollow" target="_blank"><u>http://crea.in/dictionary.php</u></a>&nbsp;க்ரியாவின்
-தற்காலத் தமிழ் அகராதி</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +102,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-&nbsp;<a href="https://www.mendaki.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SINDA</u></a>&nbsp;சிண்டா</p>
+<p>-&nbsp;<a href="https://www.sinda.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SINDA</u></a>&nbsp;சிண்டா</p>
 </td>
 </tr>
 </tbody>
