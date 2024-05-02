@@ -1,6 +1,6 @@
 ---
-title: English Academic Team
-permalink: /teams/English-Academic-Team/permalink/
+title: English
+permalink: /teams/english-academic-team/permalink/
 description: ""
 third_nav_title: English
 variant: tiptap

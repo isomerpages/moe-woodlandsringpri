@@ -3,10 +3,10 @@ links:
   - title: about WRPS
     collection: about-wrps
   - title: Teams
-    url: /teams/English-Academic-Team/permalink/
+    url: /teams/english-academic-team/permalink/
     sublinks:
       - title: English
-        url: /teams/English-Academic-Team/permalink/
+        url: /teams/english-academic-team/permalink/
       - title: Mathematics
         url: /teams/mathematics-academic-team/permalink/
       - title: Science

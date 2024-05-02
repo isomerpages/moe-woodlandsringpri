@@ -16,10 +16,4 @@ sections:
           description: ""
           url: /info-for-parents/parents-briefing/permalink/
       url: /infoforparents/parentsbriefing/permalink/
-  - infobar:
-      title: CCA Recruitment 2024
-      subtitle: CCA Recruitment 2024
-      id: infobar
-      url: /cca/cca-recruitment-2024/permalink/
-      button: find the perfect CCA for you
 ---
