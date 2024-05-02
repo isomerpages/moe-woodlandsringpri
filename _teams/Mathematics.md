@@ -1,5 +1,5 @@
 ---
-title: Mathematics Academic Team
+title: Mathematics
 permalink: /teams/mathematics-academic-team/permalink/
 description: ""
 variant: tiptap

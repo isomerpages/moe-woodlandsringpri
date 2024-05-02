@@ -2,7 +2,7 @@
 title: Physical Education
 permalink: /teams/physical-education/permalink/
 description: ""
-third_nav_title: PE and Aesthetics Teams
+third_nav_title: PE and Aesthetics
 variant: tiptap
 ---
 <h1>PE / CCAS / Aesthetics Teams</h1>

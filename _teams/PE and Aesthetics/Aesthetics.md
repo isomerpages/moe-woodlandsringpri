@@ -2,7 +2,7 @@
 title: Aesthetics
 permalink: /teams/PE-CCAS-and-Aesthetics-Teams/aesthetics/permalink/
 description: ""
-third_nav_title: PE and Aesthetics Teams
+third_nav_title: PE and Aesthetics
 variant: tiptap
 ---
 <h1>Aesthetics</h1>

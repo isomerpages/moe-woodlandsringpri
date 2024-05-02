@@ -2,7 +2,7 @@
 title: Student Management Team
 permalink: /teams/Student-Management-Team/permalink/
 description: ""
-third_nav_title: Student Management Team
+third_nav_title: Student Management
 variant: tiptap
 ---
 <h1>Student Management Team</h1>

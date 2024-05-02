@@ -2,7 +2,7 @@
 title: English Academic Team
 permalink: /teams/English-Academic-Team/permalink/
 description: ""
-third_nav_title: English Academic Team
+third_nav_title: English
 variant: tiptap
 ---
 <h1>English Academic Team</h1>

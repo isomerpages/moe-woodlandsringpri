@@ -2,7 +2,7 @@
 title: Hooked On Reading
 permalink: /teams/english-academic-team/hooked-on-reading/permalink/
 description: ""
-third_nav_title: English Academic Team
+third_nav_title: English
 variant: tiptap
 ---
 Hooked On Reading
