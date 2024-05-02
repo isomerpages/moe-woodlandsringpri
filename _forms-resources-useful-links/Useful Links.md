@@ -39,12 +39,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-&nbsp;<a href="https://www.mtl.moe.edu.sg/xuele/MOE_web/1B.html" rel="noopener noreferrer nofollow" target="_blank"><u>Xuele MOE website</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>-&nbsp;<a href="https://www.ezhishi.net/Contents/" rel="noopener noreferrer nofollow" target="_blank"><u>www.ezhishi.net</u></a>&nbsp;（易知识）</p>
 </td>
 </tr>
@@ -52,11 +46,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Malay Language:</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>-&nbsp;<a href="https://tv.toggle.sg/en/suria" rel="noopener noreferrer nofollow" target="_blank"><u>https://tv.toggle.sg/en/suria</u></a>&nbsp;SURIA</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +66,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-&nbsp;<a href="https://www.tamilmurasu.com.sg/gen-y-z" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tamilmurasu.com.sg/gen-y-z</u></a>&nbsp;இளையர்
+<p>-&nbsp;<a href="https://www.tamilmurasu.com.sg/gen-y-z" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tamilmurasu.com.sg</u></a>&nbsp;இளையர்
 முரசு</p>
 </td>
 </tr>
