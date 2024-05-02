@@ -90,6 +90,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>-&nbsp;<a href="https://www.sinda.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SINDA</u></a>&nbsp;சிண்டா</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>-&nbsp;<a href="http://eresources.nlb.gov.sg/pictures" rel="noopener noreferrer nofollow" target="_blank"><u>http://eresources.nlb.gov.sg/pictures</u></a>&nbsp;சிங்கப்பூர்
 தொடர்பான படங்கள் (தேசிய நூலகம்)</p>
 </td>
@@ -102,7 +107,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-&nbsp;<a href="https://www.sinda.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SINDA</u></a>&nbsp;சிண்டா</p>
+<p></p>
 </td>
 </tr>
 </tbody>
