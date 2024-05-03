@@ -5,13 +5,17 @@ description: ""
 third_nav_title: English
 variant: tiptap
 ---
-<h1>English Academic Team</h1>
+<h1>English</h1>
 <h2>Team Introduction</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/values.jpg">
 </div>
 <h2>Vision and Mission</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -41,7 +45,12 @@ variant: tiptap
 <h2>Specific Programmes</h2>
 <p><strong>As part of our Whole School Approach to Effective Communication, the English Language Department is pleased to offer various programmes to develop our pupils’ competencies in the four language skills mentioned above. The details of some of these programmes are as follows:</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -174,7 +183,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>English Department</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -214,7 +227,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
