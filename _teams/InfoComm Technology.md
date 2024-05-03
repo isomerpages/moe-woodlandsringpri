@@ -4,7 +4,7 @@ permalink: /teams/ict-team/permalink/
 description: ""
 variant: tiptap
 ---
-<h1>Information and Communication Technology</h1>
+<h1>InfoComm Technology</h1>
 <h2>Overview</h2>
 <table style="minWidth: 50px">
 <colgroup>
