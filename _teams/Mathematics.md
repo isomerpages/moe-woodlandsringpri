@@ -32,19 +32,19 @@ and;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vision</strong>
+<p><strong>Vision</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Every student learns to apply Mathematics in their daily life and to meet future challenges</strong>
+<p><strong>Every student learns to apply Mathematics in their daily life and to meet future challenges</strong> 
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mission</strong>
+<p><strong>Mission</strong> 
 <br>
 </p>
 </td>
@@ -65,41 +65,41 @@ and;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Programme</strong>
+<p><strong>Programme</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>What is it about</strong>
+<p><strong>What is it about</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Target Group</strong>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Fun with Chess</strong>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>The main goal of the Primary 1 and 2 Chess Workshop at Woodlands Ring Primary School is to enable pupils to use criteria to drive decision making and evaluate alternatives so that they will be able to arrive at the best solution for the problem that they are facing.<br><br>Through the chess workshop, pupils should be able to apply the skills taught to solve problems they face in their daily work as well as day-to-day activities.</strong>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Students from Primary One &amp; Two</strong>
+<p><strong>Target Group</strong> 
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mathematics Olympiad Preparatory Course</strong>
+<p><strong>Fun with Chess</strong> 
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>The main goal of the Primary 1 and 2 Chess Workshop at Woodlands Ring Primary School is to enable pupils to use criteria to drive decision making and evaluate alternatives so that they will be able to arrive at the best solution for the problem that they are facing.<br><br>Through the chess workshop, pupils should be able to apply the skills taught to solve problems they face in their daily work as well as day-to-day activities.</strong> 
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Students from Primary One &amp; Two</strong> 
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mathematics Olympiad Preparatory Course</strong> 
 <br>
 </p>
 </td>
@@ -112,14 +112,14 @@ and;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selected Students from Primary Five &amp; Six</strong>
+<p><strong>Selected Students from Primary Five &amp; Six</strong> 
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Thinking Maps</strong>
+<p><strong>Thinking Maps</strong> 
 <br>
 </p>
 </td>
@@ -130,14 +130,14 @@ and;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selected students from Primary Six</strong>
+<p><strong>Selected students from Primary Six</strong> 
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Math In Action</strong>
+<p><strong>Math In Action</strong> 
 <br>
 </p>
 </td>
