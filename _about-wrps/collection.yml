@@ -2,7 +2,6 @@ collections:
   about-wrps:
     output: true
     order:
-      - Privacy Policy.md
       - Principal's Message.md
       - Our People/.keep
       - Our People/School Leaders.md
@@ -16,4 +15,5 @@ collections:
       - Our Identity/School Rules.md
       - Our Heritage.md
       - Our Achievements.md
+      - Privacy Policy.md
       - Privacy Policy/.keep
