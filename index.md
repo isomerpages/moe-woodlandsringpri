@@ -14,6 +14,6 @@ sections:
           url: https://www.youtube.com/watch?v=Cug-_edCSDg&t=4126s
         - title: Parents Engagement 2024
           description: ""
-          url: /info-for-parents/parents-briefing/permalink/
+          url: /info-for-parents/parents-engagement/permalink/
       url: /infoforparents/parentsbriefing/permalink/
 ---
