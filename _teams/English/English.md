@@ -5,7 +5,6 @@ description: ""
 third_nav_title: English
 variant: tiptap
 ---
-<h1>English</h1>
 <h2>Team Introduction</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/values.jpg">
