@@ -4,8 +4,6 @@ permalink: /teams/science-academic-team/permalink/
 description: ""
 variant: markdown
 ---
-
-
 Team Introduction
 -----------------
 
