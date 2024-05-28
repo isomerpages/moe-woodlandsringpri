@@ -4,7 +4,7 @@ permalink: /teams/science-academic-team/permalink/
 description: ""
 variant: markdown
 ---
-Team Introduction
+Overview
 -----------------
 
 The Science Department aims to impart scientific knowledge and skills needed to understand the world we live in. We inculcate in our students the love for Science as well as a sense of appreciation and care for nature.
