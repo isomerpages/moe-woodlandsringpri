@@ -5,15 +5,18 @@ description: ""
 third_nav_title: Mother Tongue
 variant: tiptap
 ---
-<h1>Chinese Language Unit</h1>
-<h2>Department Introduction</h2>
+<h2>Overview</h2>
 <p>The aim of the Chinese Unit is to inculcate passion in the learning of
 Mother Tongue Language and its culture and to instill a sense of responsibility
 towards family, society and country. The curriculum and programmes emphasize
 on acquiring proficiency in Chinese language, cultivating interest in Chinese
 culture and instilling strong Moral Values.</p>
 <h2>Vision and Mission</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -40,7 +43,11 @@ culture and instilling strong Moral Values.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -76,7 +83,11 @@ culture and instilling strong Moral Values.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -124,7 +135,12 @@ culture and instilling strong Moral Values.</p>
 </tbody>
 </table>
 <h2>Specific Programmes</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
