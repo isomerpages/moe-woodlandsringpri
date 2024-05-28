@@ -265,7 +265,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Mdm Siti Aisyah </strong>
+<p><strong>Mdm Siti Aisyah</strong>
 </p>
 <p></p>
 </li>
@@ -298,7 +298,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Ms Lucinda </strong>
+<p><strong>Ms Lucinda</strong>
 </p>
 </li>
 </ul>
