@@ -5,8 +5,8 @@ description: ""
 third_nav_title: English
 variant: tiptap
 ---
-<h1>English</h1>
-<h2>Team Introduction</h2>
+<h2>Overview</h2>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/values.jpg">
 </div>
@@ -265,7 +265,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Mdm Siti Aisyah (Beginning Teacher)</strong>
+<p><strong>Mdm Siti Aisyah</strong>
 </p>
 <p></p>
 </li>
@@ -298,11 +298,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Ms Miranda Go (Beginning Teacher)</strong>
-</p>
-</li>
-<li>
-<p><strong>Ms Lucinda (Untrained EL/SS)</strong>
+<p><strong>Ms Lucinda</strong>
 </p>
 </li>
 </ul>
