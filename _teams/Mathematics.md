@@ -4,8 +4,7 @@ permalink: /teams/mathematics-academic-team/permalink/
 description: ""
 variant: tiptap
 ---
-<h1>Mathematics</h1>
-<h2>Team Introduction</h2>
+<h2>Overview</h2>
 <p>The Mathematics Department is committed to develop student’s interest
 in Mathematics so that they can solve problems confidently and effectively,
 apply Mathematics in their daily life and meet future challenges.</p>
