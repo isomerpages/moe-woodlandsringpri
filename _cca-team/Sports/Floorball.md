@@ -6,6 +6,18 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <h1>Overview</h1>
+<p>Floorball&nbsp;is a&nbsp;team possession/invasion game played between
+two teams of players, each using a plastic manipulative (stick) to drive
+an air flow ball towards the opponent’s goal in an indoor court. Floorball
+has seen a rise in popularity among youths in the last decade, with our
+Singapore Teams clinching the gold medals in the SEA Games. It is an intensive
+and competitive sport CCA which helps develop physical fitness, self-discipline,
+resilience and teamwork. Our Floorball players go through a comprehensive
+training programme that not only develops and hones the technical skills
+such as dribbling, passing and tackling, but also tactical concepts of
+attack and defence. Floorball is offered to both boys and girls to play
+at a recreational level.</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -38,18 +50,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>Floorball</h2>
-<p>Floorball&nbsp;is a&nbsp;team possession/invasion game played between
-two teams of players, each using a plastic manipulative (stick) to drive
-an air flow ball towards the opponent’s goal in an indoor court. Floorball
-has seen a rise in popularity among youths in the last decade, with our
-Singapore Teams clinching the gold medals in the SEA Games. It is an intensive
-and competitive sport CCA which helps develop physical fitness, self-discipline,
-resilience and teamwork. Our Floorball players go through a comprehensive
-training programme that not only develops and hones the technical skills
-such as dribbling, passing and tackling, but also tactical concepts of
-attack and defence. Floorball is offered to both boys and girls to play
-at a recreational level.</p>
+<h2></h2>
 <h2>Join Us</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA%20Sports/home1_set_main_w_360x199.jpg">
