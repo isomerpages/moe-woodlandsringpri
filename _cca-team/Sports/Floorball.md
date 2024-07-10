@@ -5,8 +5,11 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<h1>Floorball</h1>
-<table>
+<h1>Overview</h1>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -50,7 +53,11 @@ at a recreational level.</p>
 <h2>CCA Participation &amp; Achievements:</h2>
 <p>Junior Team had a friendly match with Admiralty Primary School in Nov
 2023 at Admiralty Primary School.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
