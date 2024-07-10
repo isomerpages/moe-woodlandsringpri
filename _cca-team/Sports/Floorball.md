@@ -31,6 +31,11 @@ variant: tiptap
 <p>Mr Abbas Bin K Abdulla Kutty</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Joel Tan</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Floorball</h2>
