@@ -4,10 +4,11 @@ permalink: /news-and-events/horizon-newsletter/permalink/
 description: ""
 variant: tiptap
 ---
-<h2>The Horizon Issue 1 2024</h2>
+<h2>The Horizon 2024</h2>
 <p><strong>Check out the new Horizon newletter in the link below.</strong>
 </p>
-<h4><a href="http://www.wrpsthehorizon.com/" rel="noopener noreferrer nofollow" target="_blank">Horizon Issue 1 2024</a></h4>
+<h3><a href="https://www.wrpsthehorizon.com/HorizonIssue2/mobile/index.html" rel="noopener noreferrer nofollow" target="_blank">Horizon Issue 2 2024</a></h3>
+<h3><a href="http://www.wrpsthehorizon.com/" rel="noopener noreferrer nofollow" target="_blank">Horizon Issue 1 2024</a></h3>
 <p></p>
 <p></p>
 <h2>The Horizon Issue 3 2023</h2>
