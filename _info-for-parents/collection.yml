@@ -2,6 +2,7 @@ collections:
   info-for-parents:
     output: true
     order:
+      - Booklist 2024.md
       - Transport Information.md
       - Lunch Pass 2024.md
       - Parents Engagement.md
