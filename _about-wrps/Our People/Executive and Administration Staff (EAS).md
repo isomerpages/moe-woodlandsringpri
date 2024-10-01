@@ -6,7 +6,11 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h3><strong>Executive &amp; Admin Support</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -90,7 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Kwah Eng Huat</strong>
+<p><strong>Mr Adam Goh</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
