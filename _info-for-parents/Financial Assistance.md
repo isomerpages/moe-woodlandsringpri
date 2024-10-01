@@ -53,7 +53,7 @@ approved to December of the same year.</p>
 <h4><br><strong>POSB Smart Buddy</strong></h4>
 <p>Cultivate good money habits early with POSB Smart Buddy. Click on the
 link below to find out more about it.</p>
-<p></p>
+<h4><strong><a href="https://www.posb.com.sg/personal/promotion/sb-2x-savings-booster?cid=sg:en:cbg:posb:sem:goo:na:txt:casa:casa-aga-sem:posb-sb-brand:na&amp;gad_source=1&amp;gclid=Cj0KCQjwmOm3BhC8ARIsAOSbapVJmsZ6efPOFJFqQsMnh5t28j4jRs-lGv8Lhe3z2ROxkVY4ugyz1YoaAl-5EALw_wcB&amp;gclsrc=aw.ds" rel="noopener nofollow" target="_blank">POSB Smart Buddy</a></strong></h4>
 <p></p>
 <h4><strong>POSB Smart Buddy | POSB Singapore</strong></h4>
 <p>For issues relating to POSB SMART Buddy Watch, please take note of the
