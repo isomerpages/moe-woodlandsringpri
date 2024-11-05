@@ -4,5 +4,5 @@ permalink: /moe-leave-of-absence/
 variant: tiptap
 description: ""
 ---
-<p><a href="https://form.gov.sg/Application for Leave of Absence(LOA)" rel="noopener nofollow" target="_blank">MOE Application for Leave of Absence</a>
+<p><a href="https://form.gov.sg/60dabedad921be0011eb7538" rel="noopener nofollow" target="_blank">Application for Leave of Absence</a>
 </p>
