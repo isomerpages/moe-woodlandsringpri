@@ -17,17 +17,17 @@ link. (<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" t
 <p>Application for MOE Financial Assistance Scheme for year 2024 is now open.
 You</p>
 <p>can apply via hardcopy by downloading the form below.</p>
-<p><a href="/files/Office/2024_MOE_FAS_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form</a>
+<p><a href="/files/Financial Assistance/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form</a>
 </p>
 <p></p>
 <p>For information on FAS click the link below.</p>
-<p><a href="/files/Office/MOE_FAS_pamphet_EL__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Information (English)</a>
+<p><a href="/files/Financial Assistance/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Information (English)</a>
 </p>
-<p><a href="/files/Office/MOE_FAS_pamphet_CL.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Information (Chinese)</a>
+<p><a href="/files/Financial Assistance/Document_4b_MOE_FAS_pamphlet__CL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Information (Chinese)</a>
 </p>
-<p><a href="/files/Office/MOE_FAS_pamphet_ML.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Information (Malay)</a>
+<p><a href="/files/Financial Assistance/Document_4c_MOE_FAS_pamphlet__ML_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Information (Malay)</a>
 </p>
-<p><a href="/files/Office/MOE_FAS_pamphet_TL.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Information (Tamil)</a>
+<p><a href="/files/Financial Assistance/Document_4d_MOE_FAS_pamphlet__TL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Information (Tamil)</a>
 </p>
 <p></p>
 <p></p>
