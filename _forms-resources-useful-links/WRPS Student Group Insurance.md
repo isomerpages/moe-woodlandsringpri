@@ -8,5 +8,5 @@ description: ""
 more information.</p>
 <p>The document includes the students’ insurance coverage and claim procedure.</p>
 <p></p>
-<h4><a href="/files/Group Insurance/Product_Fact_Sheet_Year_2024.pdf" rel="noopener nofollow" target="_blank">WRPS Student Group Insurance</a></h4>
+<h4><a href="/files/Group Insurance/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener nofollow" target="_blank">WRPS Group Insurance for Students</a></h4>
 <p></p>
