@@ -14,6 +14,6 @@ sections:
           url: https://www.youtube.com/watch?v=Cug-_edCSDg&t=4126s
         - title: 2025 Primary One Useful Information
           description: Briefing by School Leaders
-          url: ""
+          url: /info-for-parents/p1/permalink/
       url: /infoforparents/parentsbriefing/permalink/
 ---
