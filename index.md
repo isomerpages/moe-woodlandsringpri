@@ -12,8 +12,8 @@ sections:
         - title: WRPS 25th Anniversary Video
           description: ""
           url: https://www.youtube.com/watch?v=Cug-_edCSDg&t=4126s
-        - title: Parents Engagement 2024
-          description: ""
-          url: /info-for-parents/parents-engagement/permalink/
+        - title: 2025 Primary One Useful Information
+          description: Briefing by School Leaders
+          url: /info-for-parents/p1/permalink/
       url: /infoforparents/parentsbriefing/permalink/
 ---
