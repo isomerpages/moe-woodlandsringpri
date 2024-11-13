@@ -13,7 +13,7 @@ sections:
           description: ""
           url: https://www.youtube.com/watch?v=Cug-_edCSDg&t=4126s
         - title: 2025 Primary One Useful Information
-          description: Key Highlight description
+          description: Briefing by School Leaders
           url: ""
       url: /infoforparents/parentsbriefing/permalink/
 ---
