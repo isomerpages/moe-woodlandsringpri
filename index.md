@@ -12,7 +12,7 @@ sections:
         - title: WRPS 25th Anniversary Video
           description: ""
           url: https://www.youtube.com/watch?v=Cug-_edCSDg&t=4126s
-        - title: 2025 Primary One Useful Information
+        - title: P1 Parents' Primer and Connect Session 2025
           description: Briefing by School Leaders
           url: /info-for-parents/p1/permalink/
       url: /infoforparents/parentsbriefing/permalink/
