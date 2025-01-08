@@ -73,17 +73,11 @@ are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
 <p></p>
 <p></p>
-<p><strong>At Woodlands Ring Primary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
+<p><strong>At Woodlands Ring Primary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
 </p>
 <h3>PRIMARY 5</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCE/cce_table_1.png">
-</div>
 <p></p>
 <h3>PRIMARY 6</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCE_Table_2.png">
-</div>
 <p></p>
 <h2>Information for Parents</h2>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
