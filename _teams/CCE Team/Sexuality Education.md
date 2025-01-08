@@ -82,14 +82,17 @@ themselves safe from sexuality-related risks.</p>
 </div>
 <h3>PRIMARY 6</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/sexed_2025_P5_2.png">
+</div>
 <h2>Information for Parents</h2>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
 Sexuallity Education lessons, and/or supplementary Sexuality Education
 programmes by MOE-approved external providers.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the&nbsp;of the Sexuality Education lessons&nbsp;need to complete
-an opt-out form. This form will be communicated &nbsp;to parents at the
-start of the year.</p>
+an opt-out form. The completed opt-out form is to be submitted by <strong>15 JANUARY 2025.</strong>
+</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at&nbsp;<strong>63643679</strong>&nbsp;for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
