@@ -6,7 +6,7 @@ third_nav_title: CCE Team
 variant: tiptap
 ---
 <h4></h4>
-<h3><strong>WOODLANDS RING PRIMARY </strong></h3>
+<h3><strong>WOODLANDS RING PRIMARY</strong></h3>
 <h3><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></h3>
 <p><strong>&nbsp;</strong>1. Sexuality Education (SEd) in schools aims to
 enable students to understand the physiological, social and emotional changes
