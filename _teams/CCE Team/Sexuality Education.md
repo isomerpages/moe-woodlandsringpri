@@ -42,7 +42,7 @@ ones.</p>
 more information on MOE Sexuality Education.</p>
 <p>&nbsp;</p>
 <p>=========================================================================</p>
-<h4><strong>OVERVIEW OF WOODLANDS RING PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong></h4>
+<h4><strong>OVERVIEW OF WOODLANDS RING PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h4>
 <p><strong>&nbsp;</strong>.4. Sexuality Education is delivered in a holistic
 manner through the school curriculum. The content for Sexuality Education
 is grouped into five main themes: Human Development, Interpersonal Relationships,
@@ -77,6 +77,9 @@ themselves safe from sexuality-related risks.</p>
 </p>
 <h3>PRIMARY 5</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/sexed_2025_P5.png">
+</div>
 <h3>PRIMARY 6</h3>
 <p></p>
 <h2>Information for Parents</h2>
