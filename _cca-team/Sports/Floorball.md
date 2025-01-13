@@ -40,7 +40,7 @@ at a recreational level.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Abbas Bin K Abdulla Kutty</p>
+<p>Mr Vishnu</p>
 </td>
 </tr>
 <tr>
@@ -57,8 +57,10 @@ at a recreational level.</p>
 </div>
 <h4><a href="https://youtu.be/60wnUowpydw" rel="noopener noreferrer nofollow" target="_blank">WRPS Floorball Recruitment Video</a></h4>
 <h2>CCA Participation &amp; Achievements:</h2>
-<p>Junior Team had a friendly match with Admiralty Primary School in Nov
-2023 at Admiralty Primary School.</p>
+<p>Despite being a relatively new CCA in WRPS, our Junior Boys emerged 1
+st Place in their Tier 3 Competition in the 2024 season. The school will
+be participating for the first time, in both Junior and Senior Boys’ Categories
+this year.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
