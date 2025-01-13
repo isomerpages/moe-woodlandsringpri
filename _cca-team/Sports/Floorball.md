@@ -61,8 +61,9 @@ at a recreational level.</p>
 st Place in their Tier 3 Competition in the 2024 season. The school will
 be participating for the first time, in both Junior and Senior Boys’ Categories
 this year.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -70,15 +71,12 @@ this year.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Floorball/image.png">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Floorball/image__1_.png">
-</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 </tbody>
