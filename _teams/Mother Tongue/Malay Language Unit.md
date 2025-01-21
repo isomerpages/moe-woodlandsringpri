@@ -84,11 +84,7 @@ enjoyable.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Mdm Ruhaizah Osman</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher - ML</p>
