@@ -105,7 +105,10 @@ culture and instilling strong Moral Values.</p>
 <p>Ms Hong Guey Lian</p>
 </li>
 <li>
-<p>Ms. Fong Wei Yen</p>
+<p>Ms Poh Kia Kie</p>
+</li>
+<li>
+<p>Ms Wong Kin Yap</p>
 </li>
 </ul>
 </td>
@@ -127,7 +130,7 @@ culture and instilling strong Moral Values.</p>
 <p>Mr Ken Yeo</p>
 </li>
 <li>
-<p>Mdm Liu Lili</p>
+<p>Mdm Ng Lay Peng</p>
 </li>
 </ul>
 </td>
@@ -161,36 +164,13 @@ culture and instilling strong Moral Values.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese New Year Celebration
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Chinese department organizes Chinese New Year Celebration concert
-every year. It provides a platform for pupils to celebrate the traditional
-festival and through the celebration, it strengthens the racial harmony
-among all races.
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All pupils
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mid-Autumn Festival
-<br>
-</p>
+<p>Mid_Autumn Festival</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Chinese department organizes Mid-Autumn Festival Lantern Making and
-Drawing competitions every year, along with the festive-related recess
-activities e.g. mooncake tasting, Chinese Tea appreciation etc. It aims
-to provide a platform for pupils to celebrate the traditional festival
-and appreciate the richness of one’s culture.
+Drawing competitions every year, along with the festive-related classroom
+activities. It aims to provide a platform for pupils to celebrate the traditional
+festival and appreciate the richness of one’s culture.
 <br>
 </p>
 </td>
@@ -207,35 +187,14 @@ and appreciate the richness of one’s culture.
 <td rowspan="1" colspan="1">
 <p>MT Fortnight is a 2-week long programme. During the 2-weeks, students
 engaged in many fun-filled activities ranging from storytelling, crafts
-work to painting. There are also competitions customised at various levels.</p>
+work to cultural appreciation. There are also competitions customised at
+various levels.</p>
 <p>Through the MT Fortnight, the school aims to create an engaging environment
 in which the learning of Chinese, Malay and Tamil are made more meaningful
 by promoting the cultural richness found in each language.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4 pupils
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P4 Cultural Fiesta
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The P4 pupils will experience a wonderful cross cultural half-day programme
-where they learn and appreciate the culture differences through the various
-traditional activities planned for them. The main objectives of the programme
-are to provide an immersive environment for students to learn and use Mother
-Tongue Language and to appreciate respective cultures through hands-on
-tasks.
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4 pupils
+<p>All pupils
 <br>
 </p>
 </td>
@@ -257,99 +216,13 @@ experience with positive take-away for students.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4 pupils
+<p>P3 pupils
 <br>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Conversational Chinese Language (CCL) and Conversational Malay Language
-(CML) Programme
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The CCL and CML Programme are catered for Primary 3 and Primary 4 pupils.
-Pupils who have opted for the course will attend 10 lessons. The lessons
-(2 hours per lesson) are held outside curriculum time on a weekly basis.
-The program aims to teach our pupils simple, conversational phrases in
-other Mother Tongue Language, besides their own. While keeping our mother
-tongues and cultures alive, acquiring other languages will enable us to
-link up with opportunities beyond Singapore such as those in Southeast
-Asia and the Middle-East.
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P3 and P4 pupils
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Hooked on Reading
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Reading is the key for language learning, it benefits our students by
-enriching their vocabulary and strengthening their reading comprehension
-skills. Therefore, the Chinese department conducts Reading Programme for
-all levels throughout the year. The students are exposed to storybooks
-of different themes from Primary One to Six. In WRPS, we get pupils “Hooked
-on Reading”.
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All pupils
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Newspaper Review Programme
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>In order to instil the love of reading and keep our pupils update on the
-current affairs, Newspaper Programme is conducted for middle and upper
-primary.
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>High Readiness Pupils</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h2>National Calligraphy Competition</h2>
-<p>Last year, WRPS participated in the 2021 “Awe-Inspiring Virtue and Ocean
-of Wisdom” National Calligraphy Competition. All primary 3 to primary 6
-pupils had the opportunity to participate in this competition. 10 of our
-pupils were awarded consolation prizes and 2 of our pupils managed to enter
-the finals. Our school was also awarded the “Active School Participation”
-Award for being one of the school that submitted the most number of entries
-for this competition. It was indeed a proud moment for WRPS!</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/image.png">
-</div>
-<p>Photo of one of the finalist ZHAN WEN XUAN from 3 Rose, representing our
-school to receive the “Active School Participation” award.</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/unnamed.png">
-</div>
-<p>Photo of one of the finalist, TAN YU HAN from 4 Rose.</p>
-<h2>Conversational Chinese Language (CCL) and Conversational Malay Language (CML) Programme</h2>
-<p>The program aims to teach our pupils simple, conversational phrases in
-other Mother Tongue Language, besides their own. Pupils attend 10 lessons
-outside curriculum time on a weekly basis.</p>
 <h2>Chinese New Year Celebration</h2>
 <p>Woodlands Ring Primary School celebrated Chinese New Year this year with
 pre-recorded performances shown in their classrooms on 31st January 2022.
@@ -364,12 +237,16 @@ going on! After viewing the performances, the pupils got to learn more
 about Chinese New Year traditions and customs through a presentation and
 ended the day by engaging in fun-filled classroom activities led by their
 form teachers.</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/cny.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cny2.png">
-</div>
+<h2>National Calligraphy Competition</h2>
+<p>WRPS participated in the “Awe-Inspiring Virtue and Ocean of Wisdom” National
+Calligraphy Competition yearly. All primary 1 to primary 6 pupils had the
+opportunity to participate in this competition. Our school was also awarded
+the “Active School Participation” Award for being one of the schools that
+submitted the greatest number of entries for this competition. It was indeed
+a proud moment for WRPS!</p>
+<p></p>
+<p></p>
+<h2></h2>
 <h2>Mid-Autumn Festival competitions</h2>
 <p>As part of the Chinese culture, Lantern Making and Drawing competitions
 was conducted to promote an interest and awareness of the Mid-Autumn Festival
