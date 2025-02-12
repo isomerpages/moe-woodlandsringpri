@@ -21,7 +21,11 @@ and Cultural Camp provide a learning platform to foster pupils' learning
 and interest thus making Malay Language acquisition appealing and more
 enjoyable.</p>
 <h2>Vision, Mission &amp; Values</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -48,7 +52,11 @@ enjoyable.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -68,16 +76,27 @@ enjoyable.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ruhaizah Osman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher - ML</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -103,9 +122,6 @@ enjoyable.</p>
 <p>Mdm Nurshahidah Noor</p>
 </li>
 <li>
-<p>Mr Abbas Bin K Abdulla Kutty</p>
-</li>
-<li>
 <p>Mdm Nur Izzati Abdul Latiff</p>
 </li>
 <li>
@@ -117,7 +133,12 @@ enjoyable.</p>
 </tbody>
 </table>
 <h2>Programmes</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -294,16 +315,67 @@ the exposure of theater and drama performances.</p>
 </tr>
 </tbody>
 </table>
-<h2>Pupil achievements this year</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ML0.png">
-</div>
+<h3>Mother Tongue Fortnight 2024</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ML1.png">
-</div>
+<h2>Student Achievements</h2>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>Piala Cendekia Sahibba 2024</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>3rd Prize</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Nur Ehsan Bin Sofian</p>
+</li>
+<li>
+<p>Rifky Danish Alkautsar Bin Norashidi</p>
+</li>
+<li>
+<p>Nur Sarah Eryna Binte Mohamed Nazri</p>
+</li>
+<li>
+<p>Qisya Aqeela Binte Mohammad Iskandar</p>
+</li>
+<li>
+<p>Chua Muhammad Syafiq Idafi Bin Syafidi</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ML2.png">
-</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>EDN Karya Minda Kreatif 2024</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Nurin Rabiattul Adawiyah Binte Sahari - Silver</p>
+</li>
+<li>
+<p>Muhammad Adlyn Afi Bin Muhammad Shahiran - Silver</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>

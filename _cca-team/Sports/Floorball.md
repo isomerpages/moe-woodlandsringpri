@@ -6,17 +6,17 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <h1>Overview</h1>
-<p>Floorball&nbsp;is a&nbsp;team possession/invasion game played between
-two teams of players, each using a plastic manipulative (stick) to drive
-an air flow ball towards the opponent’s goal in an indoor court. Floorball
-has seen a rise in popularity among youths in the last decade, with our
-Singapore Teams clinching the gold medals in the SEA Games. It is an intensive
-and competitive sport CCA which helps develop physical fitness, self-discipline,
-resilience and teamwork. Our Floorball players go through a comprehensive
-training programme that not only develops and hones the technical skills
-such as dribbling, passing and tackling, but also tactical concepts of
-attack and defence. Floorball is offered to both boys and girls to play
-at a recreational level.</p>
+<p>Are you ready to get active, make new friends, and learn an exciting sport?
+Our School’s Floorball CCA is the perfect place for you! Floorball is a
+fast-paced, exciting indoor sport that combines the fun of hockey with
+the energy of team play. Whether you’re a beginner or already have some
+experience, our Floorball CCA welcomes everyone! You’ll have the chance
+to develop your skills in dribbling, passing, shooting, and teamwork—all
+while staying fit and having a blast.</p>
+<p>Floorball CCA is open for both boys and girls. Training equipment such
+as floorball sticks are all provided by the school.</p>
+<p></p>
+<p></p>
 <p></p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -40,7 +40,7 @@ at a recreational level.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Abbas Bin K Abdulla Kutty</p>
+<p>Mr Vishnu</p>
 </td>
 </tr>
 <tr>
@@ -57,10 +57,13 @@ at a recreational level.</p>
 </div>
 <h4><a href="https://youtu.be/60wnUowpydw" rel="noopener noreferrer nofollow" target="_blank">WRPS Floorball Recruitment Video</a></h4>
 <h2>CCA Participation &amp; Achievements:</h2>
-<p>Junior Team had a friendly match with Admiralty Primary School in Nov
-2023 at Admiralty Primary School.</p>
-<table style="minWidth: 50px">
+<p>Despite being a relatively new CCA in WRPS, our Junior Boys emerged 1
+st Place in their Tier 3 Competition in the 2024 season. The school will
+be participating for the first time, in both Junior and Senior Boys’ Categories
+this year.</p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -69,13 +72,19 @@ at a recreational level.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Floorball/image.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Floorball/Floorball_Pic_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Floorball/image__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Floorball/Floorball_Pic_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Floorball/Floorball_Pic_3.jpg">
 </div>
 </th>
 </tr>

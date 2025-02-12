@@ -7,23 +7,62 @@ variant: markdown
 ---
 Overview:
 ---------
+## Grace in Motion, Grace in Tradition
 
-Malay Dance CCA provides a platform for dancers to develop their Malay dance skills. It is an avenue for students to build their confidence on stage by performing the different dance forms. Apart from grooming our young talents, the Malay Dance CCA also aims to instil in our students good values and character through our training sessions and cultural immersion programmes and performance platforms.
+At Woodlands Ring Primary School, our Malay Dance CCA is a celebration of tradition, culture, and expression. Through the beauty of dance, our students develop grace, confidence, and a deep appreciation for the rich heritage of the Malay community. More than just movement, Malay dance nurtures discipline, teamwork, and self-expression, shaping our dancers into well-rounded individuals.
+
+
+
+## Our Values: RASA
+
+#### **Our CCA is guided by RASA, instilling important values in our dancers:**
+
+🌟 **Respectful** – We honour our culture, our teachers and instructors, and our teammates with discipline and dedication.
+
+🌿 **Appreciative** – We take pride in our heritage and embrace the opportunity to learn and perform.
+
+🤝 **Supportive** – We encourage and uplift one another, working as a team to perfect our craft.
+
+🔄 **Adaptable** – We stay open to new choreography, embracing challenges with resilience and creativity.**
+
+
+[Malay Dance](https://www.youtube.com/embed/5JzArDxX\_5I?si=v9ohuYdwt6kddVrQ)[Malay Dance Recruitment Video](https://www.youtube.com/embed/5JzArDxX\_5I?si=v9ohuYdwt6kddVrQ))
+
+
+During their four-year journey in the Malay Dance CCA, students will learn the **four main traditional Malay dance genres**:
+
+💃 **Zapin** – A structured and rhythmic dance known for its swift and intricate footwork.
+
+🩰 **Inang** – A graceful and elegant dance often performed in royal settings.
+
+🎶 **Joget** – A lively and energetic dance that brings joy to festive occasions.
+
+🌿 **Asli** – A slow and expressive dance that tells a story through movement.
+
+**
+
+## What to Expect
+
+✔ Hands-on training in traditional and modern Malay dance.  
+✔ Performance opportunities at school and community events.  
+✔ Development of confidence, resilience, and teamwork.  
+✔ A deeper understanding and appreciation of Malay culture and performing arts.
+
+Join us in our journey of **grace in motion and grace in tradition**! 
+Let’s dance with **RASA** and bring our culture to life through movement.
 
 
 
 | Teachers In-Charge |
 | --- |
-| Mdm Nurhumairah Akip ( I/C ) |
+| Mdm Noriati Amin (I/C) | 
 | Mr Muhd Asyraf ( Asst I/C ) |
-| Mdm Noriati Amin |
 | Mdm Mustika Alyssa |
 
 Join Us
 -------
-[WRPS Malay Dance](https://www.youtube.com/watch?v=xv7PJzhzkI8)
-![](/images/CCA%20Sports/malaydance.jpg)
+[Malay Dance Recruitment Video](https://www.youtube.com/embed/5JzArDxX\_5I?si=v9ohuYdwt6kddVrQ))
 
 CCA Participation &amp; Achievements:
 ---------------------------------
-![](/images/malay1.png)
+![](/images/CCA%20Performing%20Arts/Malay_dance.png)
