@@ -199,7 +199,7 @@ to be both age-appropriate and suitable for their level of language acquisition.
 Yearly, winners receive trophies and all participants receive medals to
 commemorate the events.</p>
 <p></p>
-<p><strong>Competitions:</strong> 
+<p><strong>Competitions:</strong>
 </p>
 <p>Singing, Storytelling, Fance dress cum character portrayal, creative writing,
 advertisement, oratorical
