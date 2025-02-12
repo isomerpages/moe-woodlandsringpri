@@ -11,7 +11,7 @@ Overview:
 
 At Woodlands Ring Primary School, our Malay Dance CCA is a celebration of tradition, culture, and expression. Through the beauty of dance, our students develop grace, confidence, and a deep appreciation for the rich heritage of the Malay community. More than just movement, Malay dance nurtures discipline, teamwork, and self-expression, shaping our dancers into well-rounded individuals.
 
-**
+
 
 ## Our Values: RASA
 
@@ -25,8 +25,8 @@ Our CCA is guided by RASA, instilling important values in our dancers:
 
 🔄 **Adaptable** – We stay open to new choreography, embracing challenges with resilience and creativity.**
 
-**
-[Malay Dance](https://www.youtube.com/embed/5JzArDxX\_5I?si=v9ohuYdwt6kddVrQ)
+
+[Malay Dance](https://www.youtube.com/embed/5JzArDxX\_5I?si=v9ohuYdwt6kddVrQ)[Malay Dance Recruitment Video](https://www.youtube.com/embed/5JzArDxX\_5I?si=v9ohuYdwt6kddVrQ))
 
 
 During their four-year journey in the Malay Dance CCA, students will learn the **four main traditional Malay dance genres**:
@@ -61,8 +61,7 @@ Let’s dance with **RASA** and bring our culture to life through movement.
 
 Join Us
 -------
-[WRPS Malay Dance](https://www.youtube.com/watch?v=xv7PJzhzkI8)
-![](/images/CCA%20Sports/malaydance.jpg)
+[Malay Dance Recruitment Video](https://www.youtube.com/embed/5JzArDxX\_5I?si=v9ohuYdwt6kddVrQ))
 
 CCA Participation &amp; Achievements:
 ---------------------------------
