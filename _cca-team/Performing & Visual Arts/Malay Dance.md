@@ -15,7 +15,7 @@ At Woodlands Ring Primary School, our Malay Dance CCA is a celebration of tradit
 
 ## Our Values: RASA
 
-Our CCA is guided by RASA, instilling important values in our dancers:
+#### **Our CCA is guided by RASA, instilling important values in our dancers:**
 
 🌟 **Respectful** – We honour our culture, our teachers and instructors, and our teammates with discipline and dedication.
 
@@ -65,3 +65,4 @@ Join Us
 
 CCA Participation &amp; Achievements:
 ---------------------------------
+![](/images/CCA%20Performing%20Arts/Malay_dance.png)
