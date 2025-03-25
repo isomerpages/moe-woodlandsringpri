@@ -6,35 +6,9 @@ third_nav_title: Mother Tongue
 variant: tiptap
 ---
 <h1>Tamil Language Unit</h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tamil.jpg">
-</div>
-<p>வாழ்க தமிழ்மொழி! வாழ்க தமிழ்மொழி!</p>
-<p>வாழ்க தமிழ்மொழியே!</p>
-<p>வாழ்க நிரந்தரம் வாழ்க தமிழ்மொழி</p>
-<p>வாழிய வாழியவே!</p>
-<p>வான மளந்த தனைத்தும் அளந்திடும்</p>
-<p>வண்மொழி வாழியவே!</p>
-<p>ஏழ்கடல் வைப்பினுந் தன்மணம் வீசி</p>
-<p>இசைகொண்டு வாழியவே!</p>
-<p>எங்கள் தமிழ்மொழி! எங்கள் தமிழ்மொழி!</p>
-<p>என்றென்றும் வாழியவே!</p>
-<p>சூழ்கலி நீங்கத் தமிழ்மொழி ஓங்கத்</p>
-<p>துலங்குக வையகமே!</p>
-<p>வாழ்க தமிழ்மொழி! வாழ்க தமிழ்மொழி!</p>
-<p>வாழ்க தமிழ்மொழியே!</p>
-<p>வானம் அறிந்த தனைத்தும் அறிந்து</p>
-<p>வளர்மொழி வாழியவே!</p>
-<p>வாழ்க தமிழ்மொழி! வாழ்க தமிழ்மொழி!</p>
-<p>வாழ்க தமிழ்மொழியே!</p>
-<p>வாழ்க நிரந்தரம் வாழ்க தமிழ்மொழி</p>
-<p>வாழிய வாழியவே!</p>
-<p>வாழ்க தமிழ்மொழி! வாழ்க தமிழ்மொழி!</p>
-<p>வாழ்க தமிழ்மொழியே!</p>
-<p>எங்கள் தமிழ்மொழி!</p>
-<p>எங்கள் தமிழ்மொழி!</p>
-<p>என்றென்றும் வாழியவே!</p>
-<p>மகாகவி&nbsp;சுப்பிரமணிய பாரதியார்</p>
+<p></p>
+<p></p>
+<p></p>
 <h2>Introduction</h2>
 <p>WRPS Tamil unit aims to nurture our pupils’ love for Tamil Language and
 appreciate Indian culture and tradition by adopting various teaching strategies,
@@ -291,9 +265,6 @@ and get feedback on how to improve their reading skill.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <h3><strong>External Competition and Awards</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Teams/Tamil_Achieve.png">
-</div>
 </td>
 </tr>
 </tbody>
@@ -306,220 +277,20 @@ and get feedback on how to improve their reading skill.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://S.No" rel="noopener noreferrer nofollow" target="_blank">S.No</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Name of the competitions</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Prize winners and Participants</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-</p>
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-</p>
 <p>Spelling Bee 2024 (தமிழோடு விளையாடு)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Semi Finalists:</p>
-<ol>
-<li>
+<p><u>Semi Finalists:</u>
+</p>
 <p>Daniel Suresh Chris Kevin</p>
-</li>
-<li>
-<p>Shankar Lakshana</p>
-</li>
-<li>
-<p>Muthukumar Pranika</p>
-</li>
-<li>
-<p>Selvakumar Sirisjeth</p>
-</li>
-<li>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shankar Lakshana</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muthukumar Pranika</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selvakumar Sirisjeth</p>
 <p>Pritvi Teja</p>
-</li>
-</ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp; Muthamizh vizha 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Partcipation:</p>
-<ol>
-<li>
-<p>Rajan Vishara Murph&nbsp;</p>
-</li>
-<li>
-<p>Arun Prasad Tharkuzhali&nbsp;</p>
-</li>
-<li>
-<p>Prabhakaran Revan</p>
-</li>
-<li>
-<p>Karuppasamy Darshan</p>
-</li>
-<li>
-<p>Karthigayan Murugayan</p>
-</li>
-<li>
-<p>Pritvi Teja</p>
-</li>
-</ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Avvaiyar Vizha 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First Prize:</p>
-<ol>
-<li>
-<p>Vijaya Kumar Mahisha&nbsp;</p>
-</li>
-</ol>
-<p>Second Prize:</p>
-<ol start="2">
-<li>
-<p>Selvakumar Srisjeth</p>
-</li>
-</ol>
-<p>Third Prize</p>
-<ol start="3">
-<li>
-<p>Shankar Lakshana</p>
-</li>
-</ol>
-<p>
-<br>
-</p>
-<p>Motivational Prize:</p>
-<ol>
-<li>
-<p>Sowmitha Ramesh</p>
-</li>
-<li>
-<p>Johny Vinoth Naethan</p>
-</li>
-</ol>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tirukkural Vizha 2024&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<ol>
-<li>
-<p>Vivek Selvam Sathvika Sree –2<sup>nd</sup> prize</p>
-</li>
-<li>
-<p>Vivek Selvam Sastik - Motivational Prize</p>
-</li>
-<li>
-<p>Mareeswaran Vibisha –1<sup>st</sup> Prize</p>
-</li>
-<li>
-<p>Ramesh Mahilini - 2<sup>nd </sup>Prize</p>
-</li>
-<li>
-<p>Karthikeyan Sudharman - &nbsp; 1<sup>st</sup> Prize</p>
-</li>
-<li>
-<p>Prabhakaran Yeswanth &nbsp; - &nbsp; &nbsp; &nbsp; Motivational Prize</p>
-</li>
-<li>
-<p>VijayaKumar Mahisha -&nbsp; 3<sup>rd</sup> Prize</p>
-</li>
-</ol>
-<p>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bharathiyar&nbsp; Vizha literary competitions 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Third prize:&nbsp;</p>
-<ol>
-<li>
-<p>Vivek Selvam Sathvika Sree</p>
-</li>
-<li>
-<p>Arun Prasad Tharkuzhali</p>
-</li>
-</ol>
-<p>Motivational Prize:&nbsp;</p>
-<p>3. &nbsp; Vivek Selvam Sastik Vel</p>
-<p>4. &nbsp; Surendhaaren Dhanyatha</p>
-<p>5.Vijayan Mahashwin Hari</p>
-<p>6.Pritvi Teja</p>
-<p>Participation:</p>
-<p>7.Trishika Trella Kanthan</p>
-<p>8.Kannan Atiksha</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">S.No</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Name of the competitions</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Prize winners and Participants</p>
 </td>
 </tr>
 <tr>
