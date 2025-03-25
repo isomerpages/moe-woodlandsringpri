@@ -199,6 +199,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mrs Vincy Sebastian</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Department, English Language</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <p><strong>Mrs Marion Lim</strong>
 </p>
 </td>
@@ -215,14 +226,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Lead Teacher, English Language</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -245,7 +248,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Ms Marianne</strong>
+<p><strong>Ms Rose Marianne</strong>
 </p>
 </li>
 <li>
@@ -266,6 +269,14 @@ variant: tiptap
 </li>
 <li>
 <p><strong>Mdm Siti Aisyah</strong>
+</p>
+</li>
+<li>
+<p><strong>Mdm Mazlin</strong>
+</p>
+</li>
+<li>
+<p><strong>Ms Lee Wan Er</strong>
 </p>
 <p></p>
 </li>
@@ -290,7 +301,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Ms Joieslin</strong>
+<p><strong>Mdm Sharin Lee</strong>
 </p>
 </li>
 <li>
@@ -298,7 +309,15 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Ms Lucinda</strong>
+<p><strong>Ms Ruth</strong>
+</p>
+</li>
+<li>
+<p><strong>Ms Charlene Wang</strong>
+</p>
+</li>
+<li>
+<p><strong>Mr Adli</strong>
 </p>
 </li>
 </ul>
