@@ -20,7 +20,7 @@ Through dance, the students cultivate resilience, grace and a sense of teamwork 
 | --- |
 | Mdm Puspaja ( I/C ) |
 | Mdm Gomathi ( Asst I/C ) |
-| Ms Elfi Hairulniza |
+| Ms Elfi |
 
 Join Us
 -------
