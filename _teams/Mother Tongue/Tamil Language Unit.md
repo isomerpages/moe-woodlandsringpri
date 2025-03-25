@@ -298,4 +298,209 @@ and get feedback on how to improve their reading skill.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="http://S.No" rel="noopener noreferrer nofollow" target="_blank">S.No</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name of the competitions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prize winners and Participants</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+<br>
+<br>
+</p>
+<p>1.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+<br>
+<br>
+</p>
+<p>Spelling Bee 2024 (தமிழோடு விளையாடு)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semi Finalists:</p>
+<ol>
+<li>
+<p>Daniel Suresh Chris Kevin</p>
+</li>
+<li>
+<p>Shankar Lakshana</p>
+</li>
+<li>
+<p>Muthukumar Pranika</p>
+</li>
+<li>
+<p>Selvakumar Sirisjeth</p>
+</li>
+<li>
+<p>Pritvi Teja</p>
+</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Muthamizh vizha 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Partcipation:</p>
+<ol>
+<li>
+<p>Rajan Vishara Murph&nbsp;</p>
+</li>
+<li>
+<p>Arun Prasad Tharkuzhali&nbsp;</p>
+</li>
+<li>
+<p>Prabhakaran Revan</p>
+</li>
+<li>
+<p>Karuppasamy Darshan</p>
+</li>
+<li>
+<p>Karthigayan Murugayan</p>
+</li>
+<li>
+<p>Pritvi Teja</p>
+</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Avvaiyar Vizha 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Prize:</p>
+<ol>
+<li>
+<p>Vijaya Kumar Mahisha&nbsp;</p>
+</li>
+</ol>
+<p>Second Prize:</p>
+<ol start="2">
+<li>
+<p>Selvakumar Srisjeth</p>
+</li>
+</ol>
+<p>Third Prize</p>
+<ol start="3">
+<li>
+<p>Shankar Lakshana</p>
+</li>
+</ol>
+<p>
+<br>
+</p>
+<p>Motivational Prize:</p>
+<ol>
+<li>
+<p>Sowmitha Ramesh</p>
+</li>
+<li>
+<p>Johny Vinoth Naethan</p>
+</li>
+</ol>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tirukkural Vizha 2024&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ol>
+<li>
+<p>Vivek Selvam Sathvika Sree –2<sup>nd</sup> prize</p>
+</li>
+<li>
+<p>Vivek Selvam Sastik - Motivational Prize</p>
+</li>
+<li>
+<p>Mareeswaran Vibisha –1<sup>st</sup> Prize</p>
+</li>
+<li>
+<p>Ramesh Mahilini - 2<sup>nd </sup>Prize</p>
+</li>
+<li>
+<p>Karthikeyan Sudharman - &nbsp; 1<sup>st</sup> Prize</p>
+</li>
+<li>
+<p>Prabhakaran Yeswanth &nbsp; - &nbsp; &nbsp; &nbsp; Motivational Prize</p>
+</li>
+<li>
+<p>VijayaKumar Mahisha -&nbsp; 3<sup>rd</sup> Prize</p>
+</li>
+</ol>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bharathiyar&nbsp; Vizha literary competitions 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Third prize:&nbsp;</p>
+<ol>
+<li>
+<p>Vivek Selvam Sathvika Sree</p>
+</li>
+<li>
+<p>Arun Prasad Tharkuzhali</p>
+</li>
+</ol>
+<p>Motivational Prize:&nbsp;</p>
+<p>3. &nbsp; Vivek Selvam Sastik Vel</p>
+<p>4. &nbsp; Surendhaaren Dhanyatha</p>
+<p>5.Vijayan Mahashwin Hari</p>
+<p>6.Pritvi Teja</p>
+<p>Participation:</p>
+<p>7.Trishika Trella Kanthan</p>
+<p>8.Kannan Atiksha</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
