@@ -78,7 +78,7 @@ with a focus on precise shots, speed, and endurance.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Badminton/Badminton_2024_compressed.jpg">
 </div>
-<h4><a href="https://www.youtube.com/watch?v=gpZ0_t5onkY" rel="noopener noreferrer nofollow" target="_blank">WRPS Badminton Recruitment Video</a></h4>
+<h4><a href="https://youtu.be/falbB4nN8W4" rel="noopener nofollow" target="_blank">WRPS Badminton Recruitment 2025</a></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
