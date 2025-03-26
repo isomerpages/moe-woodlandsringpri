@@ -9,6 +9,9 @@ variant: tiptap
 </p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/CCA_Rfair_2024.gif">
+</div>
 <h3><strong>Sports</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
