@@ -102,7 +102,7 @@ the school in&nbsp;various competitions, such as the National School Games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SENIOR DIVISION BOYS </strong>
+<p><strong>SENIOR DIVISION BOYS</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
