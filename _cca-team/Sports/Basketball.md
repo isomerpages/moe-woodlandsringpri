@@ -14,7 +14,10 @@ resilience and teamwork.&nbsp;Besides welcoming all interested students
 to join the WRPS&nbsp;Basketball CCA, those who show strong potential in
 the sport and&nbsp;an affinity for teamwork will be selected to represent
 the school in&nbsp;various competitions, such as the National School Games.</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -57,9 +60,13 @@ the school in&nbsp;various competitions, such as the National School Games.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/basketball.jpg">
 </div>
-<h4><a href="https://youtu.be/BlXvHsWqYCg" rel="noopener noreferrer nofollow" target="_blank">WRPS Basketball Recruitment Video</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=wvcIopxzo6M" rel="noopener noreferrer nofollow" target="_blank">WRPS Basketball Recruitment Video</a></h4>
 <h2>CCA Participation &amp; Achievements:</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -103,7 +110,11 @@ the school in&nbsp;various competitions, such as the National School Games.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -174,7 +185,11 @@ the school in&nbsp;various competitions, such as the National School Games.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
