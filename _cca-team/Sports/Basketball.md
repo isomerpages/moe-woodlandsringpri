@@ -102,10 +102,12 @@ the school in&nbsp;various competitions, such as the National School Games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior&nbsp;Division Boys</p>
+<p><strong>SENIOR DIVISION BOYS </strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Top 8</p>
+<p><strong>TOP 8</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -153,34 +155,42 @@ the school in&nbsp;various competitions, such as the National School Games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior&nbsp;Division Boys</p>
+<p><strong>SENIOR&nbsp;DIVISION BOYS</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior&nbsp;Division Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
+<p><strong>PARTICIPATION</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Junior&nbsp;Division Boys</p>
+<p><strong>SENIOR DIVISION GIRLS</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tier 1</p>
+<p><strong>PARTICIPATION</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Junior&nbsp;Division Girls</p>
+<p><strong>JUNIOR DIVISION BOYS</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participation</p>
+<p><strong>TIER 1</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>JUNIOR DIVISION GIRLS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>PARTICIPATION</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -227,18 +237,22 @@ the school in&nbsp;various competitions, such as the National School Games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior&nbsp;Division Boys</p>
+<p><strong>SENIOR DIVISION BOYS</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Top 8</p>
+<p><strong>TOP 8</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior&nbsp;Division Girls</p>
+<p><strong>SENIOR DIVISION GIRLS</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participation</p>
+<p><strong>PARTICIPATION</strong>
+</p>
 </td>
 </tr>
 </tbody>
