@@ -23,9 +23,8 @@ Currently, the Chinese dancers in our school perform at various school events li
 
 Join Us
 -------
+![](/images/CCA%20Performing%20Arts/Chinesw/chinesed.jpg)
 
-
-![](/images/chinese%20dance.jpg)
 
 
 
