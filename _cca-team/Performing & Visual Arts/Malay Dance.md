@@ -26,7 +26,6 @@ At Woodlands Ring Primary School, our Malay Dance CCA is a celebration of tradit
 🔄 **Adaptable** – We stay open to new choreography, embracing challenges with resilience and creativity.**
 
 
-[Malay Dance](https://www.youtube.com/embed/5JzArDxX\_5I?si=v9ohuYdwt6kddVrQ)[Malay Dance Recruitment Video](https://www.youtube.com/embed/5JzArDxX\_5I?si=v9ohuYdwt6kddVrQ))
 
 
 During their four-year journey in the Malay Dance CCA, students will learn the **four main traditional Malay dance genres**:
@@ -39,7 +38,6 @@ During their four-year journey in the Malay Dance CCA, students will learn the *
 
 🌿 **Asli** – A slow and expressive dance that tells a story through movement.
 
-**
 
 ## What to Expect
 
@@ -61,8 +59,8 @@ Let’s dance with **RASA** and bring our culture to life through movement.
 
 Join Us
 -------
-[Malay Dance Recruitment Video](https://www.youtube.com/embed/5JzArDxX\_5I?si=v9ohuYdwt6kddVrQ))
+[Malay Dance Recruitment 2025](https://www.youtube.com/watch?v=5JzArDxX_5I)
 
-CCA Participation &amp; Achievements:
+Participation &amp; Achievements:
 ---------------------------------
 ![](/images/CCA%20Performing%20Arts/Malay_dance.png)
