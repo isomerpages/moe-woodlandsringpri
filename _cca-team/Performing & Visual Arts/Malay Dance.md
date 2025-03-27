@@ -28,7 +28,7 @@ At Woodlands Ring Primary School, our Malay Dance CCA is a celebration of tradit
 
 
 
-During their four-year journey in the Malay Dance CCA, students will learn the **four main traditional Malay dance genres**:
+#### **During their four-year journey in the Malay Dance CCA, students will learn the four main traditional Malay dance genres:**
 
 💃 **Zapin** – A structured and rhythmic dance known for its swift and intricate footwork.
 
@@ -59,7 +59,7 @@ Let’s dance with **RASA** and bring our culture to life through movement.
 
 Join Us
 -------
-[Malay Dance Recruitment 2025](https://www.youtube.com/watch?v=5JzArDxX_5I)
+[Malay Dance Recruitment Video 2025](https://www.youtube.com/watch?v=5JzArDxX_5I)
 
 Participation &amp; Achievements:
 ---------------------------------
