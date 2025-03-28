@@ -30,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=KtUsEcy0gsY" rel="noopener noreferrer nofollow" target="_blank">Football</a></h4>
+<h4><a href="https://youtu.be/bzvp7a2HRyo" rel="noopener noreferrer nofollow" target="_blank">Football</a></h4>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
