@@ -55,7 +55,7 @@ variant: tiptap
 <h4><a href="https://www.youtube.com/watch?v=z0wQc_nMnTE" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a></h4>
 </th>
 <th rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=qqsNSFNQEJo" rel="noopener noreferrer nofollow" target="_blank">Choir</a></h4>
+<h4><a href="https://youtu.be/G9P2JpDcYJI" rel="noopener noreferrer nofollow" target="_blank">Choir</a></h4>
 </th>
 </tr>
 <tr>
