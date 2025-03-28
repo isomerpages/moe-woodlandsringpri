@@ -23,9 +23,8 @@ If you think you have good rhythm, timing, concentration and most importantly, d
 | Teachers In-Charge |
 | --- |
 | Mdm Vanessa Raj ( I/C ) |
-| Mdm Norliza ( Asst I/C ) |
-| Mdm Nursarah |
-| Mdm Noorhayati |
+| Mdm Veronica Eu ( Asst I/C ) |
+| Mdm Lee Wan Er |
 
 Join Us
 -------
