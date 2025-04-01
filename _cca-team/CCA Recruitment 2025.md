@@ -49,7 +49,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=qXYBqkUPjUg" rel="noopener noreferrer nofollow" target="_blank">Art Club</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=6Hny09LbTyY" rel="noopener noreferrer nofollow" target="_blank">Art Club</a></h4>
 </th>
 <th rowspan="1" colspan="1">
 <h4><a href="https://www.youtube.com/watch?v=kt1tr048QBs" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a></h4>
@@ -94,7 +94,7 @@ variant: tiptap
 <h4><a href="https://www.youtube.com/watch?v=tCOeRBzQ1po" rel="noopener noreferrer nofollow" target="_blank">Scouts</a></h4>
 </th>
 <th rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=UXEfJh5SbOw" rel="noopener noreferrer nofollow" target="_blank">Science Club</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=OSlSpJHTjyQ" rel="noopener noreferrer nofollow" target="_blank">Science Club</a></h4>
 </th>
 </tr>
 <tr>
