@@ -2,6 +2,7 @@ collections:
   cca-team:
     output: true
     order:
+      - CCA Recruitment 2025.md
       - CCA overview.md
       - Sports/.keep
       - Sports/Badminton.md
@@ -21,4 +22,3 @@ collections:
       - Clubs & Uniform Groups/Scouts.md
       - Clubs & Uniform Groups/Science Club.md
       - Clubs & Uniform Groups/Infocomm Technology Club.md
-      - CCA Recruitment 2025.md
