@@ -41,7 +41,10 @@ curator, critics and artist</p>
 interactions and art making sessions.</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -71,7 +74,7 @@ interactions and art making sessions.</p>
 </tbody>
 </table>
 <h2>Join Us</h2>
-<h4><a href="https://youtu.be/qXYBqkUPjUg" rel="noopener noreferrer nofollow" target="_blank">WRPS Art &amp; Craft Club Recruitment Video</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=6Hny09LbTyY" rel="noopener noreferrer nofollow" target="_blank">WRPS Art &amp; Craft Club Recruitment Video</a></h4>
 <h2>CCA Participation &amp; Achievements:</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/arts11.png">
