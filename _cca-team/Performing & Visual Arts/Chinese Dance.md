@@ -43,7 +43,7 @@ Join Us
 
 
 
-[WRPS Chinese Dance](https://www.youtube.com/watch?v=7pOpHjqfAi0)
+[WRPS Chinese Dance](https://www.youtube.com/watch?v=lE_tE5PfcNw)
 
 
 
