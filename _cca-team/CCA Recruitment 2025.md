@@ -30,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=KtUsEcy0gsY" rel="noopener noreferrer nofollow" target="_blank">Football</a></h4>
+<h4><a href="https://youtu.be/bzvp7a2HRyo" rel="noopener noreferrer nofollow" target="_blank">Football</a></h4>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -49,13 +49,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=qXYBqkUPjUg" rel="noopener noreferrer nofollow" target="_blank">Art Club</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=6Hny09LbTyY" rel="noopener noreferrer nofollow" target="_blank">Art Club</a></h4>
 </th>
 <th rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=z0wQc_nMnTE" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=kt1tr048QBs" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a></h4>
 </th>
 <th rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=qqsNSFNQEJo" rel="noopener noreferrer nofollow" target="_blank">Choir</a></h4>
+<h4><a href="https://youtu.be/G9P2JpDcYJI" rel="noopener noreferrer nofollow" target="_blank">Choir</a></h4>
 </th>
 </tr>
 <tr>
@@ -71,10 +71,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=7pOpHjqfAi0" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=lE_tE5PfcNw" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a></h4>
 </td>
 <td rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=xv7PJzhzkI8" rel="noopener noreferrer nofollow" target="_blank">Malay Dance</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=5JzArDxX_5I" rel="noopener noreferrer nofollow" target="_blank">Malay Dance</a></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -94,7 +94,7 @@ variant: tiptap
 <h4><a href="https://www.youtube.com/watch?v=tCOeRBzQ1po" rel="noopener noreferrer nofollow" target="_blank">Scouts</a></h4>
 </th>
 <th rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=UXEfJh5SbOw" rel="noopener noreferrer nofollow" target="_blank">Science Club</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=OSlSpJHTjyQ" rel="noopener noreferrer nofollow" target="_blank">Science Club</a></h4>
 </th>
 </tr>
 <tr>

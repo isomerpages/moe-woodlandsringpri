@@ -17,7 +17,10 @@ school life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/soccer.gif">
 </div>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -57,7 +60,7 @@ school life.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/football.png">
 </div>
 <p></p>
-<h4><a href="https://www.youtube.com/watch?v=KtUsEcy0gsY" rel="noopener noreferrer nofollow" target="_blank">WRPS Football Recruitment Video</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=bzvp7a2HRyo" rel="noopener noreferrer nofollow" target="_blank">WRPS Football Recruitment Video</a></h4>
 <h2>CCA Participation &amp; Achievements:</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/socachiev.png">

@@ -23,9 +23,8 @@ Currently, the Chinese dancers in our school perform at various school events li
 
 Join Us
 -------
+![](/images/CCA%20Performing%20Arts/Chinesw/chinesed.jpg)
 
-
-![](/images/chinese%20dance.jpg)
 
 
 
@@ -44,7 +43,7 @@ Join Us
 
 
 
-[WRPS Chinese Dance](https://www.youtube.com/watch?v=7pOpHjqfAi0)
+[WRPS Chinese Dance](https://www.youtube.com/watch?v=lE_tE5PfcNw)
 
 
 

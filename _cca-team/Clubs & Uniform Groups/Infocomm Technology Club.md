@@ -19,7 +19,7 @@ to aid in students’ cognitive development.</p>
 <p>Ms Santhi (IC)</p>
 </li>
 <li>
-<p>Mrs Chong (AIC)</p>
+<p>Ms Neerosha (AIC)</p>
 </li>
 <li>
 <p>Mrs Siva</p>
@@ -47,7 +47,13 @@ to aid in students’ cognitive development.</p>
 <h4><a href="https://www.youtube.com/watch?v=CgbNKyZTn_s&amp;t=1s" rel="noopener noreferrer nofollow" target="_blank">Infocomm Technology Club Recruitment Video</a></h4>
 <h2>CCA Participation &amp; Achievements:</h2>
 <p></p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

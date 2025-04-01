@@ -21,7 +21,10 @@ Ring Primary 20th&nbsp;Anniversary Carnival as well as public events such
 as the Community Outreach @ Kampung Admiralty. These opportunities have
 definitely shaped and prepared the band for the biennial SYF Arts Presentations
 showcases.</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -49,7 +52,7 @@ showcases.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/bandbrass.jpg">
 </div>
-<h4><a href="https://youtu.be/z0wQc_nMnTE" rel="noopener noreferrer nofollow" target="_blank">WRPS Brass Band Recruitment Video</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=kt1tr048QBs" rel="noopener noreferrer nofollow" target="_blank">WRPS Brass Band Recruitment Video</a></h4>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -65,7 +68,11 @@ showcases.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Brass Band/Brass_Band_Picture3.jpg">
 </div>
 <h2>CCA Participation &amp; Achievements:</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -99,7 +106,11 @@ showcases.</p>
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -120,7 +131,11 @@ showcases.</p>
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -141,7 +156,11 @@ showcases.</p>
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
