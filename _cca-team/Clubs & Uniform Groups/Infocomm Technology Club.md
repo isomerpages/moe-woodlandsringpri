@@ -20,9 +20,7 @@ to aid in students’ cognitive development.</p>
 </li>
 <li>
 <p>Ms Neerosha (AIC)</p>
-</li>
-<li>
-<p>Mrs Siva</p>
+<p></p>
 </li>
 </ul>
 <h3>Students gets to learn:</h3>
