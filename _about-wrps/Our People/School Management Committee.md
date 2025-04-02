@@ -33,9 +33,6 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/Staff/23__Mdm_Renugga_D_O_Veliappan__Year_Head__Upper_Primary_.jpg">
-</div>
 </th>
 </tr>
 <tr>
@@ -71,7 +68,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/23__Mdm_Renugga_D_O_Veliappan__Year_Head__Upper_Primary_.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/23__Mdm_Renugga_D_O_Veliappan__Year_Head__Upper_Primary_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
