@@ -30,7 +30,7 @@ Join Us
 -------
 
 ![](/images/CCA%20Sports/dramaclub.png)
-[WRPS Drama Club](https://www.youtube.com/watch?v=3WAUODEdodU)
+[WRPS Drama Club](https://www.youtube.com/watch?v=sGCdDxgIeI8)
 
 CCA Participation &amp; Achievements:
 ---------------------------------
