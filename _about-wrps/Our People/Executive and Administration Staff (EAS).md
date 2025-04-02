@@ -154,4 +154,10 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p></p>
+
+<center><strong>Operation Support</strong> |<strong>Admin Support</strong>
+	
+| <img style="width: 50%;" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg"> | <img style="width: 50%;" alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg"> | 
+	
+| Text     | Text     | 
+<p></p></center>
