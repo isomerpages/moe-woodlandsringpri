@@ -71,7 +71,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff/4__Mdm_Saliema_Bte_Md_Iqbal__SSD_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/23__Mdm_Renugga_D_O_Veliappan__Year_Head__Upper_Primary_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,9 +161,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/40__MDM_TAN_TING_TING_KARINE__Senior_Teacher__Mathematics_.jpg">
-</div>
 </td>
 </tr>
 <tr>
