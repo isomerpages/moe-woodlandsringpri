@@ -24,11 +24,11 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong></strong></p><center><strong>![Operation Manager](/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg)</strong></center>
+<p><strong></strong></p><center><strong><img alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg"></strong></center>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong></strong></p><center><strong>![Administrative Manager](/images/Staff/mdm%20siu%20lai%20kiu.jpg)</strong></center>
+<p><strong></strong></p><center><strong><img alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg"></strong></center>
 <p></p>
 </td>
 </tr>
