@@ -99,7 +99,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=CgbNKyZTn_s&amp;t=1s" rel="noopener noreferrer nofollow" target="_blank">Infocomm Club</a></h4>
+<h4><a href="https://youtu.be/aYCiXt6MnLs" rel="noopener noreferrer nofollow" target="_blank">Infocomm Club</a></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
