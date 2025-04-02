@@ -3,7 +3,7 @@ title: Executive and Administration Staff (EAS)
 permalink: /about-wrps/organisational-chart-2023/eas/permalink/
 description: ""
 third_nav_title: Our People
-variant: tiptap
+variant: markdown
 ---
 <h3><strong>Executive &amp; Admin Support</strong></h3>
 <table style="minWidth: 50px">
@@ -14,22 +14,22 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</td>
+<p><strong></strong></p><center><strong>Operation Support</strong>
+<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p><strong>Designation</strong>
-</p>
-</td>
+<p><strong></strong></p><center><strong>Admin Support</strong><center><strong></strong>
+<p></p>
+</center></center></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chew Chin Ming</strong>
-</p>
+<p><strong></strong></p><center><strong><img alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg"></strong></center>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal (Admin)</strong>
-</p>
+<p><strong></strong></p><center><strong><img alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg"></strong></center>
+<p></p>
 </td>
 </tr>
 <tr>

@@ -33,9 +33,6 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/Staff/23__Mdm_Renugga_D_O_Veliappan__Year_Head__Upper_Primary_.jpg">
-</div>
 </th>
 </tr>
 <tr>
@@ -71,7 +68,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff/4__Mdm_Saliema_Bte_Md_Iqbal__SSD_.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/23__Mdm_Renugga_D_O_Veliappan__Year_Head__Upper_Primary_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,20 +147,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/6__Mr_Chay_Hok_Ling_Danny_Mikhail__HOD_Mathematic_.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/6__Mr_Chay_Hok_Ling_Danny_Mikhail__HOD_Mathematic_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Test_15__Mdm_Siti_Mariam_Bte_Ramli__Level_Head___Mathematic_.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/Test_15__Mdm_Siti_Mariam_Bte_Ramli__Level_Head___Mathematic_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/40__MDM_TAN_TING_TING_KARINE__Senior_Teacher__Mathematics_.jpg">
-</div>
 </td>
 </tr>
 <tr>
