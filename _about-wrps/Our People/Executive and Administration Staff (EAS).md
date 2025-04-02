@@ -155,9 +155,99 @@ variant: markdown
 </tbody>
 </table>
 
-<center><strong>Operation Support</strong> |<strong>Admin Support</strong>
+<center><strong>Operation Support</strong> <strong>Admin Support</strong>
 	
-| <img style="width: 50%;" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg"> | <img style="width: 50%;" alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg"> | 
-	
-| Text     | Text     | 
-<p></p></center>
+
+ <table style="width:100%; text-align:center; border-collapse: collapse;">
+    
+    <tbody><tr>
+        
+        <td style="width:50%;">
+            <div style="margin-bottom:50px;">
+                <img style="width:52%; border-radius:10%;" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg"><br>
+                <strong>Director 1 Name</strong><br>
+                Director of Department A
+            </div>
+            
+            <table style="width:100%; border:none;">
+                <tbody><tr>
+                    <td style="border:none; width:50%;">
+                        <img style="width:100px; height:100px; border-radius:50%;" alt="Staff 1" src="/images/staff1.jpg"><br>
+                        <strong>Staff 1 Name</strong><br>
+                        Position
+                    </td>
+                    <td style="border:none; width:50%;">
+                        <img style="width:100px; height:100px; border-radius:50%;" alt="Staff 2" src="/images/staff2.jpg"><br>
+                        <strong>Staff 2 Name</strong><br>
+                        Position
+                    </td>
+                </tr>
+                <tr>
+                    <td style="border:none;">
+                        <img style="width:100px; height:100px; border-radius:50%;" alt="Staff 3" src="/images/staff3.jpg"><br>
+                        <strong>Staff 3 Name</strong><br>
+                        Position
+                    </td>
+                    <td style="border:none;">
+                        <img style="width:100px; height:100px; border-radius:50%;" alt="Staff 4" src="/images/staff4.jpg"><br>
+                        <strong>Staff 4 Name</strong><br>
+                        Position
+                    </td>
+                </tr>
+            </tbody></table>
+			</td>
+        <td style="width:50%; border:0px solid #666; padding:30px; background-color:#ffffff;">
+            <div style="margin-bottom:30px;">
+                <img style="width:55%; border-radius:10%;" alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg"><br>
+                <strong>Director 2 Name</strong><br>
+                Director of Department B
+            </div>
+            
+            <table style="width:100%; border:none;">
+                <tbody><tr>
+                    <td style="border:none; width:50%;">
+                        <img style="width:100px; height:100px; border-radius:50%;" alt="Staff 5" src="/images/staff5.jpg"><br>
+                        <strong>Staff 5 Name</strong><br>
+                        Position
+                    </td>
+                    <td style="border:none; width:50%;">
+                        <img style="width:100px; height:100px; border-radius:50%;" alt="Staff 6" src="/images/staff6.jpg"><br>
+                        <strong>Staff 6 Name</strong><br>
+                        Position
+                    </td>
+                </tr>
+                <tr>
+                    <td style="border:none;">
+                        <img style="width:100px; height:100px; border-radius:50%;" alt="Staff 7" src="/images/staff7.jpg"><br>
+                        <strong>Staff 7 Name</strong><br>
+                        Position
+                    </td>
+                    <td style="border:none;">
+                        <img style="width:100px; height:100px; border-radius:50%;" alt="Staff 8" src="/images/staff8.jpg"><br>
+                        <strong>Staff 8 Name</strong><br>
+                        Position
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+<style>
+img {
+    margin-bottom: 10px;
+    object-fit: cover;
+    border: 3px solid #ddd;
+}
+
+td {
+    vertical-align: top;
+    padding: 10px;
+}
+
+strong {
+    display: block;
+    margin-top: 5px;
+    color: #333;
+}
+</style></center>
