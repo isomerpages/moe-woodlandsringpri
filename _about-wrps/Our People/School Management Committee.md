@@ -147,13 +147,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/6__Mr_Chay_Hok_Ling_Danny_Mikhail__HOD_Mathematic_.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/6__Mr_Chay_Hok_Ling_Danny_Mikhail__HOD_Mathematic_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Test_15__Mdm_Siti_Mariam_Bte_Ramli__Level_Head___Mathematic_.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/Test_15__Mdm_Siti_Mariam_Bte_Ramli__Level_Head___Mathematic_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
