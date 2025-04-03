@@ -196,7 +196,7 @@ variant: markdown
                 </tr>
             </tbody></table>
 			</td>
-        <td style="width:50%; border:0px solid #666; padding:30px; background-color:#ffffff;">
+        <td style="width:50%; border:0px; padding:30px;">
             <div style="margin-bottom:30px;">
                 <img style="width:55%; border-radius:10%;" alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg"><br>
                 <strong>Director 2 Name</strong><br>
