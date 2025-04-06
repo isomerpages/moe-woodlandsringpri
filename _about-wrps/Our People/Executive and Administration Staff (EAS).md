@@ -157,10 +157,7 @@ variant: markdown
 
 <center><strong>Operation Support</strong> <strong>Admin Support</strong>
 	
-<table style="width:100%; text-align:center; border-collapse: collapse;">
-	 
-	 <tbody><tr>  
-		  <td style="width:50%;"> 
+<table style="width:100%; text-align:center; border-collapse: collapse;"><tbody><tr> <td style="width:50%;"> 
 			<div style="margin-bottom:30px;"> 
 			<img style="width:150px; height:150px; border-radius:50%;" alt="Director 1" src="/images/director1.jpg">
 			 <br> <strong>Director 1 Name</strong>
@@ -206,5 +203,4 @@ variant: markdown
 												<td style="border:none;"> 
 												<img style="width:100px; height:100px; border-radius:50%;" alt="Staff 8" src="/images/staff8.jpg">
 												   <br> <strong>Staff 8 Name</strong>
-												   <br> Position </td> </tr> </tbody></table> </td> </tr> </tbody></table> 
-</center>
+												   <br> Position </td> </tr> </tbody></table> </td> </tr> </tbody></table> </center>
