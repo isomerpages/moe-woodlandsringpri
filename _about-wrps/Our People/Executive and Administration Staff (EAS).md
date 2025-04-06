@@ -156,7 +156,7 @@ variant: markdown
 </table>
 
 	
-<table style="width:100%; text-align:center; border-collapse: collapse;"><tbody><tr> <td style="width:50%;"> 
+<table style="width:120%; text-align:center; border-collapse: collapse;"><tbody><tr> <td style="width:50%;"> 
 	    <strong>Operation Support</strong>
 	    <div style="margin-bottom:30px;"> 
 			<img style="width:150px; height:150px; border-radius:50%;" alt="Director 1" src="/images/director1.jpg">
@@ -188,17 +188,17 @@ variant: markdown
 			        <table style="width:100%; border:none;"> <tbody><tr> 
 							<td style="border:none; width:50%;"> 
 							<img style="width:100px; height:100px; border-radius:50%;" alt="Staff 5" src="/images/staff5.jpg">
-							<br> <strong>Staff 5 Name</strong>
-							<br> Position </td> 
+							<br> <strong>Mrs Krishna</strong>
+							<br><strong><div style="text-transform: uppercase;"> Admin Executive </div></strong></td> 
 								   <td style="border:none; width:50%;"> 
 										<img style="width:100px; height:100px; border-radius:50%;" alt="Staff 6" src="/images/staff6.jpg">
-										<br> <strong>Staff 6 Name</strong>
-										<br> Position </td> </tr> 
+										<br> <strong>Mdm Toh Huimin</strong>
+										<br> <strong><div style="text-transform: uppercase;"> Admin Executive </div></strong></td> </tr> 
 								        <tr> <td style="border:none;"> 
 												<img style="width:100px; height:100px; border-radius:50%;" alt="Staff 7" src="/images/staff7.jpg">
-											  <br> <strong>Staff 7 Name</strong>
-												<br> Position </td> 
+											  <br> <strong>Mdm Suriani Bte Sulaiman</strong>
+												<br><strong><div style="text-transform: uppercase;">Corporate Support Officer </div></strong></td> 
 												<td style="border:none;"> 
 												<img style="width:100px; height:100px; border-radius:50%;" alt="Staff 8" src="/images/staff8.jpg">
-												   <br> <strong>Staff 8 Name</strong>
-												   <br> Position </td> </tr> </tbody></table> </div></td> </tr> </tbody></table>
+												   <br> <strong>Mdm Waheeda Bte Anbar Beg</strong>
+												   <br><strong><div style="text-transform: uppercase;">Corporate Support Officer</div></strong></td> </tr> </tbody></table> </div></td> </tr> </tbody></table>
