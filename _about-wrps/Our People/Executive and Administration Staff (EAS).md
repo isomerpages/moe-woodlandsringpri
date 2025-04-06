@@ -154,7 +154,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-
+       
 <center><strong>Operation Support</strong> <strong>Admin Support</strong>
 	
 <table style="width:100%; text-align:center; border-collapse: collapse;"><tbody><tr> <td style="width:50%;"> 
@@ -182,8 +182,8 @@ variant: markdown
 		 <td style="width:50%;"> 
 		 <div style="margin-bottom:30px;"> 
 		 <img style="width:150px; height:150px; border-radius:50%;" alt="Director 2" src="/images/director2.jpg">
-			<br> <strong>Director 2 Name</strong>
-			<br> Director of Department B </div>  
+			<br> <strong>Mdm Siu Lai Kiu </strong>
+			 <br><strong><div style="text-transform: uppercase;"> Admin Manager </div> </strong> 
 			        <table style="width:100%; border:none;"> <tbody><tr> 
 							<td style="border:none; width:50%;"> 
 							<img style="width:100px; height:100px; border-radius:50%;" alt="Staff 5" src="/images/staff5.jpg">
@@ -200,4 +200,4 @@ variant: markdown
 												<td style="border:none;"> 
 												<img style="width:100px; height:100px; border-radius:50%;" alt="Staff 8" src="/images/staff8.jpg">
 												   <br> <strong>Staff 8 Name</strong>
-												   <br> Position </td> </tr> </tbody></table> </td> </tr> </tbody></table> </center>								 
+												   <br> Position </td> </tr> </tbody></table> </div></td> </tr> </tbody></table> </center>
