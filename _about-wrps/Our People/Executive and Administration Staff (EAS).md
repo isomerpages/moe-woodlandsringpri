@@ -201,4 +201,4 @@ variant: markdown
 												<td style="border:none;"> 
 												<img style="width:100px; height:100px; border-radius:50%;" alt="Staff 8" src="/images/staff8.jpg">
 												   <br> <strong>Staff 8 Name</strong>
-												   <br> Position </td> </tr> </tbody></table> </div></td> </tr> </tbody></table> 
+												   <br> Position </td> </tr> </tbody></table> </div></td> </tr> </tbody></table>
