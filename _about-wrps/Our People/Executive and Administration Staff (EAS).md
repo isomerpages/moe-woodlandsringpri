@@ -161,8 +161,7 @@ variant: markdown
 			<div style="margin-bottom:30px;"> 
 			<img style="width:150px; height:150px; border-radius:50%;" alt="Director 1" src="/images/director1.jpg">
 			 <br> <strong>Director 1 Name</strong>
-		   <br> Director of Department A </div> 
-				       
+		   <br> Director of Department A </div>  
 				      <table style="width:100%; border:none;"> <tbody><tr> 
 							<td style="border:none; width:50%;"> 
 							<img style="width:100px; height:100px; border-radius:50%;" alt="Staff 1" src="/images/staff1.jpg">
@@ -180,13 +179,11 @@ variant: markdown
 												    <img style="width:100px; height:100px; border-radius:50%;" alt="Staff 4" src="/images/staff4.jpg">
 														<br> <strong>Staff 4 Name</strong>
 														<br> Position </td> </tr> </tbody></table> </td> 
-  
 		 <td style="width:50%;"> 
 		 <div style="margin-bottom:30px;"> 
 		 <img style="width:150px; height:150px; border-radius:50%;" alt="Director 2" src="/images/director2.jpg">
 			<br> <strong>Director 2 Name</strong>
-			<br> Director of Department B </div> 
-			         
+			<br> Director of Department B </div>  
 			        <table style="width:100%; border:none;"> <tbody><tr> 
 							<td style="border:none; width:50%;"> 
 							<img style="width:100px; height:100px; border-radius:50%;" alt="Staff 5" src="/images/staff5.jpg">
