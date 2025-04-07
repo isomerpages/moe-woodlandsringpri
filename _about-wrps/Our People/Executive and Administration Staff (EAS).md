@@ -158,8 +158,8 @@ variant: markdown
 	
 <table style="width:120%; text-align:center; border-collapse: collapse;"><tbody><tr> <td style="width:50%;"> 
 	   <div style="font-size: 200%;"><strong>Operation Support</strong></div> 
-	    <div style="margin-bottom:30px;"> 
-			<img style="width:450px; height:700px; border-radius:5%;" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg">
+	    <div style="margin-bottom:10px;"> 
+			<img style="width: 50%; height: auto; object-fit: cover; object-position: center top;;" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg">
 			 <br> <strong>Mr Adam Goh</strong>
 				<br><strong><div style="text-transform: uppercase;">Operation Manager </div></strong>  
 				      <table style="width:100%; border:none;"> <tbody><tr> 
@@ -187,7 +187,7 @@ variant: markdown
 			 <br><strong><div style="text-transform: uppercase;"> Admin Manager </div> </strong> 
 			        <table style="width:100%; border:none;"> <tbody><tr> 
 							<td style="border:none; width:50%;"> 
-							<img style="width:100px; height:100px; border-radius:50%;" alt="Staff 5" src="/images/staff5.jpg">
+							<img style="width:250px; height:450px; border-radius:5%;" alt="ADMIN EXECUTIVE" src="/images/Staff/mrs%20vegatamma%20d_o%20kasinathan.jpg">
 							<br> <strong>Mrs Krishna</strong>
 							<br><strong><div style="text-transform: uppercase;"> Admin Executive </div></strong></td> 
 								   <td style="border:none; width:50%;"> 
@@ -202,4 +202,3 @@ variant: markdown
 												<img style="width:100px; height:100px; border-radius:50%;" alt="Staff 8" src="/images/staff8.jpg">
 												   <br> <strong>Mdm Waheeda Bte Anbar Beg</strong>
 												   <br><strong><div style="text-transform: uppercase;">Corporate Support Officer</div></strong></td> </tr> </tbody></table> </div></td> </tr> </tbody></table>
-													     
