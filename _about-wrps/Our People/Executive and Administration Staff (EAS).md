@@ -159,30 +159,30 @@ variant: markdown
 <table style="width:120%; text-align:center; border-collapse: collapse;"><tbody><tr> <td style="width:50%;"> 
 	    <strong>Operation Support</strong>
 	    <div style="margin-bottom:30px;"> 
-			<img style="width:150px; height:150px; border-radius:50%;" alt="Director 1" src="/images/director1.jpg">
+			<img style="width:500px; height:700px; border-radius:5%;" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg">
 			 <br> <strong>Mr Adam Goh</strong>
 				<br><strong><div style="text-transform: uppercase;">Operation Manager </div></strong>  
 				      <table style="width:100%; border:none;"> <tbody><tr> 
 							<td style="border:none; width:50%;"> 
 							<img style="width:100px; height:100px; border-radius:50%;" alt="Staff 1" src="/images/staff1.jpg">
-								<br> <strong>Staff 1 Name</strong>
-								<br> Position </td> 
+								<br> <strong>Mr Lim Kin Leng</strong>
+								<br><strong><div style="text-transform: uppercase;"> Operation Support Officer </div></strong></td> 
 								   <td style="border:none; width:50%;"> 
 										<img style="width:100px; height:100px; border-radius:50%;" alt="Staff 2" src="/images/staff2.jpg">
-										<br> <strong>Staff 2 Name</strong>
-										 <br> Position </td> </tr> 
+										<br> <strong>Mdm Rokiah Bte Mohamad</strong>
+										 <br> <strong><div style="text-transform: uppercase;"> Operation Support Officer </div></strong></td> </tr> 
 								        <tr> <td style="border:none;"> 
 										    <img style="width:100px; height:100px; border-radius:50%;" alt="Staff 3" src="/images/staff3.jpg">
-										     <br> <strong>Staff 3 Name</strong>
-											   <br> Position </td> 
+										     <br> <strong>Mdm Tan Ah Moi</strong>
+											   <br><strong><div style="text-transform: uppercase;">Adjunct Operation Support Officer </div></strong></td> 
 											     <td style="border:none;"> 
 												    <img style="width:100px; height:100px; border-radius:50%;" alt="Staff 4" src="/images/staff4.jpg">
-														<br> <strong>Staff 4 Name</strong>
-														<br> Position </td> </tr> </tbody></table> </div></td> 
+														<br> <strong>Mdm Noryati Bte Abdullah</strong>
+														<br><strong><div style="text-transform: uppercase;">Adjunct Operation Support Officer </div></strong></td> </tr> </tbody></table> </div></td> 
 		 <td style="width:50%;"> 
 		 <div style="margin-bottom:30px;"> 
 		 <strong>Admin Support</strong>
-		 <img style="width:150px; height:150px; border-radius:50%;" alt="Director 2" src="/images/director2.jpg">
+		 <img style="width:500px; height:700px; border-radius:5%;" alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg">
 			<br> <strong>Mdm Siu Lai Kiu </strong>
 			 <br><strong><div style="text-transform: uppercase;"> Admin Manager </div> </strong> 
 			        <table style="width:100%; border:none;"> <tbody><tr> 
