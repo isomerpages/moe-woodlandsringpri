@@ -11,152 +11,10 @@ variant: markdown
 <col>
 <col>
 </colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong></strong></p><center><strong>Operation Support</strong>
-<p></p>
-</center></td>
-<td rowspan="1" colspan="1">
-<p><strong></strong></p><center><strong>Admin Support</strong><center><strong></strong>
-<p></p>
-</center></center></td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong></strong></p><center><strong><img alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg"></strong></center>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong></strong></p><center><strong><img alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg"></strong></center>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Siu Lai Kiu</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Admin Manager</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Krishna</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Admin Executive</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Toh Huimin</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Admin Executive</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Suriani Bte Sulaiman</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Corporate Support Officer</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Waheeda Bte Anbar Beg</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Corporate Support Officer</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Afiqah Bte Sayuti</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Adjunct Corporate Support Officer</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Adam Goh</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Operation Manager</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Lim Kin Leng</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Operation Support Officer</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Ong Ah Kay</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Operation Support Officer</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Rokiah Bte Mohammad</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Operation Support Officer</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Prasana Bhaskaran</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Operation Support Officer</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Salim Bin Samsi</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Adjunct Operation Support Officer</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+
 
 	
-<table style="width:100%; text-align:center; border-collapse: collapse;"><tbody><tr> <td style="width:50%;"> 
+</table><table style="width:100%; text-align:center; border-collapse: collapse;"><tbody><tr> <td style="width:50%;"> 
 	   <div style="font-size: 200%;"><strong>Operation Support</strong></div> 
 	    <div style="margin-bottom:10px;"> 
 			<img style="width: 50%; height: auto; object-fit: cover;" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg">
@@ -186,8 +44,8 @@ variant: markdown
 			<br> <strong>Mdm Siu Lai Kiu </strong>
 			 <br><strong><div style="text-transform: uppercase;"> Admin Manager </div> </strong> 
 			        <table style="width:100%; border:none;"> <tbody><tr> 
-							<td style="border:none; width:50%;"> 
-							<img style="width:250px; height:450px; border-radius:5%;" alt="ADMIN EXECUTIVE" src="/images/Staff/mrs%20vegatamma%20d_o%20kasinathan.jpg">
+							<td style="border:none; width:75%;"> 
+							<img style="width: 100%; height: auto; object-fit: cover;" alt="ADMIN EXECUTIVE" src="/images/Staff/mrs%20vegatamma%20d_o%20kasinathan.jpg">
 							<br> <strong>Mrs Krishna</strong>
 							<br><strong><div style="text-transform: uppercase;"> Admin Executive </div></strong></td> 
 								   <td style="border:none; width:50%;"> 
