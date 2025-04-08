@@ -156,7 +156,7 @@ variant: markdown
 </table>
 
 	
-<table style="width:120%; text-align:center; border-collapse: collapse;"><tbody><tr> <td style="width:50%;"> 
+<table style="width:100%; text-align:center; border-collapse: collapse;"><tbody><tr> <td style="width:50%;"> 
 	   <div style="font-size: 200%;"><strong>Operation Support</strong></div> 
 	    <div style="margin-bottom:10px;"> 
 			<img style="width: 50%; height: auto; object-fit: cover;" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg">
@@ -179,7 +179,7 @@ variant: markdown
 												    <img style="width:100px; height:100px; border-radius:50%;" alt="Staff 4" src="/images/staff4.jpg">
 														<br> <strong>Mdm Noryati Bte Abdullah</strong>
 														<br><strong><div style="text-transform: uppercase;">Adjunct Operation Support Officer </div></strong></td> </tr> </tbody></table> </div></td> 
-		 <td style="width:50%;"> 
+		 <td style="width:100%;"> 
 		 <div style="margin-bottom:30px;"> 
 		 <div style="font-size: 200%;"><strong>Admin Support</strong></div>
 		 <img style="width: 50%; height: auto; object-fit: cover; object-position: center top;" alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg">
