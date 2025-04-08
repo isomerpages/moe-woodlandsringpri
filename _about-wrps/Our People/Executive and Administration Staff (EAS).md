@@ -159,7 +159,7 @@ variant: markdown
 <table style="width:120%; text-align:center; border-collapse: collapse;"><tbody><tr> <td style="width:50%;"> 
 	   <div style="font-size: 200%;"><strong>Operation Support</strong></div> 
 	    <div style="margin-bottom:10px;"> 
-			<img style="width: 50%; height: auto; object-fit: cover; object-position: center top;;" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg">
+			<img style="width: 50%; height: auto; object-fit: cover; object-position: center top;" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg">
 			 <br> <strong>Mr Adam Goh</strong>
 				<br><strong><div style="text-transform: uppercase;">Operation Manager </div></strong>  
 				      <table style="width:100%; border:none;"> <tbody><tr> 
@@ -182,7 +182,7 @@ variant: markdown
 		 <td style="width:50%;"> 
 		 <div style="margin-bottom:30px;"> 
 		 <div style="font-size: 200%;"><strong>Admin Support</strong></div>
-		 <img style="width:450px; height:700px; border-radius:5%;" alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg">
+		 <img style="width: 50%; height: auto; object-fit: cover; object-position: center top;" alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg">
 			<br> <strong>Mdm Siu Lai Kiu </strong>
 			 <br><strong><div style="text-transform: uppercase;"> Admin Manager </div> </strong> 
 			        <table style="width:100%; border:none;"> <tbody><tr> 
