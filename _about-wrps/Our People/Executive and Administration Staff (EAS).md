@@ -18,7 +18,7 @@ variant: markdown
 	   <div style="font-size: 200%;text-align:center"><strong>Operation Support</strong></div> 
 	    <div style="margin-bottom:10px;"> 
 			<img style="width: 50%; height: auto; object-fit: cover;" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg">
-			 <br> <strong></strong><div style="text-transform: uppercase;text-align:center"><strong>Mr Adam Goh</strong></div>
+			 <br> <strong></strong><div style="text-transform: uppercase;text-align:center"><strong>Mr Adam Goh</strong>
 				<br><strong><div style="text-transform: uppercase;text-align:center">Operation Manager </div></strong>  
 				      <table style="width:100%; border:none;"> <tbody><tr> 
 							<td style="border:none; width:50%;"> 
@@ -36,7 +36,7 @@ variant: markdown
 											     <td style="border:none;"> 
 												    <img style="width:100px; height:100px; border-radius:50%;" alt="Staff 4" src="/images/staff4.jpg">
 														<br> <strong>Mdm Noryati Bte Abdullah</strong>
-														<br><strong><div style="text-transform: uppercase;">Adjunct Operation Support Officer </div></strong></td> </tr> </tbody></table> </div></td> 
+														<br><strong><div style="text-transform: uppercase;">Adjunct Operation Support Officer </div></strong></td> </tr> </tbody></table> </div></div></td> 
 		 <td style="width:100%;"> 
 		 <div style="margin-bottom:30px;"> 
 		 <div style="font-size: 200%;"><strong>Admin Support</strong></div>
