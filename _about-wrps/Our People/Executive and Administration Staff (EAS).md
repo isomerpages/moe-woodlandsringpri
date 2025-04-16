@@ -15,7 +15,7 @@ variant: markdown
 
 	
 </table><table style="width:100%; text-align:center; border-collapse: collapse;"><tbody><tr> <td style="width:50%;"> 
-	   <div style="font-size: 200%;"><strong>Operation Support</strong></div> 
+	   <div style="font-size: 200%;text-align:center"><strong>Operation Support</strong></div> 
 	    <div style="margin-bottom:10px;"> 
 			<img style="width: 50%; height: auto; object-fit: cover;" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg">
 			 <br> <strong>Mr Adam Goh</strong>
