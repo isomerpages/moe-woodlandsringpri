@@ -18,8 +18,8 @@ variant: markdown
 	   <div style="font-size: 200%;text-align:center"><strong>Operation Support</strong></div> 
 	    <div style="margin-bottom:10px;"> 
 			<img style="width: 50%; height: auto; object-fit: cover;" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg">
-			 <br> <strong>Mr Adam Goh</strong>
-				<br><strong><div style="text-transform: uppercase;">Operation Manager </div></strong>  
+			 <br> <strong></strong><div style="text-transform: uppercase;text-align:center"><strong>Mr Adam Goh</strong></div>
+				<br><strong><div style="text-transform: uppercase;text-align:center">Operation Manager </div></strong>  
 				      <table style="width:100%; border:none;"> <tbody><tr> 
 							<td style="border:none; width:50%;"> 
 							<img style="width:100px; height:100px; border-radius:50%;" alt="Staff 1" src="/images/staff1.jpg">
