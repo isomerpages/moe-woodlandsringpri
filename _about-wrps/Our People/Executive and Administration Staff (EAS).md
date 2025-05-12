@@ -25,7 +25,7 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%; height: auto; object-fit: cover;" height="auto" width="100%" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg">
 </div>
 <p></p>
 <table style="minWidth: 50px">
@@ -37,24 +37,24 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/13__Mr_Lim_Kin_Leng__Operation_Support_Officer_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Staff/13__Mr_Lim_Kin_Leng__Operation_Support_Officer_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/12__Mdm_Rokiah_Bte_Mohamad__Operation_Support_Officer_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Staff/12__Mdm_Rokiah_Bte_Mohamad__Operation_Support_Officer_.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Tan_Ah_Moi_HQ.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Staff/Tan_Ah_Moi_HQ.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/NORYATI_BTE_ABDULLAH_HQ.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Staff/NORYATI_BTE_ABDULLAH_HQ.jpg">
 </div>
 </td>
 </tr>
@@ -67,7 +67,7 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg">
 </div>
 <p></p>
 <table style="minWidth: 50px">
