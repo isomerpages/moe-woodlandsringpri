@@ -20,8 +20,8 @@ variant: markdown
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operation Support</strong>
-</p>
+<p><strong></strong></p><center><strong>Operation Support</strong>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%; height: auto; object-fit: cover;" height="auto" width="100%" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg">
 </div>
@@ -83,16 +83,16 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-</td>
+</center></td>
 <td rowspan="1" colspan="1">
-<p><strong>Admin Support</strong>
-</p>
+<p><strong></strong></p><center><strong>Admin Support</strong>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%; height: auto; object-fit: cover; object-position: center top;" height="auto" width="100%" alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg">
 </div>
 <p>
-<br><strong>Mdm Siu Lai Kiu </strong>
-</p>
+<br><strong></strong></p><center><strong>Mdm Siu Lai Kiu </strong>
+<p></p>
 <p>Admin Manager</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -146,7 +146,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-</td>
+</center></center></td>
 </tr>
 </tbody>
 </table>
