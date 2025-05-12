@@ -3,7 +3,7 @@ title: Executive and Administration Staff (EAS)
 permalink: /maintainance/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>Executive &amp; Admin Support</strong></h3>
 <table style="width: 0px">
@@ -12,6 +12,27 @@ variant: markdown
 <tr></tr>
 </tbody>
 </table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong>Admin Support</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -20,14 +41,56 @@ variant: markdown
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="ADMIN EXECUTIVE" src="/images/Staff/mrs%20vegatamma%20d_o%20kasinathan.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Admin Executive" src="/images/Staff/4__Mdm_Toh_Hui_Min__Admin_Executive_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/mdm suriani bte sulaiman.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Staff/6__Mdm_Waheeda_Bte_Anbar_Beg__Management_Support_Officer_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p><strong>Operation Support</strong>
 </p>
-<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg">
 </div>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -42,7 +105,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Staff/12__Mdm_Rokiah_Bte_Mohamad__Operation_Support_Officer_.jpg">
+<img style="width: 69%;" height="auto" width="100%" alt="" src="/images/Staff/12__Mdm_Rokiah_Bte_Mohamad__Operation_Support_Officer_.jpg">
 </div>
 </td>
 </tr>
@@ -60,48 +123,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-<p><strong>Admin Support</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg">
-</div>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="ADMIN EXECUTIVE" src="/images/Staff/mrs%20vegatamma%20d_o%20kasinathan.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Admin Executive" src="/images/Staff/4__Mdm_Toh_Hui_Min__Admin_Executive_.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Staff/mdm suriani bte sulaiman.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Staff/6__Mdm_Waheeda_Bte_Anbar_Beg__Management_Support_Officer_.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 </td>
 </tr>
 </tbody>
