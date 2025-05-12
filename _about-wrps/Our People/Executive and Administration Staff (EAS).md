@@ -3,7 +3,7 @@ title: Executive and Administration Staff (EAS)
 permalink: /maintainance/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>Executive &amp; Admin Support</strong></h3>
 <table style="width: 0px">
@@ -20,17 +20,14 @@ variant: markdown
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong></strong></p><center><strong>Operation Support</strong>
+<p></p>
+<p><strong>Operation Support</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%; height: auto; object-fit: cover;" height="auto" width="100%" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg">
 </div>
-<p>
-<br>
-</p>
-<p><strong>Mr Adam Goh</strong> 
-</p>
-<p>Operation Manager</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -40,60 +37,39 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:100px; height:100px; border-radius:50%;" height="auto" width="100%" alt="Staff 1" src="/images/staff1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/13__Mr_Lim_Kin_Leng__Operation_Support_Officer_.jpg">
 </div>
-<p>
-<br><strong>Mr Lim Kin Leng</strong> 
-<br>
-</p>
-<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:100px; height:100px; border-radius:50%;" height="auto" width="100%" alt="Staff 2" src="/images/staff2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/12__Mdm_Rokiah_Bte_Mohamad__Operation_Support_Officer_.jpg">
 </div>
-<p>
-<br><strong>Mdm Rokiah Bte Mohamad</strong> 
-<br>
-</p>
-<p>Operation Support Officer</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:100px; height:100px; border-radius:50%;" height="auto" width="100%" alt="Staff 3" src="/images/staff3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Tan_Ah_Moi_HQ.jpg">
 </div>
-<p>
-<br><strong>Mdm Tan Ah Moi</strong> 
-<br>
-</p>
-<p>Adjunct Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:100px; height:100px; border-radius:50%;" height="auto" width="100%" alt="Staff 4" src="/images/staff4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/NORYATI_BTE_ABDULLAH_HQ.jpg">
 </div>
-<p>
-<br><strong>Mdm Noryati Bte Abdullah</strong> 
-<br>
-</p>
-<p>Adjunct Operation Support Officer</p>
 </td>
 </tr>
 </tbody>
 </table>
-</center></td>
+</td>
 <td rowspan="1" colspan="1">
-<p><strong></strong></p><center><strong>Admin Support</strong>
+<p></p>
+<p><strong>Admin Support</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%; height: auto; object-fit: cover; object-position: center top;" height="auto" width="100%" alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg">
 </div>
-<p>
-<br><strong></strong></p><center><strong>Mdm Siu Lai Kiu </strong>
 <p></p>
-<p>Admin Manager</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -103,50 +79,30 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%; height: auto; object-fit: cover;" height="auto" width="100%" alt="ADMIN EXECUTIVE" src="/images/Staff/mrs%20vegatamma%20d_o%20kasinathan.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="ADMIN EXECUTIVE" src="/images/Staff/mrs%20vegatamma%20d_o%20kasinathan.jpg">
 </div>
-<p>
-<br><strong>Mrs Krishna</strong> 
-<br>
-</p>
-<p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:100px; height:100px; border-radius:50%;" height="auto" width="100%" alt="Staff 6" src="/images/staff6.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Admin Executive" src="/images/Staff/4__Mdm_Toh_Hui_Min__Admin_Executive_.jpg">
 </div>
-<p>
-<br><strong>Mdm Toh Huimin</strong> 
-<br>
-</p>
-<p>Admin Executive</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:100px; height:100px; border-radius:50%;" height="auto" width="100%" alt="Staff 7" src="/images/staff7.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Staff/mdm suriani bte sulaiman.jpg">
 </div>
-<p>
-<br><strong>Mdm Suriani Bte Sulaiman</strong> 
-<br>
-</p>
-<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:100px; height:100px; border-radius:50%;" height="auto" width="100%" alt="Staff 8" src="/images/staff8.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Staff/6__Mdm_Waheeda_Bte_Anbar_Beg__Management_Support_Officer_.jpg">
 </div>
-<p>
-<br><strong>Mdm Waheeda Bte Anbar Beg</strong> 
-<br>
-</p>
-<p>Corporate Support Officer</p>
 </td>
 </tr>
 </tbody>
 </table>
-</center></center></td>
+</td>
 </tr>
 </tbody>
 </table>
