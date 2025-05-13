@@ -66,9 +66,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/23__Mdm_Renugga_D_O_Veliappan__Year_Head__Upper_Primary_.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/MDM_RENUGGA_D_O_VELIAPPAN_Year_Head__Upper_Primary__SSD_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
