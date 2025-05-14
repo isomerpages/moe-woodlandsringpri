@@ -54,6 +54,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/Staff/5__Mdm_Suriani_Bte_Sulaiman__Management_Support_Officer.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
