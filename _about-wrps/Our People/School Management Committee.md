@@ -22,13 +22,13 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/Staff/21__Mdm_Vanishree_D_O_Kaneson__Year_Head__Lower_Primary_.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/21__Mdm_Vanishree_D_O_Kaneson__Year_Head__Lower_Primary_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/Staff/22__Mdm_Queenie_Huang_Wanqi__Year_Head__Middle_Primary_.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/22__Mdm_Queenie_Huang_Wanqi__Year_Head__Middle_Primary_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -67,7 +67,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/MDM_RENUGGA_D_O_VELIAPPAN_Year_Head__Upper_Primary__SSD_.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff/MDM_RENUGGA_D_O_VELIAPPAN_Year_Head__Upper_Primary__SSD_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,13 +146,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/6__Mr_Chay_Hok_Ling_Danny_Mikhail__HOD_Mathematic_.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/6__Mr_Chay_Hok_Ling_Danny_Mikhail__HOD_Mathematic_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/Test_15__Mdm_Siti_Mariam_Bte_Ramli__Level_Head___Mathematic_.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Test_15__Mdm_Siti_Mariam_Bte_Ramli__Level_Head___Mathematic_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
