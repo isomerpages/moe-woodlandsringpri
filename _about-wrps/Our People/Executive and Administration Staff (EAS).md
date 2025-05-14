@@ -63,6 +63,17 @@ variant: tiptap
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Staff/7__Ms_Afiqah_Binte_Sayuti__Adjunct_Corporate_Support_Officer_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
