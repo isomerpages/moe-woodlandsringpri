@@ -42,7 +42,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="ADMIN EXECUTIVE" src="/images/Staff/mrs%20vegatamma%20d_o%20kasinathan.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Staff/3__Mrs_Vegatamma_D_O_Kasinathan__Admin_Executive_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,9 +53,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/mdm suriani bte sulaiman.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
