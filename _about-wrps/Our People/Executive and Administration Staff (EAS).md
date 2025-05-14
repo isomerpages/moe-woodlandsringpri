@@ -27,7 +27,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg">
 </div>
 </td>
 </tr>
@@ -42,25 +42,24 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Staff/3__Mrs_Vegatamma_D_O_Kasinathan__Admin_Executive_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Staff/3__Mrs_Vegatamma_D_O_Kasinathan__Admin_Executive_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Admin Executive" src="/images/Staff/4__Mdm_Toh_Hui_Min__Admin_Executive_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Admin Executive" src="/images/Staff/4__Mdm_Toh_Hui_Min__Admin_Executive_.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/Staff/5__Mdm_Suriani_Bte_Sulaiman__Management_Support_Officer.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Staff/5__Mdm_Suriani_Bte_Sulaiman__Management_Support_Officer.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Staff/6__Mdm_Waheeda_Bte_Anbar_Beg__Management_Support_Officer_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Staff/6__Mdm_Waheeda_Bte_Anbar_Beg__Management_Support_Officer_.jpg">
 </div>
 </td>
 </tr>
@@ -85,7 +84,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg">
 </div>
 <p></p>
 </td>
