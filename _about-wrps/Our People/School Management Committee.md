@@ -268,28 +268,32 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="3">
 <h4><strong>PHYSICAL EDUCATION, CCA &amp; AESTHETICS DEPARTMENT</strong></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/5__Mr_Suresh_s_o_Govindasamy__HOD_PE__Aesthetics___CCA_.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Staff/5__Mr_Suresh_s_o_Govindasamy__HOD_PE__Aesthetics___CCA_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Test_17__Mrs_Tay_Chin_Han__Subject_Head__Asethetics_.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Staff/Test_17__Mrs_Tay_Chin_Han__Subject_Head__Asethetics_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Staff/Kalaiselvan_HQ.jpg">
 </div>
 </td>
 </tr>
