@@ -22,13 +22,13 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/Staff/21__Mdm_Vanishree_D_O_Kaneson__Year_Head__Lower_Primary_.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/21__Mdm_Vanishree_D_O_Kaneson__Year_Head__Lower_Primary_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/Staff/22__Mdm_Queenie_Huang_Wanqi__Year_Head__Middle_Primary_.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/22__Mdm_Queenie_Huang_Wanqi__Year_Head__Middle_Primary_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -66,9 +66,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/23__Mdm_Renugga_D_O_Veliappan__Year_Head__Upper_Primary_.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff/MDM_RENUGGA_D_O_VELIAPPAN_Year_Head__Upper_Primary__SSD_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,17 +103,20 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/43__MRS_MARION_CHEW_SWEE_KENG__Level_Head__English_Language_.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Staff/Vincy_Sebastian_HQ.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/44__MDM_MARIA_ROVENA_RAYMUND__Lead_Teacher_.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Staff/43__MRS_MARION_CHEW_SWEE_KENG__Level_Head__English_Language_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Staff/44__MDM_MARIA_ROVENA_RAYMUND__Lead_Teacher_.jpg">
 </div>
 </td>
 </tr>
@@ -147,13 +149,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/6__Mr_Chay_Hok_Ling_Danny_Mikhail__HOD_Mathematic_.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/6__Mr_Chay_Hok_Ling_Danny_Mikhail__HOD_Mathematic_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/Test_15__Mdm_Siti_Mariam_Bte_Ramli__Level_Head___Mathematic_.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Test_15__Mdm_Siti_Mariam_Bte_Ramli__Level_Head___Mathematic_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -266,28 +268,32 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="3">
 <h4><strong>PHYSICAL EDUCATION, CCA &amp; AESTHETICS DEPARTMENT</strong></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/5__Mr_Suresh_s_o_Govindasamy__HOD_PE__Aesthetics___CCA_.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Staff/5__Mr_Suresh_s_o_Govindasamy__HOD_PE__Aesthetics___CCA_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Test_17__Mrs_Tay_Chin_Han__Subject_Head__Asethetics_.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Staff/Test_17__Mrs_Tay_Chin_Han__Subject_Head__Asethetics_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Staff/Kalaiselvan_HQ.jpg">
 </div>
 </td>
 </tr>
