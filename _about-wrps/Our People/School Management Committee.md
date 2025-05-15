@@ -103,17 +103,20 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/43__MRS_MARION_CHEW_SWEE_KENG__Level_Head__English_Language_.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Staff/Vincy_Sebastian_HQ.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/44__MDM_MARIA_ROVENA_RAYMUND__Lead_Teacher_.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Staff/43__MRS_MARION_CHEW_SWEE_KENG__Level_Head__English_Language_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Staff/44__MDM_MARIA_ROVENA_RAYMUND__Lead_Teacher_.jpg">
 </div>
 </td>
 </tr>
