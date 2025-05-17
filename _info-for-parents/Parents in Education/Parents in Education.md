@@ -17,7 +17,7 @@ and Junior colleges will benefit from using this site.</p>
 <br><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://schoolbag.sg/</a>
 </p>
 <p>Please click link for more information on the primary school matters:
-<br><a rel="noopener noreferrer nofollow" target="_blank">Are scoring changes to the psle enough?</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">Any questions on primary school system?</a>
 </p>
 <p>Useful videos on Effective parenting styles, parent- teacher communication
 and such can be found here :
