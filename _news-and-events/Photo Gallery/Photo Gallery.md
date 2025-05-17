@@ -10,4 +10,6 @@ Photo Gallery
 
 Under construction.
 
+![](/images/underconstruction.gif)
+
 Come back again for further updates.

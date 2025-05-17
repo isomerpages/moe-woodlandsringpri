@@ -193,12 +193,10 @@ and;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Karine Kheng</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher, Mathematics</strong>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>

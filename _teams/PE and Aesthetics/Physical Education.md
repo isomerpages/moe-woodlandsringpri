@@ -12,7 +12,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE.jpg">
 </div>
 <h2>Vision and Mission</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -40,7 +44,16 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Key Programmes</h2>
-<table>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -104,7 +117,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Physical Education Department</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -126,6 +143,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Kalaiselvan S/O Balasubramaniam</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head, PE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Mohd Ramdan Bin MM</strong>
 </p>
 </td>
@@ -136,7 +163,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -162,7 +193,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Mr Peter Lim</strong>
+<p><strong>Mr Vishnu</strong>
 </p>
 </li>
 <li>

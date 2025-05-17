@@ -14,7 +14,7 @@ are eligible for the MOE FAS have to apply using the prescribed MOE FAS
 application form which is available from the school or can be downloaded
 from the MOE website. Application can also be made online through this
 link. (<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>).</p>
-<p>Application for MOE Financial Assistance Scheme for year 2024 is now open.
+<p>Application for MOE Financial Assistance Scheme for year 2025 is now open.
 You</p>
 <p>can apply via hardcopy by downloading the form below.</p>
 <p><a href="/files/Financial Assistance/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form</a>
@@ -53,7 +53,7 @@ approved to December of the same year.</p>
 <h4><br><strong>POSB Smart Buddy</strong></h4>
 <p>Cultivate good money habits early with POSB Smart Buddy. Click on the
 link below to find out more about it.</p>
-<h4><strong><a href="https://www.posb.com.sg/personal/promotion/sb-2x-savings-booster?cid=sg:en:cbg:posb:sem:goo:na:txt:casa:casa-aga-sem:posb-sb-brand:na&amp;gad_source=1&amp;gclid=Cj0KCQjwmOm3BhC8ARIsAOSbapVJmsZ6efPOFJFqQsMnh5t28j4jRs-lGv8Lhe3z2ROxkVY4ugyz1YoaAl-5EALw_wcB&amp;gclsrc=aw.ds" rel="noopener nofollow" target="_blank">POSB Smart Buddy</a></strong></h4>
+<h4><strong><a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy" rel="noopener nofollow" target="_blank">POSB Smart Buddy</a></strong></h4>
 <p></p>
 <h4><strong>POSB Smart Buddy | POSB Singapore</strong></h4>
 <p>For issues relating to POSB SMART Buddy Watch, please take note of the
