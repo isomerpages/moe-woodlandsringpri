@@ -177,7 +177,6 @@ act on improving the lives of others, and building a future for our nation</p>
 <p>Mdm Hong Guey Lian</p>
 <p>Ms Wendy Lee Sing Yee</p>
 <p>Mdm Mazlin Bte Ithnin-Zulkifli</p>
-<p>Mdm Joieslin d/o Adaikalarajoo</p>
 <p>
 <br>
 </p>
@@ -186,7 +185,6 @@ act on improving the lives of others, and building a future for our nation</p>
 <p>Mdm Lee Yin Yin</p>
 <p>Mdm Diana Law</p>
 <p>Mdm Nur Izzati Binte Abdul Latiff</p>
-<p>Mr Abbas Bin K Abdulla Kutty</p>
 <p>Mdm S Puspaja Menon</p>
 <p>
 <br>
