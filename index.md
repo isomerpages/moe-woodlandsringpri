@@ -7,7 +7,7 @@ permalink: /
 notification: PASSIONATE LEARNERS, GRACIOUS CITIZENS
 sections:
   - hero:
-      background: /images/homepage2023.gif
+      background: /images/website_banner_5_secs_.gif
       key_highlights:
         - title: WRPS 25th Anniversary Video
           description: ""
