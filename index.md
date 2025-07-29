@@ -7,7 +7,7 @@ permalink: /
 notification: PASSIONATE LEARNERS, GRACIOUS CITIZENS
 sections:
   - hero:
-      background: /images/homepage2023.gif
+      background: /images/website_banner_5_secs__2.gif
       key_highlights:
         - title: WRPS 25th Anniversary Video
           description: ""
@@ -16,4 +16,5 @@ sections:
           description: Briefing by School Leaders
           url: /info-for-parents/p1/permalink/
       url: /infoforparents/parentsbriefing/permalink/
+      variant: center
 ---
