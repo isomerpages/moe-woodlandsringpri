@@ -4,7 +4,7 @@ title: Woodlands Ring Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: PASSIONATE LEARNERS, GRACIOUS CITIZENS
+notification: ""
 sections:
   - hero:
       background: /images/website_banner_5_secs__2.gif
