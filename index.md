@@ -19,7 +19,6 @@ sections:
       variant: center
   - infopic:
       title: Community Spirit Awards 2025
-      subtitle: Add an image and text
       id: infopic
       description: We are incredibly proud to share that Woodlands Ring Primary School
         has received the Merit Award in this year’s People's Association
