@@ -23,7 +23,6 @@ sections:
       description: We are incredibly proud to share that Woodlands Ring Primary School
         has received the Merit Award in this year’s People's Association
         Community Spirit Award!
-      button: Button Text
       image: /images/HP___Key_events__Community_Spirit_Award_.jpg
       alt: Image alt text
 ---
