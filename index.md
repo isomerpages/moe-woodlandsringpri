@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/website_banner_overexposed_.gif
+      background: /images/website_banner_5_secs__2.gif
       key_highlights:
         - title: WRPS 25th Anniversary Video
           description: ""
