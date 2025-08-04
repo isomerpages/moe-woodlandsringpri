@@ -18,8 +18,5 @@ and Junior colleges will benefit from using this site.</p>
 </p>
 <p>Please click link for more information on the primary school matters:
 <br><a href="https://www.schoolbag.edu.sg/primary/" rel="noopener noreferrer nofollow" target="_blank">Any questions on primary school system?</a>
-</p>
-<p>Useful videos on Effective parenting styles, parent- teacher communication
-and such can be found here :
-<br><a href="https://schoolbag.sg/multimedia/videos" rel="noopener noreferrer nofollow" target="_blank">https://schoolbag.sg/multimedia/videos</a>
+<a href="https://schoolbag.sg/multimedia/videos" rel="noopener noreferrer nofollow" target="_blank">s://schoolbag.sg/multimedia/videos</a>
 </p>
