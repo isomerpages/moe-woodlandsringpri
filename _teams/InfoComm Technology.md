@@ -112,7 +112,7 @@ variant: tiptap
 <p>Mdm Siti Zaleha</p>
 </li>
 <li>
-<p>Ms Lai Kexin</p>
+<p>Ms Wong Kin Yap</p>
 </li>
 <li>
 <p>Mdm Lee Shu Qi</p>
@@ -124,7 +124,7 @@ variant: tiptap
 <p>Ms Santhi</p>
 </li>
 <li>
-<p>Mdm Choo Zhi Hui</p>
+<p>Ms Lee Wan Er</p>
 </li>
 </ul>
 </td>
