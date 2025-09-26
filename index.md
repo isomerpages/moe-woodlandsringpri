@@ -12,8 +12,8 @@ sections:
         - title: P1 Parents' Primer and Connect Session 2025
           description: Briefing by School Leaders
           url: /info-for-parents/p1/permalink/
-        - title: MOE’s and School's Stand on Vaping
-          description: Zero tolerance vaping policy
+        - title: School-Based Consequences on Vaping Offences
+          description: Zero Tolerance Vaping Policy
           url: https://www.woodlandsringpri.moe.edu.sg/teams/Student-Management-Team/discipline-team/permalink/
       url: /infoforparents/parentsbriefing/permalink/
       variant: center
