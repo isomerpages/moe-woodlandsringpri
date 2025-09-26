@@ -3,6 +3,7 @@ title: Discipline Team
 permalink: /teams/Student-Management-Team/discipline-team/permalink/
 description: ""
 third_nav_title: Student Management
+variant: markdown
 ---
 Discipline Team
 ===============
@@ -23,6 +24,9 @@ School Rules
   
 
 Wear the prescribed school uniform and modification to the uniform is not allowed\*
+
+[School-Based Consequences on Vaping Offences (Update) (Click Here)](/files/School_Based_Consequences_for_Vaping__1_.pdf)
+<iframe allowfullscreen="true" height="445" width="725" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSw16ZXdWwtKBLPvoWwN5MlXVhS6HvY--MlR7isS9Os-0eA-EZaWHnEVxAVPfLDuZZFMZbwM35DuVXz/pubembed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
 
 Spot Checks
 -----------
@@ -49,7 +53,7 @@ Pupils who have been nominated will receive a certificate with remarks written b
 Catch Me Doing Right
 --------------------
 
-**Rationale:** To promote good values in everyone, in and outside the school
+**Rationale:**&nbsp;To promote good values in everyone, in and outside the school
 
   
 
