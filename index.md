@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/3_website_banner_overexposed_.gif
       key_highlights:
-        - title: WRPS 25th Anniversary Video
-          description: ""
-          url: https://www.youtube.com/watch?v=Cug-_edCSDg&t=4126s
         - title: P1 Parents' Primer and Connect Session 2025
           description: Briefing by School Leaders
           url: /info-for-parents/p1/permalink/
+        - title: MOE’s and School's Stand on Vaping
+          description: Zero tolerance vaping policy
+          url: https://www.woodlandsringpri.moe.edu.sg/teams/Student-Management-Team/discipline-team/permalink/
       url: /infoforparents/parentsbriefing/permalink/
       variant: center
   - infopic:
