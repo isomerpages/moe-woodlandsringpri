@@ -25,7 +25,7 @@ School Rules
 
 Wear the prescribed school uniform and modification to the uniform is not allowed\*
 
-[School-Based Consequences on Vaping Offences (Update)](/files/School_Based_Consequences_for_Vaping__1_.pdf)
+[School-Based Consequences on Vaping Offences (Update) (Click Here)](/files/School_Based_Consequences_for_Vaping__1_.pdf)
 <iframe allowfullscreen="true" height="445" width="725" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSw16ZXdWwtKBLPvoWwN5MlXVhS6HvY--MlR7isS9Os-0eA-EZaWHnEVxAVPfLDuZZFMZbwM35DuVXz/pubembed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
 
 Spot Checks
