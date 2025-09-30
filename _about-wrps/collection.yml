@@ -2,6 +2,7 @@ collections:
   about-wrps:
     output: true
     order:
+      - Engagement Charter.md
       - Principal's Message.md
       - Our People/.keep
       - Our People/School Leaders.md
