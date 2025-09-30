@@ -2,7 +2,6 @@ collections:
   about-wrps:
     output: true
     order:
-      - Engagement Charter.md
       - Principal's Message.md
       - Our People/.keep
       - Our People/School Leaders.md
@@ -16,5 +15,6 @@ collections:
       - Our Identity/School Rules.md
       - Our Heritage.md
       - Our Achievements.md
+      - Engagement Charter.md
       - Privacy Policy.md
       - Privacy Policy/.keep
