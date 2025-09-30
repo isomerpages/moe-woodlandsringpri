@@ -2,7 +2,6 @@ collections:
   info-for-parents:
     output: true
     order:
-      - P1 Parents' Primer and Connect Session 2025.md
       - Booklist 2025.md
       - Transport Information.md
       - Lunch Pass 2025.md
