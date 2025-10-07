@@ -10,6 +10,6 @@ third_nav_title: Student Management
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-nSq19UDb3XuGhkCIAfTxgjuSOo9eZTRyZNPafEwT0wodOXTPlUGLy2dnKjTc33SkWjYWYt6xtB0u/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe height="445" width="725" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-nSq19UDb3XuGhkCIAfTxgjuSOo9eZTRyZNPafEwT0wodOXTPlUGLy2dnKjTc33SkWjYWYt6xtB0u/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 </div>
 <p></p>
