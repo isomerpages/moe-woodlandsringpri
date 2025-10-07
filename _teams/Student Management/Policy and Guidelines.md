@@ -9,13 +9,13 @@ third_nav_title: Student Management
 <div class="iframe-wrapper">
 <iframe height="445" width="725" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR0JZAbJcU-Lg08tQG_vFFmKT5O0UBEH9a85HKv_erVsAmA-lyO4yAViuL28APZwjg6MvIehHydBIwh/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 </div>
-<p>You may also <a href="/files/Anti_Bullying_Policy.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
-the pdf version.
+<p><a href="/files/Anti_Bullying_Policy.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download: </a><strong><a href="/files/Anti_Bullying_Policy.pdf" rel="noopener noreferrer nofollow" target="_blank">Anti-Bullying Policy: A Guide for Parents</a></strong>
+<a href="/files/Anti_Bullying_Policy.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>
 <br>
 <br><strong>Guidelines</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="445" width="725" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-nSq19UDb3XuGhkCIAfTxgjuSOo9eZTRyZNPafEwT0wodOXTPlUGLy2dnKjTc33SkWjYWYt6xtB0u/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 </div>
-<p>You may also <a href="/files/Communication_Guidelines.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
-the pdf version.</p>
+<p><a href="/files/Communication_Guidelines.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download: </a><strong><a href="/files/Communication_Guidelines.pdf" rel="noopener noreferrer nofollow" target="_blank">Communication Guidelines</a></strong>
+</p>
