@@ -10,6 +10,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ascensio.png">
 </div>
 <p>120 Hillview Avenue #05-02 Kewalram Hillview Singapore 669594</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6994197633207!2d103.75901617472557!3d1.3569597615534787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da104fb063222b%3A0xccfdd0f47f408648!2sAsencio%20Pte%20Ltd!5e0!3m2!1sen!2ssg!4v1759975316322!5m2!1sen!2ssg"></iframe>
+</div>
 <p>Tel: 67643102
 <br>Fax:67641032</p>
 <p>Website: <a href="https://asencio.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/</a>
