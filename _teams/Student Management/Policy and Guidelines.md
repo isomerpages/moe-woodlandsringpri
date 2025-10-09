@@ -16,5 +16,6 @@ third_nav_title: Student Management
 <div class="iframe-wrapper">
 <iframe height="445" width="725" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-nSq19UDb3XuGhkCIAfTxgjuSOo9eZTRyZNPafEwT0wodOXTPlUGLy2dnKjTc33SkWjYWYt6xtB0u/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 </div>
-<p>Click here to download: <strong><a href="/files/Communication_Guidelines.pdf" rel="noopener noreferrer nofollow" target="_blank">Communication Guidelines</a></strong>
+<p>Click here to download: <strong><a href="/files/Communication_Guidelines.pdf" rel="noopener noreferrer nofollow" target="_blank">Communication Guidel</a></strong>
+<a href="/files/Communication_Guidelines.pdf" rel="noopener nofollow" target="_blank">file</a><strong><a href="/files/Communication_Guidelines.pdf" rel="noopener noreferrer nofollow" target="_blank">ines</a></strong>
 </p>
