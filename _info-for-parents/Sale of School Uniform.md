@@ -9,8 +9,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ascensio.png">
 </div>
-<p>120 Hillview Avenue #05-02 Kewalram Hillview Singapore 669594 ![](file:///C:/Users/S69093~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)
-Tel: 67643102 Fax:67641032</p>
+<p>120 Hillview Avenue #05-02 Kewalram Hillview Singapore 669594</p>
+<p>Tel: 67643102
+<br>Fax:67641032</p>
 <p>Website: <a href="https://asencio.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/</a>
 </p>
 <p>____________________________________________________________________________________________________________________</p>
