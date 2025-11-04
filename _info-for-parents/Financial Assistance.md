@@ -17,35 +17,15 @@ link. (<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" t
 <p>Application for MOE Financial Assistance Scheme for year 2025 is now open.
 You</p>
 <p>can apply via hardcopy by downloading the form below.</p>
-<p><a href="/files/Financial Assistance/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form</a>
-</p>
 <p></p>
+<h4><em>FAS APPLICATION FORM TO BE UPDATED FOR 2026</em></h4>
 <p>For information on FAS click the link below.</p>
-<p><a href="/files/Financial Assistance/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Information (English)</a>
-</p>
-<p><a href="/files/Financial Assistance/Document_4b_MOE_FAS_pamphlet__CL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Information (Chinese)</a>
-</p>
-<p><a href="/files/Financial Assistance/Document_4c_MOE_FAS_pamphlet__ML_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Information (Malay)</a>
-</p>
-<p><a href="/files/Financial Assistance/Document_4d_MOE_FAS_pamphlet__TL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Information (Tamil)</a>
+<h4><em>ELIGIBILITY CRITERIA FOR MOE FAS</em></h4>
+<p><a href="/files/Financial Assistance/Document_4d_MOE_FAS_pamphlet__TL_.pdf" rel="noopener nofollow" target="_blank">l) </a>
+<a href="/files/FAS/MOE_FAS_Pamphlet_EL_2025.pdf" rel="noopener nofollow" target="_blank">MOE FINANCIAL ASSISTANCE SCHEME (2006) ENGLISH VERSION</a>
 </p>
 <p></p>
 <p></p>
-<p></p>
-<h4>ELIGIBILITY CRITERIA FOR MOE FAS</h4>
-<p>The family's Gross Household Income (GHI) does not exceed $3,000 per month;
-or</p>
-<p>The family’s Per Capita Income (PCI) does not exceed $750. PCI is computed
-based on GHI divided by the number of household members which include the
-student, his/her unmarried siblings, parents.</p>
-<p></p>
-<p><strong><u>BENEFITS RECEIVED BY MOE FAS RECIPIENTS&nbsp;</u></strong>
-</p>
-<p>The benefits received by MOE FAS recipients are:</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Office/fas.png">
-</div>
 <p>*If the FAS application approval is not from January, the transport subsidy
 will be pro-rated accordingly from the month after your application is
 approved to December of the same year.</p>
