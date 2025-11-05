@@ -18,7 +18,7 @@ link. (<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" t
 You</p>
 <p>can apply via hardcopy by downloading the form below.</p>
 <p></p>
-<h4><em>FAS APPLICATION FORM TO BE UPDATED FOR 2026</em></h4>
+<h4><em>HARD COPY OF FAS APPLICATION FORM TO BE UPDATED FOR 2026</em></h4>
 <p>For information on FAS click the link below.</p>
 <h4><em>ELIGIBILITY CRITERIA FOR MOE FAS</em></h4>
 <p><a href="/files/Financial Assistance/Document_4d_MOE_FAS_pamphlet__TL_.pdf" rel="noopener nofollow" target="_blank">l) </a>
