@@ -4,7 +4,6 @@ permalink: /info-for-parents/financial-assistance/permalink/
 description: ""
 variant: tiptap
 ---
-<h1>Financial Assistance</h1>
 <h2>OVERVIEW</h2>
 <p></p>
 <p>The MOE Financial Assistance Scheme (FAS) is to help needy Singaporean
