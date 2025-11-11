@@ -12,7 +12,7 @@ sections:
         - title: School-Based Consequences on Vaping Offences
           description: Zero Tolerance Vaping Policy
           url: https://www.woodlandsringpri.moe.edu.sg/teams/Student-Management-Team/discipline-team/permalink/
-        - title: Primary 1 Slides
+        - title: WRPS Primary 1 Slides
           description: Primary 1 2026
           url: /wrps-primary-1-primer/
       url: /infoforparents/parentsbriefing/permalink/
