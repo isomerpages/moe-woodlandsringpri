@@ -2,6 +2,7 @@ collections:
   info-for-parents:
     output: true
     order:
+      - WRPS Primary 1 PRIMER.md
       - Booklist 2026.md
       - Transport Information.md
       - Lunch Pass 2026.md

@@ -14,16 +14,23 @@ application form which is available from the school or can be downloaded
 from the MOE website. Application can also be made online through this
 link. (<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>).</p>
 <p>Application for MOE Financial Assistance Scheme for year 2025 is now open.
-You</p>
-<p>can apply via hardcopy by downloading the form below.</p>
+You can apply via hardcopy by downloading the form below.</p>
 <p></p>
 <h4><em>HARD COPY OF FAS APPLICATION FORM TO BE UPDATED FOR 2026</em></h4>
 <p>For information on FAS click the link below.</p>
 <h4><em>ELIGIBILITY CRITERIA FOR MOE FAS</em></h4>
-<p><a href="/files/Financial Assistance/Document_4d_MOE_FAS_pamphlet__TL_.pdf" rel="noopener nofollow" target="_blank">l) </a>
-<a href="/files/FAS/MOE_FAS_Pamphlet_EL_2025.pdf" rel="noopener nofollow" target="_blank">MOE FINANCIAL ASSISTANCE SCHEME (2006) ENGLISH VERSION</a>
+<p>For <u>English version</u> click the link below to download:</p>
+<p><a href="/files/FAS/MOE_FAS_Pamphlet_EL_2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS 2026 (English)</a>
 </p>
-<p></p>
+<p>For <u>Chinese version</u> click the link below to download:</p>
+<p><a href="/files/Financial Assistance/MOE_FAS_Pamphlet_CL.pdf" rel="noopener nofollow" target="_blank">MOE FAS 2026 (Chinese)</a>
+</p>
+<p>For <u>Malay version</u> click the link below to download:</p>
+<p><a href="/files/Financial Assistance/MOE_FAS_Pamphlet_ML.pdf" rel="noopener nofollow" target="_blank">MOE FAS 2026 (Malay)</a>
+</p>
+<p>For <u>Tamil version</u> click the link below to download :</p>
+<p><a href="/files/Financial Assistance/MOE_FAS_Pamphlet_TL.pdf" rel="noopener nofollow" target="_blank">MOE FAS 2026 (Tamil)</a>
+</p>
 <p></p>
 <p>*If the FAS application approval is not from January, the transport subsidy
 will be pro-rated accordingly from the month after your application is
