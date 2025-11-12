@@ -19,16 +19,16 @@ You can apply via hardcopy by downloading the form below.</p>
 <h4><em>HARD COPY OF FAS APPLICATION FORM TO BE UPDATED FOR 2026</em></h4>
 <p>For information on FAS click the link below.</p>
 <h4><em>ELIGIBILITY CRITERIA FOR MOE FAS</em></h4>
-<p>For <u>English version</u> click the link below:</p>
+<p>For <u>English version</u> click the link below to download:</p>
 <p><a href="/files/FAS/MOE_FAS_Pamphlet_EL_2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS 2026 (English)</a>
 </p>
-<p>For <u>Chinese version</u> click the link below:</p>
+<p>For <u>Chinese version</u> click the link below to download:</p>
 <p><a href="/files/Financial Assistance/MOE_FAS_Pamphlet_CL.pdf" rel="noopener nofollow" target="_blank">MOE FAS 2026 (Chinese)</a>
 </p>
-<p>For <u>Malay version</u> click the link below:</p>
+<p>For <u>Malay version</u> click the link below to download:</p>
 <p><a href="/files/Financial Assistance/MOE_FAS_Pamphlet_ML.pdf" rel="noopener nofollow" target="_blank">MOE FAS 2026 (Malay)</a>
 </p>
-<p>For <u>Tamil version</u> click the link below:</p>
+<p>For <u>Tamil version</u> click the link below to download :</p>
 <p><a href="/files/Financial Assistance/MOE_FAS_Pamphlet_TL.pdf" rel="noopener nofollow" target="_blank">MOE FAS 2026 (Tamil)</a>
 </p>
 <p></p>
