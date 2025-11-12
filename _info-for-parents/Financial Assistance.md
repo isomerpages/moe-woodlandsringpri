@@ -14,8 +14,7 @@ application form which is available from the school or can be downloaded
 from the MOE website. Application can also be made online through this
 link. (<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>).</p>
 <p>Application for MOE Financial Assistance Scheme for year 2025 is now open.
-You</p>
-<p>can apply via hardcopy by downloading the form below.</p>
+You can apply via hardcopy by downloading the form below.</p>
 <p></p>
 <h4><em>HARD COPY OF FAS APPLICATION FORM TO BE UPDATED FOR 2026</em></h4>
 <p>For information on FAS click the link below.</p>
