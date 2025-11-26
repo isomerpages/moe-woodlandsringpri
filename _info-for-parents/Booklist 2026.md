@@ -4,6 +4,15 @@ permalink: /forms-resources-useful-links/booklist/permalink/
 variant: tiptap
 description: ""
 ---
+<h3>Pacific Bookstore </h3>
+<h4>Website</h4>
+<p><a href="https://www.pacificeshop.com/" rel="noopener nofollow" target="_blank">https://www.pacificeshop.com/</a>
+</p>
+<p><a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">https://www.pacificbookstores.com/</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
 <p>Click the link for the 2006 Booklist</p>
 <p><a href="/files/Booklist 2026/WRPS_BOOKLIST_2026_P1.pdf" rel="noopener nofollow" target="_blank">Primary 1 WRPS Booklist 2026</a>
 </p>
