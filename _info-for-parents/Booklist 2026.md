@@ -4,7 +4,7 @@ permalink: /forms-resources-useful-links/booklist/permalink/
 variant: tiptap
 description: ""
 ---
-<h3>Pacific Bookstore </h3>
+<h3>Pacific Bookstore</h3>
 <h4>Website</h4>
 <p><a href="https://www.pacificeshop.com/" rel="noopener nofollow" target="_blank">https://www.pacificeshop.com/</a>
 </p>
