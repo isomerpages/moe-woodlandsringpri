@@ -104,14 +104,6 @@ act on improving the lives of others, and building a future for our nation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Ching Chong</p>
-</td>
-<td rowspan="1" colspan="3">
-<p>Subject Head, Environmental Education</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Jenny Ong</p>
 </td>
 <td rowspan="1" colspan="3">
@@ -123,7 +115,23 @@ act on improving the lives of others, and building a future for our nation</p>
 <p>Mdm Azlifah</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>CCE Coordinator</p>
+<p>Level Head, Character &amp; Citizenship Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Vanessa</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Subject Head, Partnership</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Mashita</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Senior Teacher, Character &amp; Citizenship Education</p>
 </td>
 </tr>
 <tr>
@@ -132,14 +140,6 @@ act on improving the lives of others, and building a future for our nation</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>VIA Coordinator</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Vanessa</p>
-</td>
-<td rowspan="1" colspan="3">
-<p>Partnership Coordinator</p>
 </td>
 </tr>
 <tr>
@@ -163,32 +163,40 @@ act on improving the lives of others, and building a future for our nation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Adawiyah</p>
-<p>Mdm Liang Guiping</p>
-<p>Mdm Puvaneswary d/o Rajoo</p>
-<p>Mdm Eu Lay Kim, Veronica</p>
-<p>Ms Shahirah Begum Binte Sulaiman</p>
-<p>Mdm Siti Aisyah Binti Abdul Razak</p>
-<p>Ms Miranda Go</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Suraya Bte Samat</p>
-<p>Mdm Hong Guey Lian</p>
-<p>Ms Wendy Lee Sing Yee</p>
-<p>Mdm Mazlin Bte Ithnin-Zulkifli</p>
-<p>
+<p>Mdm Eu Lay Kim, Veronica
 <br>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Yin Yin</p>
+<p>Ms Charlene Wang
+<br>
+</p>
+<p>Ms Shahirah Begum Binte Sulaiman
+<br>
+</p>
+<p>Mdm Siti Aisyah Binti Abdul Razak
+<br>
+</p>
+<p>Ms Wendy Lee
+<br>
+</p>
+<p>Mdm Siti Suraya Bte Samat
+<br>
+</p>
 <p>Mdm Diana Law</p>
-<p>Mdm Nur Izzati Binte Abdul Latiff</p>
-<p>Mdm S Puspaja Menon</p>
-<p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hong Guey Lian
 <br>
 </p>
+<p>Mdm S Puspaja Menon
+<br>
+</p>
+<p>Mdm Nurhani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Yin Yin
+<br>
+</p>
+<p>Mdm Ruhaizah</p>
 </td>
 </tr>
 </tbody>
