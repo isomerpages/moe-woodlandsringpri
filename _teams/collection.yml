@@ -2,7 +2,6 @@ collections:
   teams:
     output: true
     order:
-      - Partnership.md
       - English/.keep
       - English/English.md
       - Mathematics.md
@@ -26,3 +25,4 @@ collections:
       - Student Management/Discipline Team.md
       - Student Management/Student Well Being.md
       - Student Management/Policy and Guidelines.md
+      - Partnership.md
