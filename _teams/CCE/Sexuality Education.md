@@ -42,7 +42,7 @@ ones.</p>
 more information on MOE Sexuality Education.</p>
 <p>&nbsp;</p>
 <p>=========================================================================</p>
-<h4><strong>OVERVIEW OF WOODLANDS RING PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h4>
+<h4><strong>OVERVIEW OF WOODLANDS RING PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></h4>
 <p><strong>&nbsp;</strong>.4. Sexuality Education is delivered in a holistic
 manner through the school curriculum. The content for Sexuality Education
 is grouped into five main themes: Human Development, Interpersonal Relationships,
@@ -73,7 +73,7 @@ are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
 <p></p>
 <p></p>
-<p><strong>At Woodlands Ring Primary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<p><strong>At Woodlands Ring Primary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
 <h3>PRIMARY 5</h3>
 <p></p>
@@ -91,7 +91,7 @@ Sexuallity Education lessons, and/or supplementary Sexuality Education
 programmes by MOE-approved external providers.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the&nbsp;of the Sexuality Education lessons&nbsp;need to complete
-an opt-out form. The completed opt-out form is to be submitted by <strong>15 JANUARY 2025.</strong>
+an opt-out form. The completed opt-out form is to be submitted by <strong>13 February 2026.</strong>
 </p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at&nbsp;<strong>63643679</strong>&nbsp;for
 discussion or to seek clarification about the school’s Sexuality Education
