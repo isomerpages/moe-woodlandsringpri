@@ -22,3 +22,12 @@ their learning effectively and clearly to others.</p>
 </li>
 </ul>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Teams/TIE_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Teams/TIE_2.jpg">
+</div>
+<p></p>
