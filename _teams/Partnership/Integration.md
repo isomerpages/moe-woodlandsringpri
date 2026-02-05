@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Partnership
 ---
-<h1><strong>Integration Programme (SG Adventure: Exploring our Global Home)</strong></h1>
+<h1><strong>Integration Programme</strong><br><strong>(SG Adventure: Exploring our Global Home)</strong></h1>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
