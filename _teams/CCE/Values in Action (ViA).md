@@ -2,7 +2,7 @@
 title: Values in Action (ViA)
 permalink: /teams/CCE-Team/via/permalink/
 description: ""
-third_nav_title: CCE Team
+third_nav_title: CCE
 variant: tiptap
 ---
 <h1>Values in Action (ViA)</h1>

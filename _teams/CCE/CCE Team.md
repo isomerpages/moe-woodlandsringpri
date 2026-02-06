@@ -1,8 +1,8 @@
 ---
 title: CCE Team
-permalink: /teams/CCE-Team/permalink/
+permalink: /teams/cce/permalink/
 description: ""
-third_nav_title: CCE Team
+third_nav_title: CCE
 variant: tiptap
 ---
 <h1>Character and Citizenship Education</h1>
