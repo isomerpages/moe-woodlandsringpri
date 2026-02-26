@@ -2,7 +2,7 @@ collections:
   cca-team:
     output: true
     order:
-      - CCA Recruitment 2025.md
+      - CCA Recruitment 2026.md
       - CCA overview.md
       - Sports/.keep
       - Sports/Badminton.md
