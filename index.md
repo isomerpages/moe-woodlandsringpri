@@ -14,7 +14,7 @@ sections:
           url: https://www.woodlandsringpri.moe.edu.sg/teams/Student-Management-Team/discipline-team/permalink/
         - title: CCA Recruitment 2026
           description: CCA Recruitment 2026
-          url: /wrps-primary-1-primer/
+          url: /cca/cca-recruitment-2026/permalink/
       url: /infoforparents/parentsbriefing/permalink/
       variant: center
   - infopic:
