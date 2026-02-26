@@ -1,17 +1,17 @@
 ---
-title: CCA Recruitment 2025
-permalink: /cca/cca-recruitment-2025/permalink/
+title: CCA Recruitment 2026
+permalink: /cca/cca-recruitment-2026/permalink/
 description: ""
 variant: tiptap
 ---
-<h1>CCA Recruitment 2025</h1>
+<h1>CCA Recruitment 2026</h1>
 <p><strong>CCA programme in the school plays a key role in the holistic development of our students. It focuses on development of specific knowledge, skills and values based on the student’s choice of CCA ranging from Sports, Aesthetics (Visual and Performing Arts), Clubs to Uniformed Group. CCA enables students to discover their interests and talents while providing a platform for friendships and social integration of students from diverse backgrounds. The School offers 15 different CCAs ranging from Sports, Aesthetics, Clubs to Uniformed Group. Click on the different videos to find out more about the CCA:</strong>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/CCA_Rfair_2024.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/CCA_Recruitment_Header.gif">
 </div>
+<p></p>
 <h3><strong>Sports</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
