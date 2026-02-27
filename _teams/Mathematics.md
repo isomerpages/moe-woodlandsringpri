@@ -263,10 +263,7 @@ and;</p>
 <li>
 <p><strong>Mrs Chong Ke Xin</strong>
 </p>
-</li>
-<li>
-<p><strong>Mrs Tarmizi - Lee Shu Qi</strong>
-</p>
+<p></p>
 </li>
 </ul>
 </td>
