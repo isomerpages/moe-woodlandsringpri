@@ -30,17 +30,12 @@ school life.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Tarmizi ( I/C )</p>
+<p>Mr Adli ( I/C )</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Adli ( Asst I/C )</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Habib</p>
+<p>Mr Joel Tan ( Asst I/C )</p>
 </td>
 </tr>
 <tr>
@@ -50,7 +45,12 @@ school life.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chan Pei Kee</p>
+<p>Miss Serena Chua</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
