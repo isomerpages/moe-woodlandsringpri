@@ -62,3 +62,4 @@ All WRPS pupils are to wear the prescribed school uniform (complete with canvas 
 
 Acceptable Hairstyles
 ---------------------
+![](/images/School%20Rules/hair.png)
