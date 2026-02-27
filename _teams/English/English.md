@@ -157,7 +157,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/English/HOR.png">
 </div>
-<p></p>
+<p><strong>Our Key Learning Programme (KLP), Hooked on Reading (HOR), is anchored on five key prongs, as illustrated in the diagram above. The programme aims to equip students with essential language skills to become effective communicators and writers, discerning readers, and critical thinkers—competencies that are vital for success in the 21st century.</strong>
+</p>
 <p><strong>A school-wide reading programme that aims to develop a strong reading culture through allocated reading and library periods, P3 twisted tales programme, library programmes, developing language ambassadors, teachers' professional development, parents' engagment sessions and partnership with National Library Board .<br></strong>
 </p>
 <p><strong><br></strong>
