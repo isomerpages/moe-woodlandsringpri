@@ -153,6 +153,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/English/HOR.png">
+</div>
+<p></p>
 <p><strong>A school-wide reading programme that aims to develop a strong reading culture through allocated reading and library periods, P3 twisted tales programme, library programmes, developing language ambassadors, teachers' professional development, parents' engagment sessions and partnership with National Library Board .<br></strong>
 </p>
 <p><strong><br></strong>
