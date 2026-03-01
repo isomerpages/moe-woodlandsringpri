@@ -56,10 +56,10 @@ School Uniform
 
 All WRPS pupils are to wear the prescribed school uniform (complete with canvas shoes and WRPS socks) whenever they enter the school premises for all activities.
 
-  
-![](/images/School%20Rules/School_rules_1.png)
+  ![](/images/School%20Rules/uni1.png)
 
+![](/images/School%20Rules/uni2.png)
 
 Acceptable Hairstyles
 ---------------------
-![](/images/School%20Rules/school_rules_2.png)
+![](/images/School%20Rules/hair.png)

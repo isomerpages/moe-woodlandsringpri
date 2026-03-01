@@ -153,6 +153,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/English/HOR.png">
+</div>
+<p><strong>Our Key Learning Programme (KLP), Hooked on Reading (HOR), is anchored on five key prongs, as illustrated in the diagram above. The programme aims to equip students with essential language skills to become effective communicators and writers, discerning readers, and critical thinkers—competencies that are vital for success in the 21st century.</strong>
+</p>
 <p><strong>A school-wide reading programme that aims to develop a strong reading culture through allocated reading and library periods, P3 twisted tales programme, library programmes, developing language ambassadors, teachers' professional development, parents' engagment sessions and partnership with National Library Board .<br></strong>
 </p>
 <p><strong><br></strong>
@@ -278,17 +284,18 @@ variant: tiptap
 <p><strong>Ms Lee Wan Er</strong>
 </p>
 <p></p>
+<p></p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mdm Adawiyah</strong>
+<p><strong>Mdm Mashita</strong>
 </p>
 </li>
 <li>
-<p><strong>Miss Shahirah</strong>
+<p><strong>Mdm Shahirah</strong>
 </p>
 </li>
 <li>
@@ -304,11 +311,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Ms Priyaa</strong>
+<p><strong>Mdm Priyaa</strong>
 </p>
 </li>
 <li>
-<p><strong>Ms Ruth</strong>
+<p><strong>Mdm Yaap Yong Siew</strong>
 </p>
 </li>
 <li>
@@ -317,6 +324,10 @@ variant: tiptap
 </li>
 <li>
 <p><strong>Mr Adli</strong>
+</p>
+</li>
+<li>
+<p><strong>Mdm Hadzar</strong>
 </p>
 </li>
 </ul>
