@@ -127,7 +127,8 @@ and;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>All levels</strong>
+</p>
 </td>
 </tr>
 </tbody>
