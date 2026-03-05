@@ -170,7 +170,7 @@ and;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Diana Tay Kwee Hong </strong>
+<p><strong>Mdm Diana Tay Kwee Hong</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -191,7 +191,7 @@ and;</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mrs Chim-Chan Yin  Ling (LSM Coordinator)</strong>
+<p><strong>Mrs Chim-Chan Yin Ling (LSM Coordinator)</strong>
 </p>
 </li>
 <li>
@@ -232,7 +232,7 @@ and;</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mr Vikneswaran Subramaniyam </strong>
+<p><strong>Mr Vikneswaran Subramaniyam</strong>
 </p>
 </li>
 <li>
