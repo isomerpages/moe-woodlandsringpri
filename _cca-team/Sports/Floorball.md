@@ -40,12 +40,12 @@ as floorball sticks are all provided by the school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Vishnu</p>
+<p>Muhammad Sabir</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Joel Tan</p>
+<p></p>
 </td>
 </tr>
 </tbody>
