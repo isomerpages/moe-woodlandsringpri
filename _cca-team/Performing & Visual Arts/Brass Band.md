@@ -90,5 +90,13 @@ a vibrant musical community!</p>
 <h4>2018: Singapore Youth Festival (Participation)</h4>
 <p></p>
 <p></p>
-<h2></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Performing Arts/Brass Band/2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Performing Arts/Brass Band/1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Performing Arts/Brass Band/3.jpg">
+</div>
 <p></p>
