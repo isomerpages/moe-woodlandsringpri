@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<h4><strong>CCE → TIE &amp;amp; Integration Programme</strong></h4>
+<h4><strong>CCE → TIE &amp; Integration Programme</strong></h4>
 <p><strong><u>TIE (Trips for Internationalisation Experience)</u></strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp; Develop Emerging 21st Century Competencies of global
