@@ -81,23 +81,6 @@ and;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Fun with Chess</strong> 
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>The main goal of the Primary 1 and 2 Chess Workshop at Woodlands Ring Primary School is to enable pupils to use criteria to drive decision making and evaluate alternatives so that they will be able to arrive at the best solution for the problem that they are facing.<br><br>Through the chess workshop, pupils should be able to apply the skills taught to solve problems they face in their daily work as well as day-to-day activities.</strong> 
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Students from Primary One &amp; Two</strong> 
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mathematics Olympiad Preparatory Course</strong> 
 <br>
 </p>
@@ -136,20 +119,15 @@ and;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Math In Action</strong> 
-<br>
+<p><strong>Playmatics@WRPS</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>To focus on the application of basic Mathematics concepts.</strong>
-</p>
-<p><strong>To develop problem solving abilities for word problems.</strong>
-</p>
-<p><strong>To experience success and build confidence in Mathematics.</strong>
+<p><strong>A recess programme that offers students the opportunities to discover the fun side of Mathematics through interactive games and hands-on activities. It encourages exploration beyond the classroom and helps students experience the joy of learning Math in an engaging and enjoyable way.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selected students from Primary Six</strong>
+<p><strong>All levels</strong>
 </p>
 </td>
 </tr>
@@ -187,16 +165,18 @@ and;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher, Mathematics</strong>
+<p><strong>Lead Teacher, Mathematics</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mdm Diana Tay Kwee Hong</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>LH Mathematics</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -212,7 +192,7 @@ and;</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mrs Chim-Chan Yin Ling</strong>
+<p><strong>Mrs Chim-Chan Yin Ling (LSM Coordinator)</strong>
 </p>
 </li>
 <li>
@@ -221,10 +201,6 @@ and;</p>
 </li>
 <li>
 <p><strong>Mdm Sufia</strong>
-</p>
-</li>
-<li>
-<p><strong>Mdm Nurmala</strong>
 </p>
 </li>
 <li>
@@ -238,12 +214,28 @@ and;</p>
 <li>
 <p><strong>Miss Wendy Lee</strong>
 </p>
+</li>
+<li>
+<p><strong>Muhammad Zaid Bin Arsad</strong>
+</p>
+</li>
+<li>
+<p><strong>Ms Chiang Wee Yee</strong>
+</p>
+</li>
+<li>
+<p><strong>Mrs Anand</strong>
+</p>
 <p></p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
+<li>
+<p><strong>Mr Vikneswaran Subramaniyam</strong>
+</p>
+</li>
 <li>
 <p><strong>Mrs Kavitha Ong</strong>
 </p>
@@ -261,7 +253,19 @@ and;</p>
 </p>
 </li>
 <li>
-<p><strong>Mrs Chong Ke Xin</strong>
+<p><strong>Mdm Irfah Bte Mohamad Aripin</strong>
+</p>
+</li>
+<li>
+<p><strong>Mr Matthew John</strong>
+</p>
+</li>
+<li>
+<p><strong>Mdm Aslina Bte Semahli</strong>
+</p>
+</li>
+<li>
+<p><strong>Mdm Siti Nuraisah</strong>
 </p>
 <p></p>
 </li>

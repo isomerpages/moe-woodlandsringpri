@@ -35,17 +35,17 @@ as floorball sticks are all provided by the school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hong Guey Lian ( Asst I/C )</p>
+<p>Muhammad Sabir ( Asst I/C )</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Vishnu</p>
+<p>Ms Hong Guey Lian</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Joel Tan</p>
+<p></p>
 </td>
 </tr>
 </tbody>

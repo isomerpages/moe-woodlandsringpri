@@ -20,7 +20,10 @@ community to be a greener school, conducive to learning while promoting
 environmental and sustainability literacy. Through current issues, learning
 journeys and scientific experiments, students will learn social and life
 skills.</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -29,17 +32,22 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Freeda Krishnan ( I/C )</p>
+<p>Mr Nelavannan ( I/C )</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Si Ying ( Assistant I/C )</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Freeda Krishnan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Shahirah Begum</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Nelavannan</p>
 </td>
 </tr>
 </tbody>
