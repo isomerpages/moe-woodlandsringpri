@@ -60,7 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=0DaekyZNgdY" rel="noopener noreferrer nofollow" target="_blank">Indian Dance</a></h4>
+<h4><a href="https://youtu.be/HS3DArsBj4U" rel="noopener noreferrer nofollow" target="_blank">Indian Dance</a></h4>
 </td>
 <td rowspan="1" colspan="1">
 <h4><a href="https://www.youtube.com/watch?v=U6vVuo3ZZ7E" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a></h4>
