@@ -34,7 +34,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=60wnUowpydw" rel="noopener noreferrer nofollow" target="_blank">Floorball</a></h4>
+<h4><a href="https://youtu.be/QXRGPtLUUYI" rel="noopener noreferrer nofollow" target="_blank">Floorball</a></h4>
 </td>
 </tr>
 </tbody>
