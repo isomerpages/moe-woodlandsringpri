@@ -94,7 +94,7 @@ variant: tiptap
 <h4><a href="https://www.youtube.com/watch?v=tCOeRBzQ1po" rel="noopener noreferrer nofollow" target="_blank">Scouts</a></h4>
 </th>
 <th rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=OSlSpJHTjyQ" rel="noopener noreferrer nofollow" target="_blank">Science Club</a></h4>
+<h4><a href="https://youtu.be/E_MED5pncYM" rel="noopener noreferrer nofollow" target="_blank">Science Club</a></h4>
 </th>
 </tr>
 <tr>
