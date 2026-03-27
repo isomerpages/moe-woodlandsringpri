@@ -81,7 +81,7 @@ matters and environmental-related issues.</p>
 </li>
 </ol>
 <h2>Join Us</h2>
-<h3><a href="https://www.youtube.com/watch?v=UXEfJh5SbOw" rel="noopener noreferrer nofollow" target="_blank">WRPS Science Club Recruitment Video</a></h3>
+<h3><a href="https://youtu.be/E_MED5pncYM" rel="noopener noreferrer nofollow" target="_blank">WRPS Science Club Recruitment Video</a></h3>
 <h2>CCA Participation &amp; Achievements:</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/science2.png">
