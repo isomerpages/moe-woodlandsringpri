@@ -198,16 +198,6 @@ the school in&nbsp;various competitions, such as the National School Games.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>JUNIOR DIVISION GIRLS</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>PARTICIPATION</strong>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
