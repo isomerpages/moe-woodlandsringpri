@@ -25,12 +25,12 @@ variant: tiptap
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=wvcIopxzo6M" rel="noopener noreferrer nofollow" target="_blank">Basketball</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=rPE10oj_H6g" rel="noopener noreferrer nofollow" target="_blank">Basketball</a></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><a href="https://youtu.be/bzvp7a2HRyo" rel="noopener noreferrer nofollow" target="_blank">Football</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=Vzc_KSqB5oI" rel="noopener noreferrer nofollow" target="_blank">Football</a></h4>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,7 +63,7 @@ variant: tiptap
 <h4><a href="https://www.youtube.com/watch?v=0DaekyZNgdY" rel="noopener noreferrer nofollow" target="_blank">Indian Dance</a></h4>
 </td>
 <td rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=u_PyI8IXBks" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=U6vVuo3ZZ7E" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a></h4>
 </td>
 <td rowspan="1" colspan="1">
 <h4><a href="https://youtu.be/sGCdDxgIeI8" rel="noopener noreferrer nofollow" target="_blank">Drama and Literary Club</a></h4>
