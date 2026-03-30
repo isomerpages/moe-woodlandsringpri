@@ -73,7 +73,8 @@ and develop into leaders with heart and character.</p>
 </tbody>
 </table>
 <h2>Join Us</h2>
-<p>[video to be uploaded to youtube and embed link pasted here]</p>
+<p><a href="https://youtu.be/yKQUNJodbN4" rel="noopener nofollow" target="_blank">WRPS Scouts Recruitment Video</a>
+</p>
 <h2>CCA Participation &amp; Achievements:</h2>
 <p></p>
 <p></p>
