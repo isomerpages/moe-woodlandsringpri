@@ -25,16 +25,16 @@ variant: tiptap
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=wvcIopxzo6M" rel="noopener noreferrer nofollow" target="_blank">Basketball</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=rPE10oj_H6g" rel="noopener noreferrer nofollow" target="_blank">Basketball</a></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><a href="https://youtu.be/bzvp7a2HRyo" rel="noopener noreferrer nofollow" target="_blank">Football</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=Vzc_KSqB5oI" rel="noopener noreferrer nofollow" target="_blank">Football</a></h4>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=60wnUowpydw" rel="noopener noreferrer nofollow" target="_blank">Floorball</a></h4>
+<h4><a href="https://youtu.be/QXRGPtLUUYI" rel="noopener noreferrer nofollow" target="_blank">Floorball</a></h4>
 </td>
 </tr>
 </tbody>
@@ -52,7 +52,7 @@ variant: tiptap
 <h4><a href="https://www.youtube.com/watch?v=6Hny09LbTyY" rel="noopener noreferrer nofollow" target="_blank">Art Club</a></h4>
 </th>
 <th rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=kt1tr048QBs" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=_KxEoyBmGZ8" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a></h4>
 </th>
 <th rowspan="1" colspan="1">
 <h4><a href="https://youtu.be/G9P2JpDcYJI" rel="noopener noreferrer nofollow" target="_blank">Choir</a></h4>
@@ -60,10 +60,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=0DaekyZNgdY" rel="noopener noreferrer nofollow" target="_blank">Indian Dance</a></h4>
+<h4><a href="https://youtu.be/HS3DArsBj4U" rel="noopener noreferrer nofollow" target="_blank">Indian Dance</a></h4>
 </td>
 <td rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=u_PyI8IXBks" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=U6vVuo3ZZ7E" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a></h4>
 </td>
 <td rowspan="1" colspan="1">
 <h4><a href="https://youtu.be/sGCdDxgIeI8" rel="noopener noreferrer nofollow" target="_blank">Drama and Literary Club</a></h4>
@@ -94,7 +94,7 @@ variant: tiptap
 <h4><a href="https://www.youtube.com/watch?v=tCOeRBzQ1po" rel="noopener noreferrer nofollow" target="_blank">Scouts</a></h4>
 </th>
 <th rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=OSlSpJHTjyQ" rel="noopener noreferrer nofollow" target="_blank">Science Club</a></h4>
+<h4><a href="https://youtu.be/E_MED5pncYM" rel="noopener noreferrer nofollow" target="_blank">Science Club</a></h4>
 </th>
 </tr>
 <tr>

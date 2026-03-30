@@ -58,9 +58,30 @@ Let’s dance with **RASA** and bring our culture to life through movement.
 | Mdm Mustika Alyssa |
 
 Join Us
+
+### [WRPS MALAY DANCE VIDEO](https://www.youtube.com/watch?v=MyJxMXxzeaA)
 -------
-[Malay Dance Recruitment Video 2025](https://www.youtube.com/watch?v=5JzArDxX_5I)
+
 
 Participation &amp; Achievements:
 ---------------------------------
-![](/images/CCA%20Performing%20Arts/Malay_dance.png)
+
+
+| 2025 |2026 | Column 3 |
+| -------- | -------- | -------- |
+| Hari Raya Fiesta performance at
+Woodlands Health| Text     | Text     |
+
+
+
+
+
+
+
+Bazaar Raya Utara Performance
+Hari Raya Concert 2025 Singapore Youth Festival Arts
+
+Presentation 2026
+National Day Concert 2025 Hari Raya Concert 2026
+WRPS Celebrate Concert 2025 National Day Concert 2026
+WRPS Celebrate Concert 2026

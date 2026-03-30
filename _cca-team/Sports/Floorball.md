@@ -55,7 +55,7 @@ as floorball sticks are all provided by the school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA%20Sports/home1_set_main_w_360x199.jpg">
 </div>
-<h4><a href="https://youtu.be/60wnUowpydw" rel="noopener noreferrer nofollow" target="_blank">WRPS Floorball Recruitment Video</a></h4>
+<h4><a href="https://youtu.be/QXRGPtLUUYI" rel="noopener noreferrer nofollow" target="_blank">WRPS Floorball Recruitment Video</a></h4>
 <h2>CCA Participation &amp; Achievements:</h2>
 <p>Despite being a relatively new CCA in WRPS, our Junior Boys emerged 1
 st Place in their Tier 3 Competition in the 2024 season. The school will
