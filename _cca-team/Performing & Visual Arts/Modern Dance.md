@@ -47,7 +47,7 @@ for!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/modern%20dance.jpg">
 </div>
-<p><a href="https://www.youtube.com/watch?v=jXhKh-VFGdY" rel="noopener noreferrer nofollow" target="_blank">WRPS Modern Dance</a>
+<p><a href="https://www.youtube.com/watch?v=U6vVuo3ZZ7E" rel="noopener noreferrer nofollow" target="_blank">WRPS Modern Dance</a>
 </p>
 <h4>CCA Participation &amp; Achievements:</h4>
 <p><strong>2024: Singapore Youth Festival (SYF) Arts Presentation – Certificate of Accomplishment</strong>
