@@ -49,7 +49,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=6Hny09LbTyY" rel="noopener noreferrer nofollow" target="_blank">Art Club</a></h4>
+<h4><a href="https://youtu.be/JwDXEBDAoxo" rel="noopener noreferrer nofollow" target="_blank">Art Club</a></h4>
 </th>
 <th rowspan="1" colspan="1">
 <h4><a href="https://www.youtube.com/watch?v=_KxEoyBmGZ8" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a></h4>
