@@ -49,7 +49,7 @@ are the one we are looking for! Come and join us!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/choirwrps.png">
 </div>
-<h3><a href="https://www.youtube.com/watch?v=G9P2JpDcYJI" rel="noopener noreferrer nofollow" target="_blank">WRPS Choir Recruitment Video</a></h3>
+<h3><a href="https://youtu.be/cL8fFNA4v3s" rel="noopener noreferrer nofollow" target="_blank">WRPS Choir Recruitment Video</a></h3>
 <h2>CCA Participation &amp; Achievements:</h2>
 <p>2025 : President's Challenge Charity Choral Festival</p>
 <p>2024 : Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
