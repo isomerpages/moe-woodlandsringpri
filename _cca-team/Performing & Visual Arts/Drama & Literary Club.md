@@ -6,27 +6,23 @@ third_nav_title: Performing & Visual Arts
 variant: tiptap
 ---
 <h2>Overview:</h2>
-<p>Our Drama &amp; Literary Club is a platform for students to be immersed
-into the wonderful literary world of the English Language. Aside from exploring
-drama skills and techniques, students are exposed to the different genres
-of storybooks, explore creative writing techniques, discover the quirks
-and joys of the English Language and the way it opens up to different perspectives
-of life.</p>
-<p>In Drama &amp; Literary Club, students are given the freedom to unleash
-their creativity and imagination. While students partake in a diverse range
-of activities, these engagements serve as a platform to hone their socio-emotional
-learning. The activities range from staging a puppet show to acting in
-front of an audience, writing poems, and even performing spoken word. They
-will also get the chance to attend workshops by professionals to get first-hand
-knowledge and insight on acting. Students will get to try a myriad of activities
-that will open up their minds, enrich their language experience, improve
-their English and strengthen their love for it.</p>
-<p>Through our programmes, we endeavour to groom every student with future-ready
-skills, honing their socio-emotional learning and moulding them to&nbsp;become
-a confident person, concerned citizen, active contributor and self-directed
-learner. Students will get to try a myriad of activities that will build&nbsp;their
-confidence, nourish their sense of empathy, enrich their English&nbsp;language
-experience and strengthen their love for it.</p>
+<p>The Drama &amp; Literary Club provides a structured platform for students
+to immerse themselves in the literary world of the English language. Students
+are exposed to a range of literary genres, creative writing techniques,
+and drama skills, enabling them to explore language and its role in shaping
+different perspectives of life.</p>
+<p>Through participation in a variety of activities—such as puppet shows,
+stage performances, poetry writing, and spoken word—students develop their
+communication and expressive abilities. These activities further enhance
+their understanding of performance and provide valuable first-hand insights
+into the performing arts.</p>
+<p>The programme also serves as a platform to support students’ socio-emotional
+development by fostering creativity, confidence, empathy, and collaboration.
+Through these experiences, students deepen their language proficiency and
+appreciation of English.</p>
+<p>Through our programmes, we aim to nurture future-ready learners by strengthening
+socio-emotional competencies and developing them into confident individuals,concerned
+citizens, active contributors, and self-directed learners.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -39,12 +35,12 @@ experience and strengthen their love for it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tay Shwu Yueh (I/C)</p>
+<p>Mrs Vasantha Anand (I/C)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Humairah ( Asst I/C )</p>
+<p>Mdm Ruth Yap ( Asst I/C )</p>
 </td>
 </tr>
 <tr>
