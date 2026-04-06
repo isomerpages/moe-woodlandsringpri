@@ -42,7 +42,7 @@ to aid in students’ cognitive development.</p>
 </li>
 </ul>
 <h2>Join Us</h2>
-<h4><a href="https://youtu.be/aYCiXt6MnLs" rel="noopener nofollow" target="_blank">Infocomm Club Recruitment Video</a></h4>
+<h4><a href="https://youtu.be/lc-NqSf8Kbg" rel="noopener nofollow" target="_blank">Infocomm Club Recruitment Video</a></h4>
 <h2>CCA Participation &amp; Achievements:</h2>
 <p></p>
 <table style="minWidth: 100px">

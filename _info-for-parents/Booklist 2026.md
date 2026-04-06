@@ -8,7 +8,7 @@ description: ""
 <p></p>
 <p></p>
 <p></p>
-<p>Click the link for the 2006 Booklist</p>
+<p>Click the link for the 2026 Booklist</p>
 <p><a href="/files/Booklist 2026/WRPS_BOOKLIST_2026_P1.pdf" rel="noopener nofollow" target="_blank">Primary 1 WRPS Booklist 2026</a>
 </p>
 <p><a href="/files/Booklist 2026/WRPS_BOOKLIST_2026_P2.pdf" rel="noopener nofollow" target="_blank">Primary 2 WRPS Booklist 2026</a>

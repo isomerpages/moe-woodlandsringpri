@@ -55,7 +55,7 @@ variant: tiptap
 <h4><a href="https://www.youtube.com/watch?v=_KxEoyBmGZ8" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a></h4>
 </th>
 <th rowspan="1" colspan="1">
-<h4><a href="https://youtu.be/G9P2JpDcYJI" rel="noopener noreferrer nofollow" target="_blank">Choir</a></h4>
+<h4><a href="https://youtu.be/cL8fFNA4v3s" rel="noopener noreferrer nofollow" target="_blank">Choir</a></h4>
 </th>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ variant: tiptap
 <h4><a href="https://www.youtube.com/watch?v=lE_tE5PfcNw" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a></h4>
 </td>
 <td rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=5JzArDxX_5I" rel="noopener noreferrer nofollow" target="_blank">Malay Dance</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=MyJxMXxzeaA" rel="noopener noreferrer nofollow" target="_blank">Malay Dance</a></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -91,7 +91,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=tCOeRBzQ1po" rel="noopener noreferrer nofollow" target="_blank">Scouts</a></h4>
+<h4><a href="https://youtu.be/yKQUNJodbN4" rel="noopener noreferrer nofollow" target="_blank">Scouts</a></h4>
 </th>
 <th rowspan="1" colspan="1">
 <h4><a href="https://youtu.be/E_MED5pncYM" rel="noopener noreferrer nofollow" target="_blank">Science Club</a></h4>
@@ -99,7 +99,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><a href="https://youtu.be/aYCiXt6MnLs" rel="noopener noreferrer nofollow" target="_blank">Infocomm Club</a></h4>
+<h4><a href="https://youtu.be/lc-NqSf8Kbg" rel="noopener noreferrer nofollow" target="_blank">Infocomm Club</a></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

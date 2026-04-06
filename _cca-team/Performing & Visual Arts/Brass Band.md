@@ -55,7 +55,7 @@ a vibrant musical community!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/bandbrass.jpg">
 </div>
-<h4><a href="https://www.youtube.com/watch?v=kt1tr048QBs" rel="noopener noreferrer nofollow" target="_blank">WRPS Brass Band Recruitment Video</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=_KxEoyBmGZ8" rel="noopener noreferrer nofollow" target="_blank">WRPS Brass Band Recruitment Video</a></h4>
 <p></p>
 <h4>CCA Participation &amp; Achievements:</h4>
 <p><strong><u>School Events</u></strong>

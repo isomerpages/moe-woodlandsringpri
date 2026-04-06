@@ -24,47 +24,66 @@ Award). Each progress badge focuses on key areas such as Citizenship, Leadership
 and Responsibility, Physical Skills, Self-Reliance, Adventure and Fun.</p>
 <p>At Woodlands Ring Primary School, we hope that our Cub Scouts will grow
 and develop into leaders with heart and character.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Teachers In-Charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Sunita Kumari ( I/C )</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Shan Quan ( Asst I/C )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Edmund Chen</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Adawiyah</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Matthew John</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
 <h2>Join Us</h2>
-<p>[video to be uploaded to youtube and embed link pasted here]</p>
+<p><a href="https://youtu.be/yKQUNJodbN4" rel="noopener nofollow" target="_blank">WRPS Scouts Recruitment Video</a>
+</p>
 <h2>CCA Participation &amp; Achievements:</h2>
 <p></p>
 <p></p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -98,7 +117,11 @@ and develop into leaders with heart and character.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -132,7 +155,11 @@ and develop into leaders with heart and character.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
