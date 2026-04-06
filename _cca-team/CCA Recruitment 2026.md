@@ -71,7 +71,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><a href="https://www.youtube.com/watch?v=lE_tE5PfcNw" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a></h4>
+<h4><a href="https://youtu.be/2VV5PI7Tk88" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a></h4>
 </td>
 <td rowspan="1" colspan="1">
 <h4><a href="https://www.youtube.com/watch?v=MyJxMXxzeaA" rel="noopener noreferrer nofollow" target="_blank">Malay Dance</a></h4>
