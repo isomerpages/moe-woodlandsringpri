@@ -48,7 +48,7 @@ showcase their talents.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/indian-girls-dancer-traditio.jpg">
 </div>
-<p><a href="https://youtu.be/HS3DArsBj4U" rel="noopener noreferrer nofollow" target="_blank">WRPS Indian Dance</a>
+<p><a href="https://youtu.be/9nMR5057YzM" rel="noopener noreferrer nofollow" target="_blank">WRPS Indian Dance</a>
 </p>
 <h2>CCA Participation &amp; Achievements:</h2>
 <div class="isomer-image-wrapper">
