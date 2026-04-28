@@ -78,7 +78,8 @@ culture and instilling strong Moral Values.</p>
 <p>Mdm Liang Gui Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / CL</p>
+<p></p>
+<p>LT / CL</p>
 </td>
 </tr>
 </tbody>
@@ -96,7 +97,7 @@ culture and instilling strong Moral Values.</p>
 <p>Mdm Huang Wanqi, Queenie</p>
 </li>
 <li>
-<p>Mdm Lin Lu</p>
+<p>Mdm Liu Lili</p>
 </li>
 <li>
 <p>Mdm Law Qianyu Diana</p>
@@ -106,9 +107,7 @@ culture and instilling strong Moral Values.</p>
 </li>
 <li>
 <p>Ms Poh Kia Kie</p>
-</li>
-<li>
-<p>Ms Wong Kin Yap</p>
+<p></p>
 </li>
 </ul>
 </td>
@@ -118,7 +117,7 @@ culture and instilling strong Moral Values.</p>
 <p>Ms Yeow Shiok Li</p>
 </li>
 <li>
-<p>Ms Chan Pei Kee</p>
+<p>Ms Fong Wei Yuan</p>
 </li>
 <li>
 <p>Mr Shan Quan</p>
@@ -127,7 +126,7 @@ culture and instilling strong Moral Values.</p>
 <p>Mdm Lee Yin Yin&nbsp;</p>
 </li>
 <li>
-<p>Mr Ken Yeo</p>
+<p>Ms Wong Kin Yap</p>
 </li>
 <li>
 <p>Mdm Ng Lay Peng</p>
@@ -216,7 +215,7 @@ experience with positive take-away for students.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3 pupils
+<p>P5 pupils
 <br>
 </p>
 </td>
@@ -224,19 +223,19 @@ experience with positive take-away for students.
 </tbody>
 </table>
 <h2>Chinese New Year Celebration</h2>
-<p>Woodlands Ring Primary School celebrated Chinese New Year this year with
-pre-recorded performances shown in their classrooms on 31st January 2022.
-The concert started off with an interesting lion dance performance. Next,
-there was a video montage of teachers and students sending their well wishes
-to everyone. Following that, students had their snack break while enjoying
-Chinese New Year songs. Various CCAs also participated in the celebration
-and showcased their talents through different performances. Pupils were
-given the opportunity to record their performances from home and there
-was even a classroom visit by “God of Fortune” while the celebration was
-going on! After viewing the performances, the pupils got to learn more
-about Chinese New Year traditions and customs through a presentation and
-ended the day by engaging in fun-filled classroom activities led by their
-form teachers.</p>
+<p>Woodlands Ring Primary School celebrated Chinese New Year yearly. The
+concert started off</p>
+<p>with an interesting lion dance performance performed by our own students
+guided by our teachers and alumni students. Next, there was a video montage
+of teachers and students sending their well wishes to everyone. Various
+CCAs, parent support group and teachers also participated in the celebration
+and showcased their talents through different performances.</p>
+<p>There was even a visit by “God of Fortune”! After viewing the performances,
+the pupils got to learn more about Chinese New Year traditions and customs
+through fun-filled classroom activities led by their form teachers.</p>
+<p></p>
+<p></p>
+<p></p>
 <h2>National Calligraphy Competition</h2>
 <p>WRPS participated in the “Awe-Inspiring Virtue and Ocean of Wisdom” National
 Calligraphy Competition yearly. All primary 1 to primary 6 pupils had the
@@ -247,14 +246,7 @@ a proud moment for WRPS!</p>
 <p></p>
 <p></p>
 <h2></h2>
-<h2>Mid-Autumn Festival competitions</h2>
-<p>As part of the Chinese culture, Lantern Making and Drawing competitions
-was conducted to promote an interest and awareness of the Mid-Autumn Festival
-in pupils. We also aim to foster stronger parent-child relationship through
-the Lantern Making activity.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mid.png">
-</div>
+<h2></h2>
 <h2>MT Fortnight</h2>
 <p>The MT Fortnight aims to expose students in the understanding of their
 own culture and language through active participation in a variety of activities
@@ -278,7 +270,7 @@ planned for them.</p>
 the Cultural Performance Exposure Scheme (CPES) aims to expose students
 to Chinese language-related cultural performances by local performing art
 groups, through attending musical stage play.</p>
-<p><strong>Learning journey to SOTA for Chinese Cultural theatre experience.</strong>
+<p><strong>Learning journey for Chinese Cultural theatre experience.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mt5.png">
@@ -286,7 +278,7 @@ groups, through attending musical stage play.</p>
 <h2>Hooked on Reading (for all levels)</h2>
 <p>-&nbsp;&nbsp; &nbsp;Cultivate the love for reading.</p>
 <p>-&nbsp;&nbsp; &nbsp;Expose our pupils to storybooks of different genres.</p>
-<p>-&nbsp;&nbsp; &nbsp;Bi-weekly class reading time and scheduled visit to
+<p>-&nbsp;&nbsp; &nbsp;Periodic class reading time and scheduled visit to
 school library.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mt6.png">
