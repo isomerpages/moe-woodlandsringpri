@@ -78,7 +78,6 @@ culture and instilling strong Moral Values.</p>
 <p>Mdm Liang Gui Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>LT / CL</p>
 </td>
 </tr>
