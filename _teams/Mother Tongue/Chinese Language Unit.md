@@ -234,7 +234,15 @@ the pupils got to learn more about Chinese New Year traditions and customs
 through fun-filled classroom activities led by their form teachers.</p>
 <p></p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese MT/Group2_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese MT/Group2_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese MT/Group2_3.jpg">
+</div>
 <h2>National Calligraphy Competition</h2>
 <p>WRPS participated in the “Awe-Inspiring Virtue and Ocean of Wisdom” National
 Calligraphy Competition yearly. All primary 1 to primary 6 pupils had the
@@ -244,25 +252,43 @@ submitted the greatest number of entries for this competition. It was indeed
 a proud moment for WRPS!</p>
 <p></p>
 <p></p>
-<h2></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese MT/Group1.jpg">
+</div>
 <h2></h2>
 <h2>MT Fortnight</h2>
 <p>The MT Fortnight aims to expose students in the understanding of their
 own culture and language through active participation in a variety of activities
 and programmes on a yearly basis for all levels.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mt1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese MT/Group3_1.jpg">
 </div>
-<p>MT Fortnight (CL)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mt3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese MT/Group3_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese MT/Group3_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese MT/Group3_4.jpg">
 </div>
 <h2>P4 Cultural Fiesta</h2>
 <p>The P4 pupils experience a wonderful cross cultural half-day programme
 through various multicultural traditional activities and hands-on tasks
 planned for them.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mt4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese MT/Group4_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese MT/Group4_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese MT/Group4_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese MT/Group4_4.jpg">
 </div>
 <h2>Cultural Performance Exposure Scheme (CPES)</h2>
 <p>An initiative by the Committee to Promote Chinese Language Learning (CPCLL),
