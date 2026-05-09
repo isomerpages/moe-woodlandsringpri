@@ -177,11 +177,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Mr Ahmad Tarmizi</strong>
+<p><strong>Ms Tan Yan Lin</strong>
 </p>
 </li>
 <li>
-<p><strong>Ms Tan Yan Lin</strong>
+<p><strong>Mr Shabeer</strong>
 </p>
 </li>
 </ul>
@@ -190,10 +190,6 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Mr Habib Rahman</strong>
-</p>
-</li>
-<li>
-<p><strong>Mr Vishnu</strong>
 </p>
 </li>
 <li>
@@ -206,26 +202,8 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Our Students in Active Action</h2>
-<p><strong>HEALTHY EAGLES DIGEST</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eagles.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pe2.png">
-</div>
-<h2><strong>OUR NEIGHBOURHOOD EXPERIENCE</strong></h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pe3.png">
-</div>
-<p><strong>SpA WEEK</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spa1.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spa2.png">
-</div>
+<h2></h2>
+<p></p>
 <p></p>
