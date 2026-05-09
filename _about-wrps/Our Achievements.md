@@ -65,7 +65,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2) Innergy Award 2025 </strong>
+<p><strong>2) Innergy Award 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,7 +82,7 @@ Teaching) – Mrs Selva, Mdm Queenie Huang</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3) Frank Cooper Sands Award 2025 </strong>
+<p><strong>3) Frank Cooper Sands Award 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,7 +121,7 @@ Teaching) – Mrs Selva, Mdm Queenie Huang</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6) 3 Acts of Goodness Painting Competition 2025 (3 Acts of Goodness Award) </strong>
+<p><strong>6) 3 Acts of Goodness Painting Competition 2025 (3 Acts of Goodness Award)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -134,7 +134,7 @@ Teaching) – Mrs Selva, Mdm Queenie Huang</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>7) 3 Acts of Goodness Painting Competition 2025 (Active Participation School Award) </strong>
+<p><strong>7) 3 Acts of Goodness Painting Competition 2025 (Active Participation School Award)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -147,7 +147,7 @@ Teaching) – Mrs Selva, Mdm Queenie Huang</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>8) North West Outstanding All-Rounder Student (OARS) Award 2025 </strong>
+<p><strong>8) North West Outstanding All-Rounder Student (OARS) Award 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
