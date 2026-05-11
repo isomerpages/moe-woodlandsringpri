@@ -18,25 +18,23 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <h4><strong>2026</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-</td>
+<p></p>
+</th>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p>1) North West Outstanding All-Rounder Student (OARS) Award 2026</p>
-</th>
-<th rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Jacob Anthony Didonato (6R) and Teng Mei Yuan Christabelle Evelyn (6V)</strong>
+<td rowspan="1" colspan="1">
+<p><strong>1) North West Outstanding All-Rounder Student (OARS) Award 2026</strong>
 </p>
-</li>
-</ul>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jacob Antony Didonato (6R)</p>
+<p>Teng Mei Yuan Christabelle Evelyn (6V)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
