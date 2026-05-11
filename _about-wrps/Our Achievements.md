@@ -32,8 +32,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jacob Antony Didonato (6R)</p>
-<p>Teng Mei Yuan Christabelle Evelyn (6V)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jacob Antony Didonato (6R) and Teng Mei Yuan Christabelle Evelyn (6V)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
