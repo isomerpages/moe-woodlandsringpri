@@ -57,17 +57,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>HOD, ICT and Innovation</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Chan Pei Kee</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>ICT Coordinator</strong>
+<p><strong>SH, ICT and Innovation</strong>
 </p>
 </td>
 </tr>
@@ -115,9 +105,6 @@ variant: tiptap
 <p>Ms Wong Kin Yap</p>
 </li>
 <li>
-<p>Mdm Lee Shu Qi</p>
-</li>
-<li>
 <p>Mr Adli</p>
 </li>
 <li>
@@ -152,7 +139,7 @@ variant: tiptap
 <p>Mr Sahalif (Desktop Engineer)</p>
 </li>
 <li>
-<p>Mr Zico (Desktop Engineer)</p>
+<p>Mr Sreetharan (Desktop Engineer)</p>
 </li>
 </ul>
 </td>
