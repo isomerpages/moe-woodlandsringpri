@@ -7,7 +7,7 @@ variant: tiptap
 <h1>Our Achievements</h1>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/accolades.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/accolades.png">
 </div>
 <h4></h4>
 <h4><strong>Woodlands Ring Primary School is proud to receive the following awards:</strong></h4>
