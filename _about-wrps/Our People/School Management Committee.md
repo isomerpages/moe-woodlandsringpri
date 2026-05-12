@@ -97,7 +97,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>ENGLISH DEPARTMENT</strong></h4>
+<h4><strong>ENGLISH TEAM</strong></h4>
 </th>
 </tr>
 <tr>
@@ -142,7 +142,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>MATHEMATICS DEPARTMENT</strong></h4>
+<h4><strong>MATHEMATICS TEAM</strong></h4>
 </th>
 </tr>
 <tr>
@@ -184,7 +184,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>SCIENCE DEPARTMENT</strong></h4>
+<h4><strong>SCIENCE TEAM</strong></h4>
 </th>
 </tr>
 <tr>
@@ -222,7 +222,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
-<h4><strong>MOTHER TONGUE DEPARTMENT</strong></h4>
+<h4><strong>MOTHER TONGUE TEAM</strong></h4>
 </th>
 </tr>
 <tr>
@@ -277,7 +277,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>PHYSICAL EDUCATION, CCA &amp; AESTHETICS DEPARTMENT</strong></h4>
+<h4><strong>PHYSICAL EDUCATION, CCA &amp; AESTHETICS TEAM</strong></h4>
 </th>
 </tr>
 <tr>
@@ -308,7 +308,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>ICT/ INNOVATION DEPARTMENT</strong></h4>
+<h4><strong>ICT/ INNOVATION TEAM</strong></h4>
 </th>
 </tr>
 <tr>
@@ -373,7 +373,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>STUDENT MANAGEMENT DEPARTMENT</strong></h4>
+<h4><strong>STUDENT MANAGEMENT TEAM</strong></h4>
 </td>
 </tr>
 <tr>
