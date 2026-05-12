@@ -109,9 +109,6 @@ enjoyable.</p>
 </li>
 <li>
 <p>Mdm Siti Zaleha Warti</p>
-</li>
-<li>
-<p>Mdm Nurhumairah Mohd Akip</p>
 <p></p>
 </li>
 </ul>
@@ -317,37 +314,49 @@ the exposure of theater and drama performances.</p>
 </table>
 <h3>Mother Tongue Fortnight 2024</h3>
 <p></p>
-<h2>Student Achievements</h2>
-<table style="minWidth: 25px">
+<h4>Student Achievements</h4>
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<h4>Piala Cendekia Sahibba 2024</h4>
-</th>
+<td rowspan="1" colspan="1">
+<h4><strong>2025</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>3rd Prize</h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>Nur Ehsan Bin Sofian</p>
-</li>
-<li>
-<p>Rifky Danish Alkautsar Bin Norashidi</p>
-</li>
-<li>
-<p>Nur Sarah Eryna Binte Mohamed Nazri</p>
-</li>
-<li>
-<p>Qisya Aqeela Binte Mohammad Iskandar</p>
-</li>
-<li>
-<p>Chua Muhammad Syafiq Idafi Bin Syafidi</p>
-</li>
-</ol>
+<p><strong>1) NUSA Saya Boleh Mengarang </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver - Iszzayani Humairah Binte Mohamed Iskandar</p>
+<p>Bronze - Mohammad Adam Bin Mohammad Raziz</p>
+<p>Bronze - Nur Tyara Sofeaa Binti Mohamad Aimie</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2) NUSA Saya Boleh Bercerita</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold With Honors - Khalif Fahd Bin Faisiel Bagarib –</p>
+<p>Silver - Lutfil Hadi Bin Zuhaidi –</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
