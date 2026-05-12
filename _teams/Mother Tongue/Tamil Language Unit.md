@@ -289,8 +289,9 @@ rounds where students compete for the championship.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -298,19 +299,16 @@ rounds where students compete for the championship.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Spelling Bee 2024 (தமிழோடு விளையாடு)</p>
+<h4><strong>2026</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Semi Finalists:</u>
-</p>
-<p>Daniel Suresh Chris Kevin</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shankar Lakshana</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muthukumar Pranika</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selvakumar Sirisjeth</p>
-<p>Pritvi Teja</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -322,20 +320,37 @@ rounds where students compete for the championship.</p>
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p><strong>Spelling Bee 2026 (தமிழோடு விளையாடு)</strong>
 <br>
 <br>
 </p>
-<p>Spelling Bee 2024 (தமிழோடு விளையாடு)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Semi Finalists:</u>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Daniel Suresh Chris Kevin</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shankar Lakshana</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muthukumar Pranika</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selvakumar Sirisjeth</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pritvi Teja</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Karthikeyan Sudharman</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prabakaran Yeswanth</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arunprasad Tharkuzhali</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maresswaran Vibisha</p>
+<p>Sivakumar Takshaya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<h4><strong>2025</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -343,78 +358,21 @@ rounds where students compete for the championship.</p>
 <p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp; Muthamizh vizha 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>Partcipation:</u>
+<p><strong>&nbsp;Spelling Bee 2025 (தமிழோடு விளையாடு)</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rajan Vishara Murph&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arun Prasad Tharkuzhali&nbsp;</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prabhakaran Revan</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Karuppasamy Darshan</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Karthigayan Murugayan</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pritvi Teja</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Avvaiyar Vizha 2024</p>
+<p><u>Finalists:</u>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Daniel Suresh Chris Kevin</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shankar Lakshana</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vijayakumar Mahisha</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Karthikeyan Sudharman</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prabakaran Yeswanth</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>First Prize:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vijaya Kumar Mahisha&nbsp;</p>
-<p>Second Prize</p>
-<p>Selvakumar Srisjeth</p>
-<p>Third Prize</p>
-<p>Shankar Lakshana</p>
-<p>&nbsp;</p>
-<p>Motivational Prize:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sowmitha Ramesh</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Johny Vinoth Naethan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Tirukkural Vizha 2024&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vivek Selvam Sathvika Sree –2<sup>nd</sup> prize</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vivek Selvam Sastik - Motivational
-Prize</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mareeswaran Vibisha –1<sup>st</sup> Prize</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ramesh Mahilini - 2<sup>nd </sup>Prize</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Karthikeyan Sudharman - &nbsp;
-1<sup>st</sup> Prize</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prabhakaran Yeswanth &nbsp; - &nbsp;Motivational
-Prize</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VijayaKumar Mahisha -&nbsp; 3<sup>rd</sup> Prize</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Bharathiyar&nbsp; Vizha literary competitions 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Third prize:&nbsp;</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vivek Selvam Sathvika Sree</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arun Prasad Tharkuzhali</p>
-<p>Motivational Prize:&nbsp;</p>
-<p>3. &nbsp; Vivek Selvam Sastik Vel</p>
-<p>4. &nbsp; Surendhaaren Dhanyatha</p>
-<p>5.Vijayan Mahashwin Hari</p>
-<p>6.Pritvi Teja</p>
-<p>Participation:</p>
-<p>7.Trishika Trella Kanthan</p>
-<p>8.Kannan Atiksha</p>
+<p></p>
 </td>
 </tr>
 </tbody>
