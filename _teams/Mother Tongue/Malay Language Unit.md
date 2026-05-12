@@ -331,7 +331,7 @@ the exposure of theater and drama performances.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1) NUSA Saya Boleh Mengarang </strong>
+<p><strong>1) NUSA Saya Boleh Mengarang</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
