@@ -190,10 +190,22 @@ by promoting the cultural richness found in each language.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Dept/MT_Fortnight__1_.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Dept/MT_Fortnight__2_.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Dept/MT_Fortnight__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Dept/MT_Fortnight__3_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Dept/MT_Fortnight__4_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Dept/MT_Fortnight__5_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Dept/MT_Fortnight__6_.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
