@@ -188,7 +188,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>English Department</h2>
+<h2>English Team</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
