@@ -10,13 +10,14 @@ variant: tiptap
 <p></p>
 <p></p>
 <h2>Introduction</h2>
-<p>WRPS Tamil unit aims to nurture our pupils’ love for Tamil Language and
-appreciate Indian culture and tradition by adopting various teaching strategies,
-activities and programmes. Through these pupils are effectively engaged
-in learning the language. We encourage our pupils to participate in internal
-and external competitions to stretch their abilities, to build up their
-confidence and to expose to challengers. TL Teachers are committed in providing
-holistic education to all pupils.</p>
+<p>WRPS’s Tamil unit aims to nurture pupils’ love for the Tamil language
+and to deepen their appreciation of Indian culture and traditions through
+varied teaching strategies, activities, and programmes. These approaches
+actively engage pupils in language learning. We encourage participation
+in internal and external competitions to stretch abilities, build confidence,
+and expose pupils to challenges. Tamil language teachers are committed
+to providing a holistic education for all pupils.</p>
+<p></p>
 <h2>Vision and Mission</h2>
 <table style="minWidth: 50px">
 <colgroup>
@@ -96,6 +97,14 @@ holistic education to all pupils.</p>
 <p>TL Teacher</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kavitha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TL Teacher</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Specific Programmes</h2>
@@ -125,16 +134,15 @@ holistic education to all pupils.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pongal Festival</p>
+<p><strong>Pongal Festival</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Tamil Unit celebrates Pongal festival with the pupils. This festival
-teaches pupils to understand the importance of harvesting and how harvest
-festivals are celebrated all over the world. It aims to provide a platform
-for pupils to celebrate the traditional festival and appreciate the richness
-of one’s culture.
-<br>
-</p>
+<p>The Tamil Unit celebrates the Pongal festival with pupils to teach the
+significance of harvesting and to show how harvest festivals are observed
+worldwide. The celebration provides a platform for pupils to engage with
+traditional customs and appreciate the richness of their culture.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All pupils
@@ -144,13 +152,15 @@ of one’s culture.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Deepavali</p>
+<p><strong>Deepavali</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Tamil Unit organizes Deepavali Celebration concert every year. It
-provides a platform for Indian and non-Indian pupils to celebrate the traditional
-festival and through the celebration, it helps to strengthen the racial
-harmony among all races.</p>
+<p>The Tamil Unit organizes an annual Deepavali celebration concert that
+brings together Indian and non-Indian pupils to honor the traditional festival.
+The event fosters cultural appreciation and strengthens racial harmony
+among all students.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All pupils
@@ -160,7 +170,7 @@ harmony among all races.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mother Tongue Fortnight
+<p><strong>Mother Tongue Fortnight </strong>
 <br>
 </p>
 </td>
@@ -175,8 +185,8 @@ commemorate the events.</p>
 <p></p>
 <p><strong>Competitions:</strong>
 </p>
-<p>Singing, Storytelling, Fance dress cum character portrayal, creative writing,
-advertisement, oratorical
+<p>Singing, Storytelling, Fancy dress cum character portrayal, creative writing,
+advertisement, oratorical and ICT based competitions.
 <br>
 </p>
 </td>
@@ -188,7 +198,8 @@ advertisement, oratorical
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P4 Cultural Fiesta</p>
+<p><strong>P4 Cultural Fiesta</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The P4 pupils experience a wonderful cross-cultural half-day programme
@@ -205,7 +216,8 @@ traditional activities planned for them.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hooked on Reading</p>
+<p><strong>Hooked on Reading</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Reading is the key for language learning, it benefits our pupils by enriching
@@ -220,12 +232,14 @@ Primary One to Six. In WRPS, we get pupils “Hooked on Reading”.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sutti Mayil</p>
+<p><strong>Sutti Mayil</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In order to instil the love of reading and keep our pupils interested
-in language based games. This programme is conducted for middle and upper
-primary.</p>
+<p>Sutti Mayil magazine reading for Primary 3–6 pupils features stories,
+word games, and engaging articles tailored to their level. The Tamil Language
+department uses the magazine periodically to run related activities that
+reinforce reading skills and stimulate interest in the language.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3–P6 pupils</p>
@@ -233,7 +247,8 @@ primary.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Reading Booklet</p>
+<p><strong>Reading Booklet</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This programme allows pupils to start the reading habit using the booklet
@@ -246,10 +261,15 @@ and get feedback on how to improve their reading skill.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Spelling Bee Competition</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The&nbsp;Mediacorp Vasantham Tamil Spelling Bee (Tamizhodu Villayadu)
+is&nbsp;a major annual competition in Singapore for primary school students,
+promoting Tamil language proficiency. Supported by the Tamil Language Learning
+Promotion Committee, the event involves primary schools, featuring intense
+rounds where students compete for the championship.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -269,8 +289,9 @@ and get feedback on how to improve their reading skill.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -278,19 +299,16 @@ and get feedback on how to improve their reading skill.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Spelling Bee 2024 (தமிழோடு விளையாடு)</p>
+<h4><strong>2026</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Semi Finalists:</u>
-</p>
-<p>Daniel Suresh Chris Kevin</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shankar Lakshana</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muthukumar Pranika</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selvakumar Sirisjeth</p>
-<p>Pritvi Teja</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -302,20 +320,37 @@ and get feedback on how to improve their reading skill.</p>
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p><strong>Spelling Bee 2026 (தமிழோடு விளையாடு)</strong>
 <br>
 <br>
 </p>
-<p>Spelling Bee 2024 (தமிழோடு விளையாடு)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Semi Finalists:</u>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Daniel Suresh Chris Kevin</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shankar Lakshana</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muthukumar Pranika</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selvakumar Sirisjeth</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pritvi Teja</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Karthikeyan Sudharman</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prabakaran Yeswanth</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arunprasad Tharkuzhali</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maresswaran Vibisha</p>
+<p>Sivakumar Takshaya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<h4><strong>2025</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -323,78 +358,21 @@ and get feedback on how to improve their reading skill.</p>
 <p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp; Muthamizh vizha 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>Partcipation:</u>
+<p><strong>&nbsp;Spelling Bee 2025 (தமிழோடு விளையாடு)</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rajan Vishara Murph&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arun Prasad Tharkuzhali&nbsp;</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prabhakaran Revan</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Karuppasamy Darshan</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Karthigayan Murugayan</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pritvi Teja</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Avvaiyar Vizha 2024</p>
+<p><u>Finalists:</u>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Daniel Suresh Chris Kevin</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shankar Lakshana</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vijayakumar Mahisha</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Karthikeyan Sudharman</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prabakaran Yeswanth</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>First Prize:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vijaya Kumar Mahisha&nbsp;</p>
-<p>Second Prize</p>
-<p>Selvakumar Srisjeth</p>
-<p>Third Prize</p>
-<p>Shankar Lakshana</p>
-<p>&nbsp;</p>
-<p>Motivational Prize:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sowmitha Ramesh</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Johny Vinoth Naethan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Tirukkural Vizha 2024&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vivek Selvam Sathvika Sree –2<sup>nd</sup> prize</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vivek Selvam Sastik - Motivational
-Prize</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mareeswaran Vibisha –1<sup>st</sup> Prize</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ramesh Mahilini - 2<sup>nd </sup>Prize</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Karthikeyan Sudharman - &nbsp;
-1<sup>st</sup> Prize</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prabhakaran Yeswanth &nbsp; - &nbsp;Motivational
-Prize</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VijayaKumar Mahisha -&nbsp; 3<sup>rd</sup> Prize</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Bharathiyar&nbsp; Vizha literary competitions 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Third prize:&nbsp;</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vivek Selvam Sathvika Sree</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arun Prasad Tharkuzhali</p>
-<p>Motivational Prize:&nbsp;</p>
-<p>3. &nbsp; Vivek Selvam Sastik Vel</p>
-<p>4. &nbsp; Surendhaaren Dhanyatha</p>
-<p>5.Vijayan Mahashwin Hari</p>
-<p>6.Pritvi Teja</p>
-<p>Participation:</p>
-<p>7.Trishika Trella Kanthan</p>
-<p>8.Kannan Atiksha</p>
+<p></p>
 </td>
 </tr>
 </tbody>

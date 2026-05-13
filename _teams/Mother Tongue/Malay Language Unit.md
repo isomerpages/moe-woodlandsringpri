@@ -109,9 +109,6 @@ enjoyable.</p>
 </li>
 <li>
 <p>Mdm Siti Zaleha Warti</p>
-</li>
-<li>
-<p>Mdm Nurhumairah Mohd Akip</p>
 <p></p>
 </li>
 </ul>
@@ -159,7 +156,7 @@ enjoyable.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hari Raya Celebration
+<p><strong>Hari Raya Celebration </strong>
 <br>
 </p>
 </td>
@@ -179,7 +176,7 @@ races.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mother Tongue Fortnight
+<p><strong>Mother Tongue Fortnight </strong>
 <br>
 </p>
 </td>
@@ -190,6 +187,26 @@ work to painting. There are also competitions customized at various levels.</p>
 <p>Through the MT Fortnight, the school aims to create an engaging environment
 in which the learning of Chinese, Malay and Tamil are made more meaningful
 by promoting the cultural richness found in each language.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Dept/MT_Fortnight__1_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Dept/MT_Fortnight__2_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Dept/MT_Fortnight__3_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Dept/MT_Fortnight__4_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Dept/MT_Fortnight__5_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Dept/MT_Fortnight__6_.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>All Pupils
@@ -199,7 +216,7 @@ by promoting the cultural richness found in each language.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P4 Cultural Fiesta
+<p><strong>P4 Cultural Fiesta</strong> 
 <br>
 </p>
 </td>
@@ -221,7 +238,7 @@ tasks.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pakej Karangan
+<p><strong>Pakej Karangan</strong> 
 <br>
 </p>
 </td>
@@ -239,7 +256,7 @@ can write coherently and creatively.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pakej Kefahaman
+<p><strong>Pakej Kefahaman</strong> 
 <br>
 </p>
 </td>
@@ -258,8 +275,7 @@ component.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Conversational Chinese Language (CCL) and Conversational Malay Language
-(CML) Programme
+<p><strong>Conversational Chinese Language (CCL) and Conversational Malay Language (CML) Programme </strong>
 <br>
 </p>
 </td>
@@ -283,7 +299,7 @@ Asia and the Middle-East.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hooked on Reading
+<p><strong>Hooked on Reading </strong>
 <br>
 </p>
 </td>
@@ -302,7 +318,8 @@ themes from Primary One to Six. In WRPS, we get pupils “Hooked on Reading”.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay Cultural Performances</p>
+<p><strong>Malay Cultural Performances</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Making the learning of Malay language come alive for students through
@@ -313,69 +330,111 @@ the exposure of theater and drama performances.</p>
 <p>All pupils</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Malay Hooked on Reading Materials</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>“Mari Membaca” is one of the reading materials used in the Hooked on Reading
+programme</p>
+<p>to expose students to a wider variety of reading materials. Through engaging
+articles and</p>
+<p>activities, the magazine nurtures creativity, encourages critical thinking,
+and supports</p>
+<p>students in developing a greater interest in reading and the Malay Language.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Dept/HOR_Mari_Membaca_Magazines__1_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Dept/HOR_Mari_Membaca_Magazines__2_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<h3>Mother Tongue Fortnight 2024</h3>
+<h3></h3>
 <p></p>
-<h2>Student Achievements</h2>
-<table style="minWidth: 25px">
+<h4><strong>Student Achievements</strong></h4>
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<h4>Piala Cendekia Sahibba 2024</h4>
-</th>
+<td rowspan="1" colspan="1">
+<h4><strong>2025</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>3rd Prize</h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>Nur Ehsan Bin Sofian</p>
-</li>
-<li>
-<p>Rifky Danish Alkautsar Bin Norashidi</p>
-</li>
-<li>
-<p>Nur Sarah Eryna Binte Mohamed Nazri</p>
-</li>
-<li>
-<p>Qisya Aqeela Binte Mohammad Iskandar</p>
-</li>
-<li>
-<p>Chua Muhammad Syafiq Idafi Bin Syafidi</p>
-</li>
-</ol>
+<p><strong>1) NUSA Saya Boleh Mengarang</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver - Iszzayani Humairah Binte Mohamed Iskandar</p>
+<p>Bronze - Mohammad Adam Bin Mohammad Raziz</p>
+<p>Bronze - Nur Tyara Sofeaa Binti Mohamad Aimie</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2) NUSA Saya Boleh Bercerita</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold With Honours - Khalif Fahd Bin Faisiel Bagarib</p>
+<p>Silver - Lutfil Hadi Bin Zuhaidi –</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>3) Lensa Si Cilik</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver - Noor Hana Qaniah Binte Noor Hidayat</p>
+<p>Silver - Nur Qistina Binte Luqman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>4) EDN Karya Minda Kreatif</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver - Izzan Zayan Bin Mohamed Yazmil</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>5) Juara Si Cilik</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd - Tengku Ayra Rhyeanna Binte Tengku Rehaizat</p>
+<p>Participation - Nur Raissa Alisha Binte Abdullah -</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h4>EDN Karya Minda Kreatif 2024</h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>Nurin Rabiattul Adawiyah Binte Sahari - Silver</p>
-</li>
-<li>
-<p>Muhammad Adlyn Afi Bin Muhammad Shahiran - Silver</p>
-</li>
-</ol>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p></p>
