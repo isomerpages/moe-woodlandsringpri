@@ -187,6 +187,14 @@ work to painting. There are also competitions customized at various levels.</p>
 <p>Through the MT Fortnight, the school aims to create an engaging environment
 in which the learning of Chinese, Malay and Tamil are made more meaningful
 by promoting the cultural richness found in each language.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Dept/MT_Fortnight__2_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Dept/MT_Fortnight__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>All Pupils
