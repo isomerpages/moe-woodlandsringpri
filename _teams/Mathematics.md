@@ -133,7 +133,7 @@ and;</p>
 </tr>
 </tbody>
 </table>
-<h2>Mathematics Department</h2>
+<h2>Mathematics Team</h2>
 <p>|</p>
 <table style="minWidth: 50px">
 <colgroup>
