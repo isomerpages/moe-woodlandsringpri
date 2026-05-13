@@ -116,7 +116,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>Physical Education Department</h2>
+<h2>Physical Education Team</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -181,7 +181,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Mr Shabeer</strong>
+<p><strong>Mr Sabir</strong>
 </p>
 </li>
 </ul>
