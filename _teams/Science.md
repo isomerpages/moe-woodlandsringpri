@@ -49,7 +49,7 @@ in the subject, and will do their best.</p>
 </tr>
 </tbody>
 </table>
-<h2>Science Department</h2>
+<h2>Science Team</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
