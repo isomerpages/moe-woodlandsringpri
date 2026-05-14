@@ -41,6 +41,17 @@ the students to uphold certain standards of dress code and behaviour.**
 	• The school uniform must be well fitting and to be worn in the proper manner whenever a student comes to school and at all school-related activities (these include those held during the school vacation or outside the school premise).
 	• Students must adhere to the guidelines on acceptable hairstyle, attire and footwear for school-related activities.
 	• Male students must be clean-shaven and neat in appearance.
+	
+	
+#### **Anti-Bullying Policy**
+	• WRPS adopts a zero-tolerance approach to bullying in all forms.
+	• Bullying is defined as the deliberate and repeated behavior that causes physical, emotional and/ or psychological harm.
+	• No one should be bullied and no one should engage in any form of bullying behavior.
+	• Students and parents may report bullying directly to teachers, counsellor or our school leaders.
+	• All reports will be taken seriously and handled appropriately.
+
+For details on the school's anti bullying policy refer to the school's website.
+https://www.woodlandsringpri.moe.edu.sg/policy-and-guidelines/
 
 School Uniform
 --------------
