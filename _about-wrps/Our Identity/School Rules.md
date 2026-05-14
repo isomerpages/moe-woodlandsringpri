@@ -51,7 +51,7 @@ the students to uphold certain standards of dress code and behaviour.**
 	• All reports will be taken seriously and handled appropriately.
 
 For details on the school's anti bullying policy refer to the school's website.
-https://www.woodlandsringpri.moe.edu.sg/policy-and-guidelines/
+[Click this link](https://www.woodlandsringpri.moe.edu.sg/policy-and-guidelines/)
 
 School Uniform
 --------------
