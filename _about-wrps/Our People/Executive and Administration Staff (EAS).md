@@ -80,8 +80,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
@@ -90,50 +91,46 @@ variant: tiptap
 <p><strong>Operation Support</strong>
 </p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Operation Manager" src="/images/Staff/Mr_Adam_Goh__Operation_Manager_.jpg">
 </div>
 <p></p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Staff/13__Mr_Lim_Kin_Leng__Operation_Support_Officer_.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 69%;" height="auto" width="100%" alt="" src="/images/Staff/12__Mdm_Rokiah_Bte_Mohamad__Operation_Support_Officer_.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Staff/Tan_Ah_Moi_HQ.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Staff/NORYATI_BTE_ABDULLAH_HQ.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Staff/Mr_Nicholas_Sarjeev_Kunalan.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/13__Mr_Lim_Kin_Leng__Operation_Support_Officer_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 72%;" height="auto" width="100%" alt="" src="/images/Staff/12__Mdm_Rokiah_Bte_Mohamad__Operation_Support_Officer_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Staff/Tan_Ah_Moi_HQ.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staff/NORYATI_BTE_ABDULLAH_HQ.jpg">
+</div>
 </td>
 </tr>
 </tbody>
