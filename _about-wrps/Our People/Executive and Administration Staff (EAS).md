@@ -27,7 +27,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg">
+<img style="width: 32%;" height="auto" width="100%" alt="Administrative Manager" src="/images/Staff/mdm%20siu%20lai%20kiu.jpg">
 </div>
 </td>
 </tr>
@@ -129,7 +129,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staff/NORYATI_BTE_ABDULLAH_HQ.jpg">
+<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/Staff/NORYATI_BTE_ABDULLAH_HQ.jpg">
 </div>
 </td>
 </tr>
