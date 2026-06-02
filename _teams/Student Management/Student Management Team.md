@@ -73,9 +73,6 @@ variant: tiptap
 <p>Ms Fong Wui Yen</p>
 </li>
 <li>
-<p>Mdm Nurhumairah</p>
-</li>
-<li>
 <p>Mdm Noriati</p>
 </li>
 <li>
