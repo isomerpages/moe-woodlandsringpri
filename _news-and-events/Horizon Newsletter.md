@@ -9,5 +9,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Horizon/wrps_horizon_header_16c1747e.jpg">
 </div>
+<p>Click on the link below to read The Horizon Newsletter.</p>
 <h3><a href="http://www.wrpsthehorizon.com" rel="noopener nofollow" target="_blank">WRPS Horizon Newsletter</a></h3>
 <p></p>
