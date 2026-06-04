@@ -58,7 +58,7 @@ variant: tiptap
 <p>Mdm Queenie Huang (YH)</p>
 </li>
 <li>
-<p>Mdm Renugga (YH)</p>
+<p>Mr Vikneswaran (YH)</p>
 </li>
 <li>
 <p>Mdm Noordiana</p>
@@ -73,22 +73,19 @@ variant: tiptap
 <p>Ms Fong Wui Yen</p>
 </li>
 <li>
-<p>Mdm Nurhumairah</p>
-</li>
-<li>
 <p>Mdm Noriati</p>
 </li>
 <li>
-<p>Mr Matthew John</p>
-</li>
-<li>
-<p>Mr Arulchandran</p>
+<p>Mdm Teo Sok Eng (Senior SENO)</p>
 </li>
 <li>
 <p>Mr Edward (SENO)</p>
 </li>
 <li>
 <p>Ms Siti Nuraisyah (SENO)</p>
+</li>
+<li>
+<p>Miss Nurul Amira (SENO)</p>
 <p></p>
 </li>
 </ul>
@@ -96,16 +93,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Tan S Y</p>
+<p>Mr Chua C. C.</p>
 </li>
 <li>
 <p>Ms Yeow S L</p>
-</li>
-<li>
-<p>Mdm Nurmala</p>
-</li>
-<li>
-<p>Mdm Lin Lu</p>
 </li>
 <li>
 <p>Mdm Mah W M</p>
@@ -126,10 +117,20 @@ variant: tiptap
 <p>Ms Elfi Hairulniza</p>
 </li>
 <li>
-<p>Mdm Teo Sok Eng (SENO)</p>
+<p>Mr Matthew John</p>
 </li>
 <li>
-<p>Mdm Annu (SSC)</p>
+<p>Mr Rizal</p>
+</li>
+<li>
+<p>Mr Joel Tan</p>
+</li>
+<li>
+<p>Mdm Annu (Senior SSC)</p>
+</li>
+<li>
+<p>Mr Kunalan (OM Discipline)</p>
+<p></p>
 </li>
 </ul>
 </td>

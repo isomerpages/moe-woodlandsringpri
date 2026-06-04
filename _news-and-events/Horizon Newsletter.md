@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<h2>The Horizon 2025</h2>
-<h3><a href="http://www.wrpsthehorizon.com" rel="noopener nofollow" target="_blank">Horizon 2025</a></h3>
+<h2></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Horizon/wrps_horizon_header_16c1747e.jpg">
+</div>
+<p>Click on the link below to read The Horizon Newsletter.</p>
+<h3><a href="http://www.wrpsthehorizon.com" rel="noopener nofollow" target="_blank">WRPS Horizon Newsletter</a></h3>
 <p></p>
