@@ -24,6 +24,12 @@ of preserving traditional crafts. The visit helped students appreciate
 craftsmanship, history, and the value of supporting local communities and
 traditions.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/Intro_Picture_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/Intro_Picture_1.jpg">
+</div>
 <p><strong>Bat Trang Ceramic Village</strong>
 </p>
 <p>The students visited Bát Tràng Ceramic Village to explore Vietnam’s famous
@@ -33,6 +39,15 @@ and experienced hands-on pottery activities. The visit encouraged creativity,
 cultural appreciation, and a better understanding of Vietnam’s rich artistic
 heritage.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/Bat_Trang_Ceramic_Village_Picture1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/Bat_Trang_Ceramic_Village_Picture2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/Bat_Trang_Ceramic_Village_Picture3.jpg">
+</div>
 <p><strong>Hong Ngoc or Dai Viet Fine Art. (Vietnamese Egg Shell Lacquerware Gallery)</strong>
 </p>
 <p>The students visited Hong Ngoc Fine Art and Dai Viet Fine Art to learn
