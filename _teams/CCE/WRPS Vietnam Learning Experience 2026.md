@@ -57,6 +57,10 @@ and discovered the cultural significance behind lacquer painting. The visit
 inspired creativity and deepened their appreciation for Vietnam’s artistic
 heritage and craftsmanship.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/Hong_Ngoc_or_Dai_Viet_Fine_Art_Picture1.jpg">
+</div>
+<p></p>
 <p><strong>BAN MAI SCHOOL</strong>
 </p>
 <p>The students visited Ban Mai School to interact with local students and
@@ -65,6 +69,22 @@ games, and group discussions, they built friendships and learned about
 different educational practices. The visit encouraged communication, teamwork,
 and mutual understanding while helping students appreciate cultural diversity
 and global connections.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/BAN_MAI_SCHOOL_Picture1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/BAN_MAI_SCHOOL_Picture2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/BAN_MAI_SCHOOL_Picture3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/BAN_MAI_SCHOOL_Picture4.jpg">
+</div>
 <p></p>
 <p><strong>VIETNAM-AUSTRALIA SCHOOL (VAS)</strong>
 </p>
@@ -75,6 +95,30 @@ communication and teamwork skills. The visit also helped students build
 friendships, gain global awareness, and appreciate similarities and differences
 between schools in Singapore and Vietnam.</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/VIETNAM_AUSTRALIA_SCHOOL__VAS__Picture1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/VIETNAM_AUSTRALIA_SCHOOL__VAS__Picture2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/VIETNAM_AUSTRALIA_SCHOOL__VAS__Picture3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/VIETNAM_AUSTRALIA_SCHOOL__VAS__Picture4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/VIETNAM_AUSTRALIA_SCHOOL__VAS__Picture5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/VIETNAM_AUSTRALIA_SCHOOL__VAS__Picture6.jpg">
+</div>
 <p><strong>SIGHT-SEEING (CULTURAL)</strong>
 </p>
 <p>The students took part in cultural sightseeing around Hanoi to explore
@@ -84,6 +128,35 @@ of Vietnamese heritage and daily life. The experience broadened their perspectiv
 encouraged curiosity, and strengthened their appreciation for different
 cultures and communities.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/SIGHT_SEEING__CULTURAL__Picture1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/SIGHT_SEEING__CULTURAL__Picture2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/SIGHT_SEEING__CULTURAL__Picture3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/SIGHT_SEEING__CULTURAL__Picture4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/SIGHT_SEEING__CULTURAL__Picture5.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/SIGHT_SEEING__CULTURAL__Picture6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/SIGHT_SEEING__CULTURAL__Picture7.jpg">
+</div>
+<p></p>
 <p><strong>FOOD</strong>
 </p>
 <p>The students experienced Vietnamese food culture in Hanoi by tasting traditional
@@ -92,3 +165,12 @@ foods, they discovered unique flavours, ingredients, and cooking styles
 that reflect Vietnam’s rich heritage. The experience encouraged openness
 to new experiences and helped students appreciate cultural diversity through
 food and shared meals.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/FOOD_Picture1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/FOOD_Picture2.jpg">
+</div>
+<p></p>
