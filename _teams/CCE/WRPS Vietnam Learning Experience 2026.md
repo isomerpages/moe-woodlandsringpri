@@ -14,7 +14,14 @@ During the trip, they built teamwork and independence while exploring historical
 landmarks, tasting local food, and interacting with local communities.
 The journey also helped them develop confidence, friendships, and a deeper
 appreciation for different cultures.</p>
-<p><strong>Vạn Phúc Silk Village</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/Intro_Picture_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/Intro_Picture_2.jpg">
+</div>
+<p>
+<br><strong>Vạn Phúc Silk Village</strong>
 </p>
 <p>The students visited Vạn Phúc Silk Village to learn about Vietnam’s traditional
 silk-making industry and cultural heritage. They observed how skilled artisans
@@ -24,9 +31,6 @@ craftsmanship, history, and the value of supporting local communities and
 traditions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/Intro_Picture_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/Intro_Picture_1.jpg">
 </div>
 <p><strong>Bat Trang Ceramic Village</strong>
 </p>
