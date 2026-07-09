@@ -20,8 +20,7 @@ appreciation for different cultures.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/Intro_Picture_2.jpg">
 </div>
-<p>
-<br><strong>Vạn Phúc Silk Village</strong>
+<p><strong>Vạn Phúc Silk Village</strong>
 </p>
 <p>The students visited Vạn Phúc Silk Village to learn about Vietnam’s traditional
 silk-making industry and cultural heritage. They observed how skilled artisans
@@ -29,9 +28,6 @@ weave silk by hand, explored local shops, and discovered the importance
 of preserving traditional crafts. The visit helped students appreciate
 craftsmanship, history, and the value of supporting local communities and
 traditions.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/Intro_Picture_2.jpg">
-</div>
 <p><strong>Bat Trang Ceramic Village</strong>
 </p>
 <p>The students visited Bát Tràng Ceramic Village to explore Vietnam’s famous
@@ -60,7 +56,6 @@ heritage and craftsmanship.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/Hong_Ngoc_or_Dai_Viet_Fine_Art_Picture1.jpg">
 </div>
-<p></p>
 <p><strong>BAN MAI SCHOOL</strong>
 </p>
 <p>The students visited Ban Mai School to interact with local students and
@@ -78,11 +73,9 @@ and global connections.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/BAN_MAI_SCHOOL_Picture3.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/BAN_MAI_SCHOOL_Picture4.jpg">
 </div>
-<p></p>
 <p><strong>VIETNAM-AUSTRALIA SCHOOL (VAS)</strong>
 </p>
 <p>The students visited Vietnam-Australia School (Hanoi) to engage with local
@@ -139,7 +132,6 @@ cultures and communities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Vietnam/SIGHT_SEEING__CULTURAL__Picture7.jpg">
 </div>
-<p></p>
 <p><strong>FOOD</strong>
 </p>
 <p>The students experienced Vietnamese food culture in Hanoi by tasting traditional
