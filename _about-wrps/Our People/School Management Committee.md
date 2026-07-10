@@ -392,14 +392,20 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staff/MDM_AZLIFAH_BINTI_ALI.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/MDM_AZLIFAH_BINTI_ALI.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/MDM_VANESSA_RAJ_KUMAR.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Mdm_Mashita_Binte_Abdol_Rahman.jpg">
+</div>
 </td>
 </tr>
 </tbody>
