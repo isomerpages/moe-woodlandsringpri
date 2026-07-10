@@ -381,15 +381,36 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff/11__Mrs_Rita_Chew__HOD_CCE_.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staff/11__Mrs_Rita_Chew__HOD_CCE_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staff/MDM_AZLIFAH_BINTI_ALI.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staff/MDM_VANESSA_RAJ_KUMAR.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staff/Mdm_Mashita_Binte_Abdol_Rahman.jpg">
+</div>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
