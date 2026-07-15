@@ -8,7 +8,7 @@ variant: markdown
 Discipline Team
 ===============
 
-**Vision: Every pupil will be confident, gracious, upright and resilient individual who loves the family, school and nation.**
+**Vision: Every pupil will be a confident, gracious, upright and resilient individual who loves the family, school and nation.**
 
 School Rules
 ------------
